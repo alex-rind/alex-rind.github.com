@@ -1,0 +1,364 @@
+/* ****************************************************************************
+Stylesheet for website of Alex Rind
+ 
+credits go to:
+Eric Meyer http://css.maxdesign.com.au/listamatic/horizontal05.htm
+Jon Tan http://jontangerine.com/log/2007/09/the-incredible-em-and-elastic-layouts-with-css
+Roger Johansson http://www.456bereastreet.com/archive/200803/specify_a_maximum_width_for_embased_layouts/
+
+-------------------------------------------------------------------------------
+background: #5CA7CC 
+line color: #004363
+panel back: #1D5773
+panel skip: #87CBEB
+tab  other: #F8A23E
+tab   text: #25495A
+tab  hover: #FDBA6D
+tabcurrent: white
+h1-h6: #F7A23E
+ 
+**************************************************************************** */
+
+@CHARSET "ISO-8859-1";
+
+DIV#cskeytech-overlay-container {
+	display: none !important;
+}
+DIV#cskeytech-overlay-overlay  {
+	display: none !important;
+	width: 1px !important;
+}
+
+/* a few resets */
+html {
+	font-size: 100%;
+}
+
+/*
+blockquote,body,caption,div,dl,dt,dd,form,fieldset,h1,h2,h3,h4,h5,h6,html,li,ul,ol,p,pre,textarea,table,td,th {
+  margin: 0;
+  padding: 0
+}
+*/
+
+body {
+	font-size: 1em;
+	font-family: Verdana, Tahoma, Calibri, Arial, Helvetica, sans-serif;
+	/* font-family: georgia, serif; */
+	line-height: 1.2;
+	color: #333;
+/*	background-color: #5CA7CC; */
+	background: url(img/pattern-grey-blue.png);
+	width: 52em;
+	/*	min-width: 600px; */
+	max-width: 100%;
+	margin: 0.7em auto;
+	padding: 0;
+}
+
+/* *** structural parts *** */
+#logo_pane {
+	color: white;
+	background: #1D5773;
+	position: relative;
+	margin: 0;
+	padding: 3em 10em 1.5em 28px;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-top-right-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-topright: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+#logo_pane .prefix {
+	font-family: georgia, cambria, times, serif;
+	font-size: 0.8em;
+/*	line-height: 1.2; */
+}
+
+#logo_pane .name {
+	font-family: georgia, cambria, times, serif;
+	font-size: 1.6em;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+
+#skip {
+	position: absolute;
+	top: 1em;
+	right: 1em;
+	font-size: 68%;
+}
+
+#skip a:link, #skip a:visited {
+	color: #23698b;
+}
+
+#skip a:focus, #skip a:hover, #skip a:hover {
+	color: #FDBA6D;
+}
+
+#navlist {
+	padding: 3px 20px;
+	margin: 0;
+	border-bottom: 2px solid #004363;
+	font-size: 80%;
+	font-weight: bold;
+	background: #1D5773;
+}
+
+#navlist li {
+	list-style: none;
+	margin: 0;
+	display: inline;
+}
+
+#navlist li a {
+	padding: 3px 0.7em;
+	margin-left: 8px;
+	border: 1px solid #004363;
+	border-bottom: none;
+	background: #F8A23E;
+	text-decoration: none;
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+#navlist li a:link {
+	color: #25495A;
+}
+
+#navlist li a:visited {
+	color: #25495A;
+}
+
+#navlist li a:hover, #navlist li a:focus {
+	color: #000;
+	background: #FDBA6D;
+	border-color: #227;
+}
+
+#navlist li #current {
+	padding: 3px 0.7em;
+	margin-left: 8px;
+	border: 1px solid #004363;
+	text-decoration: none;
+	background: white;
+	border-bottom: 2px solid white;
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+#navlist li a.home {
+	background: url(img/home-icon5.png) center left no-repeat #F8A23E;
+	padding-left: 21px;
+}
+
+#navlist li a.home:hover {
+	background: url(img/home-icon5.png) center left no-repeat #FDBA6D;
+}
+
+#navlist li#currentpage a.home {
+	background: url(img/home-icon5.png) center left no-repeat white;
+	padding-left: 21px;
+}
+
+#main_pane {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 2em 28px 2em 28px;
+	background: white;
+	font-size: 0.8em;
+	line-height: 1.3;
+	font-family: Verdana, Tahoma, Calibri, Arial, Helvetica, sans-serif;
+}
+
+#bottom_pane {
+	font-size: 0.8em;
+	line-height: 1.2;
+	color: white;
+	background: #1D5773;
+	margin: 0;
+	padding: 0.3em 10em 0.4em 28px;
+	border-top: 1px solid #004363;
+	-webkit-border-bottom-left-radius: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	-moz-border-radius-bottomright: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+div#content {
+	padding-right: 30%;
+}
+
+div#side_pane {
+	float: right;
+	width: 25%;
+}
+
+ul.toc {
+	margin: 0 0 2em 0;
+	padding: 0;
+}
+
+ul.toc li {
+	list-style: none;
+	margin: 0;
+	line-height: 1.2;
+}
+
+ul.toc:before {
+	content: 'Sections:';
+	font-weight: bold;
+}
+
+img.photo {
+	margin: 0 0 1.5em 0;
+}
+
+address {
+	font-style: normal;
+	font-size: 0.7em;
+	line-height: 1.5;
+}
+
+address #fn {
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+#logo {
+	margin-top: 1.5em;
+}
+
+#logo a+a {
+	margin-left: 1.5em;
+}
+
+/* *** general styling *** */
+
+h1, h2, h3 {
+	color: #F7A23E;
+}
+
+h1 {
+	font-size: 1.6em;
+}
+
+h2 {
+	font-size: 1.5em;
+}
+
+h3 {
+	font-size: 1.4em;
+}
+
+h4 {
+	font-size: 1.3em;
+}
+
+h5 {
+	font-size: 1.2em;
+}
+
+h6 {
+	font-size: 1em;
+}
+
+a img {
+	border: 0;
+}
+
+div#main_pane a:link {
+	color: #013F78;
+	text-decoration: underline;
+}
+
+div#main_pane a:visited {
+	color: #002F58;
+	text-decoration: underline;
+}
+
+div#main_pane a:hover, div#main_pane a:focus {
+	color: #076Fa8;
+	text-decoration: underline;
+}
+
+div#main_pane a:active {
+	color: #013F78;
+	text-decoration: underline;
+}
+
+dd+dt {
+	margin-top: 0.5em;
+}
+
+/* *** special classes *** */
+
+a.external {
+	background: url(img/external.gif) center right no-repeat;
+	padding-right: 13px;
+}
+
+a.pdf {
+	background: url(img/pdficon_small.gif) center left no-repeat;
+	padding: 1px 0 2px 20px;
+	min-height: 18px;
+}
+
+a.mail {
+	background: url(img/email-grey.gif) center left no-repeat;
+	padding-left: 16px;
+}
+
+a.skype {
+	background: url(img/skype.gif) center left no-repeat;
+	padding-left: 18px;
+}
+
+a.top_link {
+	float: right;
+	font-size: 80%;
+}
+
+div#main_pane  a.top_link:link, div#main_pane  a.top_link:visited {
+	color: #999;
+}
+
+div#main_pane  a.top_link:focus, div#main_pane  a.top_link:hover {
+	color: #076Fa8;
+}
+
+p.org {
+	margin: 0px;
+}
+
+p.project {
+	margin: 0px;
+	font-weight: bold;
+}
+
+ul.horizontal {
+	padding: 0;
+	margin: 0;
+}
+
+ul.horizontal li {
+	list-style: none;
+	margin: 0 20px 0 0;
+	display: inline;
+}
+
+
+	
