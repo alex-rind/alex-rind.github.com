@@ -229,12 +229,12 @@ img.photo {
 
 address {
 	font-style: normal;
-	font-size: 0.7em;
+	font-size: 0.6em;
 	line-height: 1.5;
 }
 
 address #fn {
-	font-size: 1.2em;
+	font-size: 1.5em;
 	font-weight: bold;
 }
 
