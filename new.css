@@ -1,13 +1,13 @@
 /* ****************************************************************************
 Stylesheet for website of Alex Rind
- 
+
 credits go to:
 Eric Meyer http://css.maxdesign.com.au/listamatic/horizontal05.htm
 Jon Tan http://jontangerine.com/log/2007/09/the-incredible-em-and-elastic-layouts-with-css
 Roger Johansson http://www.456bereastreet.com/archive/200803/specify_a_maximum_width_for_embased_layouts/
 
 -------------------------------------------------------------------------------
-background: #5CA7CC 
+background: #5CA7CC
 line color: #004363
 panel back: #1D5773
 panel skip: #87CBEB
@@ -16,7 +16,7 @@ tab   text: #25495A
 tab  hover: #FDBA6D
 tabcurrent: white
 h1-h6: #F7A23E
- 
+
 **************************************************************************** */
 
 @CHARSET "ISO-8859-1";
@@ -361,4 +361,4 @@ ul.horizontal li {
 }
 
 
-	
+
