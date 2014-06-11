@@ -1,83 +1,18 @@
-<?xml version="1.0" encoding="iso-8859-15"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-  <title>research :: alexander rind</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15" />
-<!-- BEGIN links -->
-<meta name="author" content="Alexander Rind" />
-<link rel="stylesheet" title="default" type="text/css" href="new.css" media="screen,projection" />
-  <!--
-<link rel="alternate stylesheet" title="old" type="text/css" href="new-2.css" media="screen,projection" />
-<link rel="alternate stylesheet" title="old2" type="text/css" href="new-3.css" media="screen,projection" />
-<link rel="stylesheet" type="text/css" href="t-print.css" media="print" />
-	-->
-<script src="anti_harvest.js" type="text/javascript"></script>
-<!-- END links -->
-</head>
-<body>
-<!-- BEGIN head -->
-<div id="logo_pane">
-  <div id="skip"><a href="#content">Skip to main content</a></div>
-  <!-- <a href="index.php"><img alt="Interactive Visual Interfaces, Exploration, Time-oriented Data"
-    src="img/directions.png" height="90" width="90" /></a> -->
-  <div class="prefix">mag.</div>
-  <div class="name">Alexander Rind</div>
-</div>
-<div id="navcontainer">
-  <ul id="navlist">
-<li class="l1"><a href="index.html" class="home">Home</a></li>
-<li class="l1"><a href="about.html">About me</a></li>
-<li class="l1"><a href="publications.html">Publications</a></li>
-<li class="l1" id="currentpage"><a href="research.html" id="current">Research</a></li>
-<li class="l1"><a href="http://www.ifs.tuwien.ac.at/~rind/w/" class="external">Resources</a></li>
-  </ul>
-</div>
-<div id="main_pane">
-<!-- END head -->
-  <!-- start editable page -->
-  <h1>Projects</h1>
+---
+layout: default
+title: "research"
+longtitle: "Scientifc Research"
+mod-date: 2014-05-30
+---
 
-  <div id="side_pane">
-    <ul class="toc">
-    <li><a href="#funded">funded research projects</a></li>
-    <li><a href="#student">supervised student projects</a></li>
-    <li><a href="#reviewing">reviewing</a></li>
-    <li><a href="#events_organized">conference and workshop organization</a></li>
-    </ul>
+<ul class="toc">
+<li><a href="#funded">funded research projects</a></li>
+<li><a href="#student">supervised student projects</a></li>
+<li><a href="#reviewing">reviewing</a></li>
+<li><a href="#events_organized">conference and workshop organization</a></li>
+</ul>
 
-    <img src="img/rind_alexander_13770_180.jpg" width="180" height="226" alt="Alexander Rind" class="photo" />
-<!-- BEGIN contacts -->
-    <address>
-    <span id="fn">Alexander Rind</span><br />
-<!-- Fachhochschule St. P&ouml;lten<br /> -->
-St. P&ouml;lten University of Applied Sciences<br />
-Institute of Creative\Media/Technologies<br />
-<br />
-Matthias Corvinus-Strasse 15<br />
-A-3100 St. P&ouml;lten<br />
-<br />
-phone: +43 2742 313 228&ndash;653<br />
-fax: +43 2742 313 228&ndash;609<br />
-email: <script type="text/javascript">doPerson("alexander.rind", "xswd", "fhstp.ac.at");</script>
-</address>
-<noscript>please turn on javascript</noscript>
-<div id="logo">
-<!--  <a href="http://english.fhstp.ac.at/research/institutes_areas/media_technologies"><img
-    alt="ICMT" title="Institute of Creative\Media/Technologies, St.&nbsp;P&ouml;lten University of Applied Sciences"
-    src="img/icmt_white_35.png" width="89" height="35" /></a> -->
-  <a href="http://mc.fhstp.ac.at/"><img
-    alt="mc" title="Media Computing Research Group, St.&nbsp;P&ouml;lten University of Applied Sciences"
-    src="img/mc_logo_35.png" width="52" height="35" /></a>
-  <a href="http://ieg.ifs.tuwien.ac.at"><img
-    alt="ieg" title="Information Engineering Group, Vienna University of Technology"
-	src="img/ieg_logo_35.png" width="54" height="35" /></a>
-</div>
-<!-- END contacts -->
-  </div>
 
-  <div id="content">
   <h2 id="funded">funded research projects</h2>
 
   <dl>
@@ -173,6 +108,7 @@ email: <script type="text/javascript">doPerson("alexander.rind", "xswd", "fhstp.
   </dl>
 
   <a class="top_link" href="#top">top</a>
+
   <h2 id="student">supervised student projects</h2>
 
   <dl>
@@ -239,6 +175,7 @@ email: <script type="text/javascript">doPerson("alexander.rind", "xswd", "fhstp.
   </dl>
 
   <a class="top_link" href="#top">top</a>
+
   <h2 id="reviewing">reviewing</h2>
 
   <dl>
@@ -275,6 +212,7 @@ email: <script type="text/javascript">doPerson("alexander.rind", "xswd", "fhstp.
   </dl>
 
   <a class="top_link" href="#top">top</a>
+
   <h2 id="events_organized">conference and workshop organization</h2>
 
   <dl>
@@ -369,15 +307,3 @@ email: <script type="text/javascript">doPerson("alexander.rind", "xswd", "fhstp.
   </dl>
 
   <a class="top_link" href="#top">top</a>
-  </div>
-  <!-- end editable page -->
-<!-- BEGIN foot -->
-</div>
-<div id="bottom_pane">
-  Last update: 2014-05-30
-  <!-- echo(date("Y-m-d", filemtime($_SERVER['SCRIPT_FILENAME']))); -->
-  by Alexander Rind
-</div>
-<!-- END foot -->
-</body>
-</html>

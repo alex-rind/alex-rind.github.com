@@ -26,20 +26,26 @@
   <div class="name">Alexander Rind</div>
 </div>
 <div id="navcontainer">
+  <!-- credits to http://stackoverflow.com/questions/6366188/jekyll-select-current-page-url-and-change-its-class/6369044#6369044 -->
   <ul id="navlist">
-<li class="l1"><a href="index.html" class="home">Home</a></li>
-<li class="l1" id="currentpage"><a href="about.html" id="current">About me</a></li>
-<li class="l1"><a href="publications.html">Publications</a></li>
-<li class="l1"><a href="research.html">Research</a></li>
-<li class="l1"><a href="http://www.ifs.tuwien.ac.at/~rind/w/" class="external">Resources</a></li>
+    {% for link in site.navigation %}
+      {% if page.url == link.url %}
+        <li class="l1" id="currentpage"><a href="{{ link.url }}" id="current" class="{{ link.class }}">{{ link.text }}</a></li>
+      {% else %}
+        <li class="l1"><a href="{{ link.url }}" class="{{ link.class }}">{{ link.text }}</a></li>
+      {% endif %}
+    {% endfor %}
   </ul>
 </div>
 <div id="main_pane">
 <!-- END head -->
 <!-- start editable page -->
-  <h1 id="top">{{ page.longtitle }}</h1>
+  {% if page.longtitle %}<h1 id="top">{{ page.longtitle }}</h1>{% endif %}
   <div id="side_pane">
-    <img class="photo" src="/img/rind_alexander_3002160_180.jpg" width="180" height="269" alt="Alexander Rind" />
+    <img class="photo" src="img/alex2013-bw_180x180.png" width="180" height="180" alt="Alexander Rind" />
+<!--    <img class="photo" src="img/rind_alexander_3002160_180.jpg" width="180" height="269" alt="Alexander Rind" /> -->
+<!--    <img class="photo" src="img/rind_alexander_13770_180.jpg" width="180" height="226" alt="Alexander Rind" /> -->
+
 <!-- BEGIN contacts -->
     <address>
     <span id="fn">Alexander Rind</span><br />

@@ -1,175 +1,82 @@
-<?xml version="1.0" encoding="iso-8859-15"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title>alexander rind :: visualization researcher</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15" />
-<link rel="profile" href="http://microformats.org/profile/hcard" />
-<link rel="profile" href="http://gmpg.org/xfn/11" />
+---
+layout: default
+mod-date: 2014-06-10
+---
 
-<!-- BEGIN links -->
-<meta name="author" content="Alexander Rind" />
-<link rel="stylesheet" title="default" type="text/css" href="new.css" media="screen,projection" />
-  <!--
-<link rel="alternate stylesheet" title="old" type="text/css" href="new-2.css" media="screen,projection" />
-<link rel="alternate stylesheet" title="old2" type="text/css" href="new-3.css" media="screen,projection" />
-<link rel="stylesheet" type="text/css" href="t-print.css" media="print" />
-	-->
-<script src="anti_harvest.js" type="text/javascript"></script>
-<!-- END links -->
-</head>
-<body>
-<!-- BEGIN head -->
-<div id="logo_pane">
-  <div id="skip"><a href="#content">Skip to main content</a></div>
-  <!-- <a href="index.php"><img alt="Interactive Visual Interfaces, Exploration, Time-oriented Data"
-    src="img/directions.png" height="90" width="90" /></a> -->
-  <div class="prefix">mag.</div>
-  <div class="name">Alexander Rind</div>
-</div>
-<div id="navcontainer">
-  <ul id="navlist">
-<li class="l1" id="currentpage"><a href="index.html" class="home" id="current">Home</a></li>
-<li class="l1"><a href="about.html">About me</a></li>
-<li class="l1"><a href="publications.html">Publications</a></li>
-<li class="l1"><a href="research.html">Research</a></li>
-<li class="l1"><a href="http://www.ifs.tuwien.ac.at/~rind/w/" class="external">Resources</a></li>
-  </ul>
-</div>
-<div id="main_pane">
-<!-- END head -->
-  <!-- start editable page -->
-  <!-- <h1>Alexander Rind</h1> -->
+I am a scientific researcher at the
+[Media Computing Research Group](http://mc.fhstp.ac.at/){: .external},
+[Institute of Creative\Media/Technologies](http://english.fhstp.ac.at/research/institutes_areas/media_technologies){: .external},
+[St.&nbsp;P&ouml;lten University of Applied Sciences,](http://english.fhstp.ac.at/){: .external},
+where I am involved in the basic research project KAVA-Time
+funded by the Austrian Science Fund (FWF) and other
+[research activities in Information Visualization and Visual Analytics](research.html).
+Furthermore, I supervise student projects, seminars, and theses at the
+[Information Engineering Group](http://ieg.ifs.tuwien.ac.at/){: .external},
+<!-- <a href="http://www.isis.tuwien.ac.at" class="external">Institute of Software Technology &amp; Interactive Systems</a>, -->
+[Vienna University of Technology](http://www.tuwien.ac.at/){: .external}.
 
-  <div id="side_pane">
-    <img src="img/rind_alexander_13770_180.jpg" width="180" height="226" alt="Alexander Rind" class="photo" />
-<!-- BEGIN contacts -->
-    <address>
-    <span id="fn">Alexander Rind</span><br />
-<!-- Fachhochschule St. P&ouml;lten<br /> -->
-St. P&ouml;lten University of Applied Sciences<br />
-Institute of Creative\Media/Technologies<br />
-<br />
-Matthias Corvinus-Strasse 15<br />
-A-3100 St. P&ouml;lten<br />
-<br />
-phone: +43 2742 313 228&ndash;653<br />
-fax: +43 2742 313 228&ndash;609<br />
-email: <script type="text/javascript">doPerson("alexander.rind", "xswd", "fhstp.ac.at");</script>
-</address>
-<noscript>please turn on javascript</noscript>
-<div id="logo">
-<!--  <a href="http://english.fhstp.ac.at/research/institutes_areas/media_technologies"><img
-    alt="ICMT" title="Institute of Creative\Media/Technologies, St.&nbsp;P&ouml;lten University of Applied Sciences"
-    src="img/icmt_white_35.png" width="89" height="35" /></a> -->
-  <a href="http://mc.fhstp.ac.at/"><img
-    alt="mc" title="Media Computing Research Group, St.&nbsp;P&ouml;lten University of Applied Sciences"
-    src="img/mc_logo_35.png" width="52" height="35" /></a>
-  <a href="http://ieg.ifs.tuwien.ac.at"><img
-    alt="ieg" title="Information Engineering Group, Vienna University of Technology"
-	src="img/ieg_logo_35.png" width="54" height="35" /></a>
-</div>
-<!-- END contacts -->
-  </div>
-  <div id="content">
-    <p>
-      I am a scientific researcher at the
-	  <a href="http://mc.fhstp.ac.at/" class="external">
-	  Media Computing Research Group</a>,
-	  <a href="http://english.fhstp.ac.at/research/institutes_areas/media_technologies" class="external">
-	  Institute of Creative\Media/Technologies</a>,
-	  <a href="http://english.fhstp.ac.at/" class="external">
-	  St.&nbsp;P&ouml;lten University of Applied Sciences</a>,
-	  where I am involved in the basic research project KAVA-Time
-      funded by the Austrian Science Fund (FWF) and other research
-      activities in <a target="_self" href="research.html">Information
-        Visualization and Visual Analytics</a>. Furthermore, I
-      supervise student projects, seminars, and theses at the <a
-        href="http://ieg.ifs.tuwien.ac.at" class="external"> Information
-        Engineering Group</a>, <!-- <a href="http://www.isis.tuwien.ac.at"
-        class="external">Institute of Software Technology &amp;
-        Interactive Systems</a>, --><a href="http://www.tuwien.ac.at"
-        class="external">Vienna University of Technology</a>.<br />
-		I pursue my doctoral
-      studies about interaction in Information Visualization of
-      time-oriented data at <a class="external"
-        href="http://www.informatik.tuwien.ac.at/">Vienna University of
-        Technology</a>. Before that, I studied Information Systems
-      (Wirtschaftsinformatik) in Vienna and Lund and received my M.Sc.
-      degree from the Vienna University of Technology in 2004.
-    </p>
+I pursue my doctoral studies about interaction in Information Visualization of time-oriented data at
+[Vienna University of Technology](http://www.informatik.tuwien.ac.at/){: .external}.
+Before that, I studied Information Systems (Wirtschaftsinformatik) in Vienna and Lund
+and received my M.Sc. degree from the Vienna University of Technology in 2004.
 
-    <h2 id="research_interests">research interests</h2>
+## research interests
 
+<ul>
+    <li>Interactive Visual Interfaces
     <ul>
-      <li>Interactive Visual Interfaces
-        <ul>
-          <li><a
-            href="http://www.infovis-wiki.net/index.php/Information_Visualization"
-            class="external">Information Visualization</a>
-          </li>
-          <li><a
-            href="http://www.infovis-wiki.net/index.php/Visual_Analytics"
-            class="external">Visual Analytics</a></li>
-          <li><a
-            href="http://www.infovis-wiki.net/index.php/HCI_%28Human-Computer_Interaction%29"
-            class="external">Human-Computer Interaction (HCI)</a></li>
-        </ul>
-      </li>
-      <li><a
-        href="http://www.infovis-wiki.net/index.php/Visual_Exploration"
-        class="external">Supporting Data Exploration Processes</a>
-        <ul>
-          <li><a
-            href="http://www.infovis-wiki.net/index.php/Visual_Analytics"
-            class="external">Science of Interaction</a></li>
-          <li><a href="http://www.ifs.tuwien.ac.at/~lammarsch/HypoVis/"
-            class="external">Hypotheses &amp; Models</a></li>
-            <!-- // <li>Explicit Knowledge</li> -->
-        </ul></li>
-      <li><a href="http://www.timeviz.net/"
-      class="external">Time-oriented Data</a></li>
-      <li>Bridging the Gap Between Theory and Practice
-        <ul>
-          <li><a
-            href="http://ieg.ifs.tuwien.ac.at/projects/VisuExplore/"
-            class="external">User Centered Design</a>
-          </li>
-          <li><a
-            href="http://dx.doi.org/10.1561/1100000039"
-            class="external">Visualization of Electronic Health Records</a></li>
-          <!-- <li>Business Intelligence</li> -->
-        </ul>
-      </li>
-      <!-- <li>
-      <ul>
-        <li></li>
-        <li></li>
-      </ul>
-    </li>-->
+	<li><a
+	href="http://www.infovis-wiki.net/index.php/Information_Visualization"
+	class="external">Information Visualization</a>
+	</li>
+	<li><a
+	href="http://www.infovis-wiki.net/index.php/Visual_Analytics"
+	class="external">Visual Analytics</a></li>
+	<li><a
+	href="http://www.infovis-wiki.net/index.php/HCI_%28Human-Computer_Interaction%29"
+	class="external">Human-Computer Interaction (HCI)</a></li>
     </ul>
-
-    <h2 id="profiles">other profiles</h2>
-
-    <ul class="horizontal">
-      <li><a rel="me" href="http://at.linkedin.com/in/alexrind" class="external">linkedin</a></li>
-      <li><a rel="me" href="https://www.xing.com/profile/Alexander_Rind" class="external">xing</a></li>
-      <li><a rel="me" href="https://profiles.google.com/100502536782063406186" class="external">google+</a></li>
-      <li><a rel="me" href="http://scholar.google.com/citations?user=R48XMTYAAAAJ" class="external">google scholar</a></li>
-      <li><a rel="me" href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rind:Alexander.html" class="external">dblp</a></li>
-      <li><a rel="me" href="http://orcid.org/0000-0001-8788-4600" class="external">orcid</a></li>
+    </li>
+    <li><a
+    href="http://www.infovis-wiki.net/index.php/Visual_Exploration"
+    class="external">Supporting Data Exploration Processes</a>
+    <ul>
+	<li><a
+	href="http://www.infovis-wiki.net/index.php/Visual_Analytics"
+	class="external">Science of Interaction</a></li>
+	<li><a href="http://www.ifs.tuwien.ac.at/~lammarsch/HypoVis/"
+	class="external">Hypotheses &amp; Models</a></li>
+	<!-- // <li>Explicit Knowledge</li> -->
+    </ul></li>
+    <li><a href="http://www.timeviz.net/"
+    class="external">Time-oriented Data</a></li>
+    <li>Bridging the Gap Between Theory and Practice
+    <ul>
+	<li><a
+	href="http://ieg.ifs.tuwien.ac.at/projects/VisuExplore/"
+	class="external">User Centered Design</a>
+	</li>
+	<li><a
+	href="http://dx.doi.org/10.1561/1100000039"
+	class="external">Visualization of Electronic Health Records</a></li>
+	<!-- <li>Business Intelligence</li> -->
     </ul>
+    </li>
+    <!-- <li>
+    <ul>
+    <li></li>
+    <li></li>
+    </ul>
+</li>-->
+</ul>
 
-  </div>
-  <!-- end editable page -->
-<!-- BEGIN foot -->
-</div>
-<div id="bottom_pane">
-  Last update: 2014-01-27
-  <!-- echo(date("Y-m-d", filemtime($_SERVER['SCRIPT_FILENAME']))); -->
-  by Alexander Rind
-</div>
-<!-- END foot -->
-</body>
-</html>
+## other profiles
+
+<ul class="horizontal">
+    <li><a rel="me" href="http://at.linkedin.com/in/alexrind" class="external">linkedin</a></li>
+    <li><a rel="me" href="https://www.xing.com/profile/Alexander_Rind" class="external">xing</a></li>
+    <li><a rel="me" href="https://profiles.google.com/100502536782063406186" class="external">google+</a></li>
+    <li><a rel="me" href="http://scholar.google.com/citations?user=R48XMTYAAAAJ" class="external">google scholar</a></li>
+    <li><a rel="me" href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rind:Alexander.html" class="external">dblp</a></li>
+    <li><a rel="me" href="http://orcid.org/0000-0001-8788-4600" class="external">orcid</a></li>
+</ul>

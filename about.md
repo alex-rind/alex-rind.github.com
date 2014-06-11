@@ -16,7 +16,7 @@ mod-date: 2014-06-10
 ## work experience
 
 since 01/2014
-: [St. P&ouml;lten University of Applied Sciences,](http://english.fhstp.ac.at/){: .external} Austria
+: [St.&nbsp;P&ouml;lten University of Applied Sciences,](http://english.fhstp.ac.at/){: .external} Austria
 : Researcher at the Institute of Creative\Media/Technologies
 
 04/2011 &ndash; 12/2013
@@ -104,7 +104,7 @@ since 10/2004
 : [Lund University,](http://www.lu.se/){: .external} Sweden
 : Swedish as a foreign language
 
-<a class="top_link" href="#top">top</a>
+[top](#top){: .top_link}
 
 ## awards
 
@@ -128,7 +128,7 @@ for Stephan Hoffmann (co-supervised by Alexander Rind)
 : [Province of Lower Austria](http://www.noe.gv.at/){: .external}
 : &ldquo;Top&rdquo; scholarship
 
-<a class="top_link" href="#top">top</a>
+[top](#top){: .top_link}
 
 ## volunteer activities
 
@@ -152,3 +152,5 @@ Mentor for exchange students at Vienna University of Technology
 2001
 : [Krischansta Nation](http://www.krischan.se/){: .external} Lund, Sweden
 : Bartender at students' nightclub, pub, and caf&eacute;
+
+[top](#top){: .top_link}

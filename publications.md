@@ -1,93 +1,27 @@
-<?xml version="1.0" encoding="iso-8859-15"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title>publications :: alexander rind</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15" />
-<!-- BEGIN links -->
-<meta name="author" content="Alexander Rind" />
-<link rel="stylesheet" title="default" type="text/css" href="new.css" media="screen,projection" />
-  <!--
-<link rel="alternate stylesheet" title="old" type="text/css" href="new-2.css" media="screen,projection" />
-<link rel="alternate stylesheet" title="old2" type="text/css" href="new-3.css" media="screen,projection" />
-<link rel="stylesheet" type="text/css" href="t-print.css" media="print" />
-	-->
-<script src="anti_harvest.js" type="text/javascript"></script>
-<!-- END links -->
-</head>
-<body>
-<!-- BEGIN head -->
-<div id="logo_pane">
-  <div id="skip"><a href="#content">Skip to main content</a></div>
-  <!-- <a href="index.php"><img alt="Interactive Visual Interfaces, Exploration, Time-oriented Data"
-    src="img/directions.png" height="90" width="90" /></a> -->
-  <div class="prefix">mag.</div>
-  <div class="name">Alexander Rind</div>
-</div>
-<div id="navcontainer">
-  <ul id="navlist">
-<li class="l1"><a href="index.html" class="home">Home</a></li>
-<li class="l1"><a href="about.html">About me</a></li>
-<li class="l1" id="currentpage"><a href="publications.html" id="current">Publications</a></li>
-<li class="l1"><a href="research.html">Research</a></li>
-<li class="l1"><a href="http://www.ifs.tuwien.ac.at/~rind/w/" class="external">Resources</a></li>
-  </ul>
-</div>
-<div id="main_pane">
-<!-- END head -->
-  <!-- start editable page -->
-  <h1 id="top">Publications</h1>
+---
+layout: default
+title: "publications"
+longtitle: "Publications"
+mod-date: 2014-04-08
+---
 
-  <div id="side_pane">
-    <ul class="toc">
-      <li><a href="#p01">Refereed Journal Articles</a></li>
-      <li><a href="#p02">Refereed Conference &amp; Workshop Articles</a></li>
-      <li><a href="#p03">Contributions in Books</a></li>
-      <!--  <li><a href="#04">Books (Editor)</a></li> -->
-      <!-- <li><a href="#05">Journals (Editor)</a></li> -->
-      <!-- <li><a href="#06">Magazines (Editor)</a></li> -->
-      <!-- <li><a href="#07">Proceedings (Editor)</a></li> -->
-      <!-- <li><a href="#08">Refereed Abstracts</a></li> -->
-      <li><a href="#p09">Miscellaneous Articles</a></li>
-      <!-- <li><a href="#10">Brochures</a></li> -->
-      <li><a href="#p11">Technical Reports</a></li>
-      <!-- <li><a href="#12">Theses</a></li> -->
-      <li><a href="#german">Publications in German</a></li>
-    </ul>
+<ul class="toc">
+    <li><a href="#article">Refereed Journal Articles</a></li>
+    <li><a href="#inproc">Refereed Conference &amp; Workshop Articles</a></li>
+    <li><a href="#inbook">Contributions in Books</a></li>
+    <!--  <li><a href="#04">Books (Editor)</a></li> -->
+    <!-- <li><a href="#05">Journals (Editor)</a></li> -->
+    <!-- <li><a href="#06">Magazines (Editor)</a></li> -->
+    <!-- <li><a href="#07">Proceedings (Editor)</a></li> -->
+    <!-- <li><a href="#08">Refereed Abstracts</a></li> -->
+    <li><a href="#misc">Miscellaneous Articles</a></li>
+    <!-- <li><a href="#10">Brochures</a></li> -->
+    <li><a href="#report">Technical Reports</a></li>
+    <!-- <li><a href="#12">Theses</a></li> -->
+    <li><a href="#german">Publications in German</a></li>
+</ul>
 
-    <img src="img/alex2013-bw_180x180.png" width="180" height="180" alt="Alexander Rind" class="photo" />
-<!-- BEGIN contacts -->
-    <address>
-    <span id="fn">Alexander Rind</span><br />
-<!-- Fachhochschule St. P&ouml;lten<br /> -->
-St. P&ouml;lten University of Applied Sciences<br />
-Institute of Creative\Media/Technologies<br />
-<br />
-Matthias Corvinus-Strasse 15<br />
-A-3100 St. P&ouml;lten<br />
-<br />
-phone: +43 2742 313 228&ndash;653<br />
-fax: +43 2742 313 228&ndash;609<br />
-email: <script type="text/javascript">doPerson("alexander.rind", "xswd", "fhstp.ac.at");</script>
-</address>
-<noscript>please turn on javascript</noscript>
-<div id="logo">
-<!--  <a href="http://english.fhstp.ac.at/research/institutes_areas/media_technologies"><img
-    alt="ICMT" title="Institute of Creative\Media/Technologies, St.&nbsp;P&ouml;lten University of Applied Sciences"
-    src="img/icmt_white_35.png" width="89" height="35" /></a> -->
-  <a href="http://mc.fhstp.ac.at/"><img
-    alt="mc" title="Media Computing Research Group, St.&nbsp;P&ouml;lten University of Applied Sciences"
-    src="img/mc_logo_35.png" width="52" height="35" /></a>
-  <a href="http://ieg.ifs.tuwien.ac.at"><img
-    alt="ieg" title="Information Engineering Group, Vienna University of Technology"
-	src="img/ieg_logo_35.png" width="54" height="35" /></a>
-</div>
-<!-- END contacts -->
-  </div>
-
-  <div id="content">
-  <h2 id="p01">Refereed Journal Articles</h2>
+## Refereed Journal Articles {#article}
 
 <p>
  Lammarsch, T.; Aigner, W.; Bertone, A.; Miksch, S. &amp; Rind, A.:
@@ -148,8 +82,9 @@ email: <script type="text/javascript">doPerson("alexander.rind", "xswd", "fhstp.
  doi:<a href="http://dx.doi.org/10.1007/s13218-012-0167-6" class="external">10.1007/s13218-012-0167-6</a>
 </p>
 
-  <a class="top_link" href="#top">top</a>
-  <h2 id="p02">Refereed Conference &amp; Workshop Articles</h2>
+[top](#top){: .top_link}
+
+## Refereed Conference &amp; Workshop Articles {#inproc}
 
 <p>
  Federico, P.; Hoffmann, S.; Rind, A.; Aigner, W. &amp; Miksch, S.:
@@ -256,8 +191,9 @@ doi:<a href="http://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="exte
  <br /><span style="font-size: 80%">Please contact me for a preprint version.</span>
 </p>
 
-  <a class="top_link" href="#top">top</a>
-      <h2 id="p03">Contributions in Books</h2>
+[top](#top){: .top_link}
+
+## Contributions in Books {#inbook}
 
 <p id="Waldhoer_2008__TAIDayTripIndicatorMeasuringValueAddedintheTourismSector">
  Waldh&ouml;r, K.; Freidl, C.; Rind, A. &amp; Ecker, K.:
@@ -266,8 +202,9 @@ doi:<a href="http://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="exte
  <br /><span style="font-size: 80%">Please contact me for a preprint version.</span>
 </p>
 
-  <a class="top_link" href="#top">top</a>
-      <h2 id="p09">Miscellaneous Articles</h2>
+[top](#top){: .top_link}
+
+## Miscellaneous Articles {#misc}
 
 <p>
  Rind, A.; Neubauer, B.; Aigner, W. &amp; Miksch, S.:
@@ -276,8 +213,9 @@ doi:<a href="http://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="exte
  p. 3, Eurographics, Vienna, Austria, 2012.
 </p>
 
-  <a class="top_link" href="#top">top</a>
-      <h2 id="p11">Technical Reports</h2>
+[top](#top){: .top_link}
+
+## Technical Reports {#report}
 
 <p>Rind, A.; Wang, T. D.; Aigner, W.; Miksch, S.; Wongsuphasawat, Krist.; Plaisant, C. &amp; Shneiderman B.:
 <b><a href="http://www.cs.umd.edu/localphp/hcil/tech-reports-search.php?number=2010-19" class="external">Interactive Information Visualization for Exploring and Querying Electronic Health Records: a Systematic Review</a></b>,
@@ -287,8 +225,9 @@ No. HCIL-2010-19, <em>University of Maryland</em>, College Park, 2010.</p>
  Rind, A.: <b>Interactive Information Visualization in Patient Care and Clinical Research: State of the Art</b>, No. IKE-TR-2009-01, <em>Danube University Krems</em>, Krems, Austria, 2009.
 </p>
 
-  <a class="top_link" href="#top">top</a>
-      <h2 id="german">Publications in German</h2>
+[top](#top){: .top_link}
+
+## Publications in German {#german}
 
 <p id="Rind_2010__VisuExplore:GewinnungneuermedizinischerErkenntnissedurchvisuelleExploration">
  Rind, A.; Aigner, W.; Turic, T.; Miksch, S. &amp; Pohl, M.:
@@ -327,16 +266,5 @@ No. HCIL-2010-19, <em>University of Maryland</em>, College Park, 2010.</p>
  For EuroGraphics Blackwell publications: &quot;The definitive version is available at <a class="external" href="http://diglib.eg.org/">http://diglib.eg.org/</a> and <a class="external" href="http://onlinelibrary.wiley.com/">http://onlinelibrary.wiley.com/</a>.&quot;
 </p>
 
-  <a class="top_link" href="#top">top</a>
-  </div>
-  <!-- end editable page -->
-<!-- BEGIN foot -->
-</div>
-<div id="bottom_pane">
-  Last update: 2014-04-08
-  <!-- echo(date("Y-m-d", filemtime($_SERVER['SCRIPT_FILENAME']))); -->
-  by Alexander Rind
-</div>
-<!-- END foot -->
-</body>
-</html>
+[top](#top){: .top_link}
+
