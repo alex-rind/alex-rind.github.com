@@ -6,9 +6,9 @@ mod-date: 2014-06-10
 ---
 
 <ul class="toc">
+    <li><a href="#work-experience">work experience</a></li>
     <li><a href="#education">education</a></li>
     <li><a href="#continuing-education">continuing education</a></li>
-    <li><a href="#work-experience">work experience</a></li>
     <li><a href="#awards">awards</a></li>
     <li><a href="#volunteer_activities">volunteer activities</a></li>
 </ul>

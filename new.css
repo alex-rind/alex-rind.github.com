@@ -19,8 +19,6 @@ h1-h6: #F7A23E
 
 **************************************************************************** */
 
-@CHARSET "ISO-8859-1";
-
 DIV#cskeytech-overlay-container {
 	display: none !important;
 }
@@ -210,17 +208,22 @@ div#side_pane {
 ul.toc {
 	margin: 0 0 2em 0;
 	padding: 0;
+	font-size: 80%;
 }
 
 ul.toc li {
 	list-style: none;
+	display: inline;
 	margin: 0;
 	line-height: 1.2;
 }
 
 ul.toc:before {
-	content: 'Sections:';
-	font-weight: bold;
+	content: 'Sections';
+}
+
+ul.toc li:before {
+	content: ' :: ';
 }
 
 img.photo {
