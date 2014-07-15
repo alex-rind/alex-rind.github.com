@@ -186,6 +186,7 @@ mod-date: 2014-05-30
     <dd>ACM Conference on Human Factors in Computing Systems (CHI)</dd>
     <dd>Journal of the American Medical Informatics Association, special issue on "Visual Analytics"</dd>
     <dd>IBM Journal of Research and Development, special issue on "Multimedia and Visual Analytics"</dd>
+    <dd>Forum Medientechnik Programme Committee</dd>
     <dd>International Symposium on Visual Information Communication and Interaction (VINCI) &ndash; 2 papers<dd>
     <dt>2013</dt>
     <dd>Eurographics Conference on Visualization (EuroVis)</dd>

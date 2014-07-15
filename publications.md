@@ -89,9 +89,9 @@ mod-date: 2014-04-08
 <p>
  Federico, P.; Hoffmann, S.; Rind, A.; Aigner, W. &amp; Miksch, S.:
  <b><a href="http://publik.tuwien.ac.at/files/PubDat_228036.pdf" class="pdf">Qualizon Graphs: Space-Efficient Time-Series Visualization with Qualitative Abstractions</a></b>,
- <!--Pohl, M. &amp; Schumann, H. (eds.), --><em>Proceedings of the 12th International Working Conference on Advanced Visual Interfaces (AVI 2014)</em>,
- <!-- p. 31-35, -->forthcoming, ACM, 2014.
- <!--doi:<a href="http://dx.doi.org/10.1145/2598153.2598172" class="external">10.1145/2598153.2598172</a> -->
+ <!-- (eds.), --><em>Proceedings of the 2014 International Working Conference on Advanced Visual Interfaces (AVI 2014)</em>,
+ p. 273-280, ACM, 2014.
+ doi:<a href="http://dx.doi.org/10.1145/2598153.2598172" class="external">10.1145/2598153.2598172</a>
 </p>
 
 <p>
