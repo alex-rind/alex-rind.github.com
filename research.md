@@ -16,6 +16,18 @@ mod-date: 2014-05-30
   <h2 id="funded">funded research projects</h2>
 
   <dl>
+    <dt>starting 01/2015</dt>
+    <dd>
+      <!-- <a href="http://mc.fhstp.ac.at/projects/kava-time">
+        <img src="img/kava-time_logo_112.png" alt="KAVA-Time" width="112" height="65" align="right" />
+      </a> -->
+      <p class="project">VALID&mdash;Visual Analytics in Data-driven Journalism</p>
+       Austrian Research Promotion Agency (FFG), IKT der Zukunft<br />
+      <a href="http://english.fhstp.ac.at/research/institutes_areas/media_technologies" class="external">St.&nbsp;P&ouml;lten
+          University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<!--<br />
+      <a href="http://mc.fhstp.ac.at/projects/kava-time" class="external">project webpage</a> -->
+    </dd>
+
     <dt>since 08/2013</dt>
     <dd>
       <a href="http://mc.fhstp.ac.at/projects/kava-time">
@@ -185,6 +197,7 @@ mod-date: 2014-05-30
     <dd>EuroVis Short Papers International Programme Committee</dd>
     <dd>ACM Conference on Human Factors in Computing Systems (CHI)</dd>
     <dd>Journal of the American Medical Informatics Association, special issue on "Visual Analytics"</dd>
+    <dd>it&mdash;Information Technology, special issue on "Visual Analytics"</dd>
     <dd>IBM Journal of Research and Development, special issue on "Multimedia and Visual Analytics"</dd>
     <dd>Forum Medientechnik Programme Committee</dd>
     <dd>International Symposium on Visual Information Communication and Interaction (VINCI) &ndash; 2 papers<dd>
