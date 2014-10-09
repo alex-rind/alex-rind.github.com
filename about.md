@@ -2,7 +2,7 @@
 layout: default
 title: "about"
 longtitle: "About Me / Curriculum Vitae"
-mod-date: 2014-06-10
+mod-date: 2014-10-09
 ---
 
 <ul class="toc">
@@ -18,6 +18,10 @@ mod-date: 2014-06-10
 since 01/2014
 : [St.&nbsp;P&ouml;lten University of Applied Sciences,](http://english.fhstp.ac.at/){: .external} Austria
 : Researcher at the Institute of Creative\Media/Technologies
+
+03/2014 &ndash; 02/2015
+: [Vienna University of Technology,](http://ieg.ifs.tuwien.ac.at/){: .external} Austria
+: Lecturer at the Institute of Software Technology and Interactive Systems
 
 04/2011 &ndash; 12/2013
 : [Vienna University of Technology,](http://ieg.ifs.tuwien.ac.at/){: .external} Austria
@@ -114,7 +118,7 @@ since 10/2004
 for Stephan Hoffmann (co-supervised by Alexander Rind)
 
 2010
-: Austrian Federal Ministry of Science and Research</p>
+: Austrian Federal Ministry of Science and Research
 : [Sparkling Science](http://www.sparklingscience.at/en/){: .external}
 : Top 5 submission to the third call for the research project [HorizonVis](http://ieg.ifs.tuwien.ac.at/projects/HorizonVis/){: .external}
 

@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2014-04-08
+mod-date: 2014-10-09
 ---
 
 <ul class="toc">
@@ -14,11 +14,11 @@ mod-date: 2014-04-08
     <!-- <li><a href="#06">Magazines (Editor)</a></li> -->
     <!-- <li><a href="#07">Proceedings (Editor)</a></li> -->
     <!-- <li><a href="#08">Refereed Abstracts</a></li> -->
-    <li><a href="#misc">Miscellaneous Articles</a></li>
+    <li><a href="#misc">Miscellaneous &amp; German Articles</a></li>
     <!-- <li><a href="#10">Brochures</a></li> -->
     <li><a href="#report">Technical Reports</a></li>
     <!-- <li><a href="#12">Theses</a></li> -->
-    <li><a href="#german">Publications in German</a></li>
+    <li><a href="#general">Dissemination&nbsp;to a General Audience</a></li>
 </ul>
 
 ## Refereed Journal Articles {#article}
@@ -85,6 +85,34 @@ mod-date: 2014-04-08
 [top](#top){: .top_link}
 
 ## Refereed Conference &amp; Workshop Articles {#inproc}
+
+<p>
+ Rind, A.; Aigner, W.; Wagner, M.; Lammarsch, T. &amp; Miksch, S.:
+ <b><a href="http://mc.fhstp.ac.at/sites/default/files/publications/rind_2014_beliv_task_postprint.pdf" class="pdf">User Tasks for Evaluation: Untangling the Terminology Throughout Visualization Design and Development</a></b>,
+ Lam, H.; Isenberg,  P.; Isenberg T.  &amp; Sedlmair M. (eds.), <em>Proceedings of the 2014 Workshop on Beyond Time And Errors: Novel Evaluation Methods For Visualization, BELIV</em>,
+ <!-- p.&nbsp;301-320, --> New York, ACM, 2014.
+ forthcoming.
+ <!-- doi:<a href="http://dx.doi.org/10.1145/2669557.2669568" class="external">10.1145/2669557.2669568</a> -->
+</p>
+
+<p>
+ Wagner, M.; Aigner, W.; Rind, A.; Dornhackl, H.; Kadletz, K.; Luh, R. &amp; Tavolato, P.:
+ <b><!--<a href="" class="pdf">-->Problem Characterization and Abstraction for Visual Analytics in Behavior-Based Malware Pattern Analysis<!--</a>--></b>,
+ Engle, S. (ed.), <em>Proceedings of the 2014 Workshop on  Visualization for Cyber Security, VizSec</em>,
+ <!-- p.&nbsp;301-320, --> New York, ACM, 2014.
+ forthcoming.
+<!-- doi:<a href="http://dx.doi.org//10.1145/2671491.2671498" class="external">10.1145/2671491.2671498
+</a> -->
+</p>
+
+<p>
+ B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
+ <b><!--<a href="" class="pdf">-->Visual Analytics Methods to Guide Diagnostics for Time Series Model Predictions<!--</a>--></b>,
+ Perer A.; Bertini, E.; Maciejewski, R. &amp; Sun, J. (eds.), <em>Proceedings of the IEEE VIS 2014 Workshop on Visualization for Predictive Analytics, VPA</em>,
+ <!-- p.&nbsp;301-320, --> 2014.
+ forthcoming.
+ <a href="http://predictive-workshop.github.io/" class="external">workshop website</a>
+</p>
 
 <p>
  Federico, P.; Hoffmann, S.; Rind, A.; Aigner, W. &amp; Miksch, S.:
@@ -169,7 +197,6 @@ doi:<a href="http://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="exte
  p. 149-152, Atlanta, GA, 2010.
 </p>
 
-
 <p id="Aigner_2009_chi_InteractivelyExploringTime-OrientedData">
  Aigner, W.; Bertone, A.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
  <a class="pdf" href="/~rind/preprint/aigner_chi09_interacting-time.pdf"><b>Interactively Exploring Time-Oriented Data</b></a>,
@@ -204,13 +231,34 @@ doi:<a href="http://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="exte
 
 [top](#top){: .top_link}
 
-## Miscellaneous Articles {#misc}
+## Miscellaneous &amp; German Articles {#misc}
 
 <p>
  Rind, A.; Neubauer, B.; Aigner, W. &amp; Miksch, S.:
  <b><a href="http://publik.tuwien.ac.at/files/PubDat_207731.pdf" class="pdf">Static and Dynamic Visual Mappings to Explore Bivariate Data Across Time</a></b>,
  Matkovic, K. &amp; Santucci, G. (eds.), <em>EuroVA 2012 Poster Proceedings</em>,
  p. 3, Eurographics, Vienna, Austria, 2012.
+</p>
+
+<p id="Rind_2010__VisuExplore:GewinnungneuermedizinischerErkenntnissedurchvisuelleExploration">
+ Rind, A.; Aigner, W.; Turic, T.; Miksch, S. &amp; Pohl, M.:
+ <a class="pdf" href="http://publik.tuwien.ac.at/files/PubDat_190161.pdf"><b>VisuExplore: Gewinnung neuer medizinischer Erkenntnisse durch visuelle Exploration</b></a>,
+ Schreier, G.; Hayn, D. &amp; , Ammenwerth, E. (eds.), <em>Tagungsband der eHealth2010: Health Informatics meets eHealth</em>,
+ p. 273-278, Vienna, OCG, 2010.
+</p>
+
+<p id="Ecker_2006__WertschoepfungsmessungimTourismus">
+ Ecker, K.; Freidl, C.; Rind, A. &amp; Waldh&ouml;r, K.:
+ <a class="pdf" href="http://www.users.fh-salzburg.ac.at/%7Emjooss/eTourism_Berichte%20aus%20Wissenschaft%20und%20Wirtschaft.pdf"><b>Wertsch&ouml;pfungsmessung im Tourismus</b></a>,
+ Egger, R.; H&ouml;rl, J. &amp; Jooss, M. (eds.), <em>eTourism &ndash; Berichte aus Wissenschaft und Wirtschaft</em>,
+ Werkstattbericht 5, p. 47-56, Puch, Salzburg, Forschung Urstein, 2006.
+</p>
+
+<p id="Waldhoer_2004__MarktplatzHotelzimmer:KonzepteundMoeglichkeitenfuerdenSmartHotelroom">
+ Waldh&ouml;r, K.; Freidl, C.; Maurer, C.; Rind, A.; Ecker, K. &amp; Blaim, M.:
+ <b>Marktplatz Hotelzimmer: Konzepte und M&ouml;glichkeiten f&uuml;r den Smart Hotelroom</b>,
+ <em>Tourismus Journal</em>, Vol. 8, No. 3, p. 357-366, 2004.
+ <br /><span style="font-size: 80%">Please contact me for a preprint version.</span>
 </p>
 
 [top](#top){: .top_link}
@@ -227,35 +275,27 @@ No. HCIL-2010-19, <em>University of Maryland</em>, College Park, 2010.</p>
 
 [top](#top){: .top_link}
 
-## Publications in German {#german}
+## Dissemination to a General Audience {#general}
 
-<p id="Rind_2010__VisuExplore:GewinnungneuermedizinischerErkenntnissedurchvisuelleExploration">
- Rind, A.; Aigner, W.; Turic, T.; Miksch, S. &amp; Pohl, M.:
- <a class="pdf" href="http://publik.tuwien.ac.at/files/PubDat_190161.pdf"><b>VisuExplore: Gewinnung neuer medizinischer Erkenntnisse durch visuelle Exploration</b></a>,
- Schreier, G.; Hayn, D. &amp; , Ammenwerth, E. (eds.), <em>Tagungsband der eHealth2010: Health Informatics meets eHealth</em>,
- p. 273-278, Vienna, OCG, 2010.
+<p id="aigner_2014_ern">
+ Aigner, W.; Haberson, A; Rind, A. &amp; Wagner, M.:
+ <b><a class="pdf" href="http://www.ifs.tuwien.ac.at/~rind/preprint/aigner_2014_ern.pdf">Durchblick: Aus Daten schlau werden</a></b>,
+ <em>European Researchers' Night: F.I.T. for Future</em>, 
+ Vienna, Austria, September 26, 2014.
+ <a class="external" href="http://www.fit-for-future.at/durchblick-aus-daten-schlau-werden-2">website</a>
 </p>
 
-<p id="Alexander_2008_timnesupgrade_DatenflutimmedizinischenAlltag-PatientInnendatenimUeberblick">
+<p id="muehlmann_2009_lndf">
+ M&uuml;hlmann, K.; Bertone, A.; Bauer, I.; Klinka, P.; Lammarsch, T.; Mayr, E.; Miksch, S.; Rind, A.; Siebenhandl, K.; Smuc, M.; Wiel&auml;nder, M.; Windhager, F. &amp; Zenk, L.:
+ <b><a class="external" href="http://www.donau-uni.ac.at/de/department/ike/news/id/14125/index.php">Sehen &amp; Gesehen werden</a></b>,
+ <em>Lange Nacht der Forschung</em>, 
+ Krems, Austria, November 7, 2009.
+</p>
+
+<p id="rind_2008_timnesupgrade_DatenflutimmedizinischenAlltag">
  Rind, A.:
- <!-- http://ike.donau-uni.ac.at/publications/PDF/2008/timnewsupgrade_2008/timnewsupgrade%20_2008_2/final/rind_2008_timnews0802_datenflut-medizin.pdf
- http://www.cvast.tuwien.ac.at/sites/default/files/rind_2008_timnews0802_datenflut-medizin.pdf -->
  <a class="pdf" href="http://www.donau-uni.ac.at/imperia/md/content/department/ike/timnews/timnewsupgrade_02_08/tim0208_20-21.pdf"><b>Datenflut im medizinischen Alltag &ndash; PatientInnendaten im &Uuml;berblick</b></a>,
  <em>TIMNEWSupgrade</em>, Vol. 42, No. 2, p. 20-21, September, 2008.
-</p>
-
-<p id="Ecker_2006__WertschoepfungsmessungimTourismus">
- Ecker, K.; Freidl, C.; Rind, A. &amp; Waldh&ouml;r, K.:
- <a class="pdf" href="http://www.users.fh-salzburg.ac.at/%7Emjooss/eTourism_Berichte%20aus%20Wissenschaft%20und%20Wirtschaft.pdf"><b>Wertsch&ouml;pfungsmessung im Tourismus</b></a>,
- Egger, R.; H&ouml;rl, J. &amp; Jooss, M. (eds.), <em>eTourism &ndash; Berichte aus Wissenschaft und Wirtschaft</em>,
- Werkstattbericht 5, p. 47-56, Puch, Salzburg, Forschung Urstein, 2006.
-</p>
-
-<p id="Waldhoer_2004__MarktplatzHotelzimmer:KonzepteundMoeglichkeitenfuerdenSmartHotelroom">
- Waldh&ouml;r, K.; Freidl, C.; Maurer, C.; Rind, A.; Ecker, K. &amp; Blaim, M.:
- <b>Marktplatz Hotelzimmer: Konzepte und M&ouml;glichkeiten f&uuml;r den Smart Hotelroom</b>,
- <em>Tourismus Journal</em>, Vol. 8, No. 3, p. 357-366, 2004.
- <br /><span style="font-size: 80%">Please contact me for a preprint version.</span>
 </p>
 
 <p style="font-size: 80%">
