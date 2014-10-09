@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2014-05-30
+mod-date: 2014-10-05
 ---
 
 <ul class="toc">
@@ -192,38 +192,47 @@ mod-date: 2014-05-30
 
   <dl>
     <dt>2014</dt>
-    <dd>IEEE Information Visualization (InfoVis) &ndash; 3 papers</dd>
-    <dd>IEEE Visual Analytics Science and Technology (VAST)</dd>
-    <dd>EuroVis Short Papers International Programme Committee</dd>
-    <dd>ACM Conference on Human Factors in Computing Systems (CHI)</dd>
-    <dd>Journal of the American Medical Informatics Association, special issue on "Visual Analytics"</dd>
-    <dd>it&mdash;Information Technology, special issue on "Visual Analytics"</dd>
-    <dd>IBM Journal of Research and Development, special issue on "Multimedia and Visual Analytics"</dd>
-    <dd>Forum Medientechnik Programme Committee</dd>
-    <dd>International Symposium on Visual Information Communication and Interaction (VINCI) &ndash; 2 papers<dd>
+    <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>E</sup></dd>
+    <dd>IEEE Information Visualization (InfoVis) &ndash; 3 papers<sup>2</sup></dd>
+    <dd>EuroVis Short Papers International<sup>PC</sup></dd>
+    <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>2</sup></dd>
+    <dd>ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup></dd>
+    <dd>Journal of the American Medical Informatics Association, special issue on "Visual Analytics"<sup>E</sup></dd>
+    <dd>it&mdash;Information Technology, special issue on "Visual Analytics"<sup>2</sup></dd>
+    <dd>IBM Journal of Research and Development, special issue on "Multimedia and Visual Analytics"<sup>E</sup></dd>
+    <dd>Forum Medientechnik<sup>PC</sup></dd>
+    <dd>International Symposium on Visual Information Communication and Interaction (VINCI) &ndash; 2 papers<sup>2</sup><dd>
     <dt>2013</dt>
-    <dd>Eurographics Conference on Visualization (EuroVis)</dd>
-    <dd>Information Visualization Theory and Applications (IVAPP)</dd>
-    <dd>Conference on Artificial Intelligence in MEdicine (AIME)</dd>
+    <dd>Conference on Artificial Intelligence in MEdicine (AIME)<sup>E</sup></dd>
+    <dd>Eurographics Conference on Visualization (EuroVis)<sup>1</sup></dd>
+    <dd>Information Visualization Theory and Applications (IVAPP)<sup>2</sup></dd>
     <dt>2012</dt>
-    <dd>IEEE Information Visualization (InfoVis) &ndash; 3 papers</dd>
-    <dd>IEEE Visual Analytics Science and Technology (VAST)</dd>
-    <dd>Eurographics Conference on Visualization (EuroVis)</dd>
-    <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG)</dd>
-    <dd>VAST 2012 Challenge &ndash; 2 contributions</dd>
-    <dd>eHealth conference, Vienna</dd>
+    <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup></dd>
+    <dd>IEEE Information Visualization (InfoVis) &ndash; 1 paper<sup>E</sup></dd>
+    <dd>IEEE Information Visualization (InfoVis) &ndash; 2 papers<sup>1,2</sup></dd>
+    <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>2</sup></dd>
+    <dd>Eurographics Conference on Visualization (EuroVis)<sup>2</sup></dd>
+    <dd>VAST 2012 Challenge &ndash; 2 contributions<sup>E</sup></dd>
+    <dd>eHealth conference, Vienna<sup>1</sup></dd>
     <dt>2011</dt>
-    <dd>IEEE Information Visualization (InfoVis)</dd>
-    <dd>IEEE Visual Analytics Science and Technology (VAST)</dd>
+    <dd>IEEE Information Visualization (InfoVis)<sup>2</sup></dd>
+    <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>2</sup></dd>
     <dt>2010</dt>
-    <dd>IEEE Information Visualization (InfoVis)</dd>
-    <dd>IEEE Visual Analytics Science and Technology (VAST)</dd>
-    <dd>IEEE Pacific Visualization Symposium (PacificVis) &ndash; 2 papers</dd>
-    <dd>IEEE International Conference on Data Mining (ICDM)</dd>
-    <dd>eHealth conference, Vienna</dd>
+    <dd>IEEE Information Visualization (InfoVis)<sup>2</sup></dd>
+    <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>2</sup></dd>
+    <dd>IEEE Pacific Visualization Symposium (PacificVis) &ndash; 2 papers<sup>1,2</sup></dd>
+    <dd>IEEE International Conference on Data Mining (ICDM)<sup>1</sup></dd>
+    <dd>eHealth conference, Vienna<sup>1</sup></dd>
     <dt>2009</dt>
-    <dd>ACM Symposium on User Interface Software and Technology (UIST)</dd>
+    <dd>ACM Symposium on User Interface Software and Technology (UIST)<sup>2</sup></dd>
   </dl>
+
+  <p style="font-size: 80%">
+   PC...programme committee member<br />
+   E...external reviewer/invitation from editor or programme committee member   <br />
+   1...in cooperation with Silvia Miksch    <br />
+   2...in cooperation with Wolfgang Aigner  <br />
+  </p>
 
   <a class="top_link" href="#top">top</a>
 
