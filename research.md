@@ -194,7 +194,7 @@ mod-date: 2014-10-05
     <dt>2014</dt>
     <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>E</sup></dd>
     <dd>IEEE Information Visualization (InfoVis) &ndash; 3 papers<sup>2</sup></dd>
-    <dd>EuroVis Short Papers International<sup>PC</sup></dd>
+    <dd>EuroVis Short Papers<sup>PC</sup></dd>
     <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>2</sup></dd>
     <dd>ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup></dd>
     <dd>Journal of the American Medical Informatics Association, special issue on "Visual Analytics"<sup>E</sup></dd>

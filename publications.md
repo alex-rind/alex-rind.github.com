@@ -87,27 +87,26 @@ mod-date: 2014-10-09
 ## Refereed Conference &amp; Workshop Articles {#inproc}
 
 <p>
- Rind, A.; Aigner, W.; Wagner, M.; Lammarsch, T. &amp; Miksch, S.:
+ Rind, A.; Aigner, W.; Wagner, M.; Miksch, S. &amp; Lammarsch, T.:
  <b><a href="http://mc.fhstp.ac.at/sites/default/files/publications/rind_2014_beliv_task_postprint.pdf" class="pdf">User Tasks for Evaluation: Untangling the Terminology Throughout Visualization Design and Development</a></b>,
- Lam, H.; Isenberg,  P.; Isenberg T.  &amp; Sedlmair M. (eds.), <em>Proceedings of the 2014 Workshop on Beyond Time And Errors: Novel Evaluation Methods For Visualization, BELIV</em>,
- <!-- p.&nbsp;301-320, --> New York, ACM, 2014.
+ Lam, H.; Isenberg,  P.; Isenberg T.  &amp; Sedlmair M. (eds.), <em>Proceedings of the Fifth Workshop on Beyond Time and Errors: Novel Evaluation Methods for Visualization, BELIV</em>,
+ p.&nbsp;9-15, New York, ACM, 2014.
  forthcoming.
- <!-- doi:<a href="http://dx.doi.org/10.1145/2669557.2669568" class="external">10.1145/2669557.2669568</a> -->
+ doi:<a href="http://dx.doi.org/10.1145/2669557.2669568" class="external">10.1145/2669557.2669568</a>
 </p>
 
 <p>
  Wagner, M.; Aigner, W.; Rind, A.; Dornhackl, H.; Kadletz, K.; Luh, R. &amp; Tavolato, P.:
- <b><!--<a href="" class="pdf">-->Problem Characterization and Abstraction for Visual Analytics in Behavior-Based Malware Pattern Analysis<!--</a>--></b>,
+ <b><a href="http://mc.fhstp.ac.at/sites/default/files/publications/wagner_2014_VizSec_problem.pdf" class="pdf">Problem Characterization and Abstraction for Visual Analytics in Behavior-Based Malware Pattern Analysis</a></b>,
  Engle, S. (ed.), <em>Proceedings of the 2014 Workshop on  Visualization for Cyber Security, VizSec</em>,
  <!-- p.&nbsp;301-320, --> New York, ACM, 2014.
  forthcoming.
-<!-- doi:<a href="http://dx.doi.org//10.1145/2671491.2671498" class="external">10.1145/2671491.2671498
-</a> -->
+ doi:<a href="http://dx.doi.org//10.1145/2671491.2671498" class="external">10.1145/2671491.2671498</a>
 </p>
 
 <p>
  B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
- <b><!--<a href="" class="pdf">-->Visual Analytics Methods to Guide Diagnostics for Time Series Model Predictions<!--</a>--></b>,
+ <b><a href="http://predictive-workshop.github.io/papers/vpa2014_7.pdf" class="pdf">Visual Analytics Methods to Guide Diagnostics for Time Series Model Predictions</a></b>,
  Perer A.; Bertini, E.; Maciejewski, R. &amp; Sun, J. (eds.), <em>Proceedings of the IEEE VIS 2014 Workshop on Visualization for Predictive Analytics, VPA</em>,
  <!-- p.&nbsp;301-320, --> 2014.
  forthcoming.
