@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2014-10-09
+mod-date: 2014-11-19
 ---
 
 <ul class="toc">
@@ -100,7 +100,6 @@ mod-date: 2014-10-09
  <b><a href="http://mc.fhstp.ac.at/sites/default/files/publications/wagner_2014_VizSec_problem.pdf" class="pdf">Problem Characterization and Abstraction for Visual Analytics in Behavior-Based Malware Pattern Analysis</a></b>,
  Engle, S. (ed.), <em>Proceedings of the 2014 Workshop on  Visualization for Cyber Security, VizSec</em>,
  <!-- p.&nbsp;301-320, --> New York, ACM, 2014.
- forthcoming.
  doi:<a href="http://dx.doi.org//10.1145/2671491.2671498" class="external">10.1145/2671491.2671498</a>
 </p>
 
@@ -109,7 +108,6 @@ mod-date: 2014-10-09
  <b><a href="http://predictive-workshop.github.io/papers/vpa2014_7.pdf" class="pdf">Visual Analytics Methods to Guide Diagnostics for Time Series Model Predictions</a></b>,
  Perer A.; Bertini, E.; Maciejewski, R. &amp; Sun, J. (eds.), <em>Proceedings of the IEEE VIS 2014 Workshop on Visualization for Predictive Analytics, VPA</em>,
  <!-- p.&nbsp;301-320, --> 2014.
- forthcoming.
  <a href="http://predictive-workshop.github.io/" class="external">workshop website</a>
 </p>
 
@@ -231,6 +229,14 @@ doi:<a href="http://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="exte
 [top](#top){: .top_link}
 
 ## Miscellaneous &amp; German Articles {#misc}
+
+<p>
+ Lammarsch, T.; Aigner, W.; Miksch, S. &amp; Rind, A.:
+ <b><a href="http://beyond.wallviz.dk/wp-content/uploads/2014/10/Submission1.pdf" class="pdf">Showing Important Facts to a Critical Audience by Means Beyond Desktop Computing</a></b>,
+ <em>Proceedings of the IEEE VIS 2014 Workshop on Envisioning Visualization without Desktop Computing</em>,
+ Paris, France, 2014.
+ <a href="http://beyond.wallviz.dk/" class="external">workshop website</a>
+</p>
 
 <p>
  Rind, A.; Neubauer, B.; Aigner, W. &amp; Miksch, S.:
