@@ -195,12 +195,14 @@ mod-date: 2014-10-05
     <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>E</sup></dd>
     <dd>IEEE Information Visualization (InfoVis) &ndash; 3 papers<sup>2</sup></dd>
     <dd>EuroVis Short Papers<sup>PC</sup></dd>
-    <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>2</sup></dd>
+    <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG) &ndash; 2 papers<sup>E,2</sup></dd>
     <dd>ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup></dd>
     <dd>Journal of the American Medical Informatics Association, special issue on "Visual Analytics"<sup>E</sup></dd>
     <dd>it&mdash;Information Technology, special issue on "Visual Analytics"<sup>2</sup></dd>
     <dd>IBM Journal of Research and Development, special issue on "Multimedia and Visual Analytics"<sup>E</sup></dd>
     <dd>Forum Medientechnik<sup>PC</sup></dd>
+    <dd>Forschungsforum der &ouml;sterreichischen Fachhochschulen<sup>PC</sup></dd>
+    <dd>International Conference on Information Visualization Theory and Applications (IVAPP)<sup>2</sup>
     <dd>International Symposium on Visual Information Communication and Interaction (VINCI) &ndash; 2 papers<sup>2</sup><dd>
     <dt>2013</dt>
     <dd>Conference on Artificial Intelligence in MEdicine (AIME)<sup>E</sup></dd>
