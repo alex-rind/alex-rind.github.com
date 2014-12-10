@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2014-11-19
+mod-date: 2014-12-10
 ---
 
 <ul class="toc">
@@ -98,9 +98,10 @@ mod-date: 2014-11-19
 <p>
  Wagner, M.; Aigner, W.; Rind, A.; Dornhackl, H.; Kadletz, K.; Luh, R. &amp; Tavolato, P.:
  <b><a href="http://mc.fhstp.ac.at/sites/default/files/publications/wagner_2014_VizSec_problem.pdf" class="pdf">Problem Characterization and Abstraction for Visual Analytics in Behavior-Based Malware Pattern Analysis</a></b>,
- Engle, S. (ed.), <em>Proceedings of the 2014 Workshop on  Visualization for Cyber Security, VizSec</em>,
- <!-- p.&nbsp;301-320, --> New York, ACM, 2014.
+ Whitley, K.; Engle, S.; Harrison, L.; Fischer, F. &amp; Prigent N. (eds.), <em>Proceedings of the Eleventh Workshop on Visualization for Cyber Security, VizSec</em>,
+ p.&nbsp;9-16, New York, ACM, 2014.
  doi:<a href="http://dx.doi.org//10.1145/2671491.2671498" class="external">10.1145/2671491.2671498</a>
+ <!-- (acceptance rate 28%) -->
 </p>
 
 <p>
