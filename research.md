@@ -191,6 +191,8 @@ mod-date: 2014-11-19
   <h2 id="reviewing">reviewing</h2>
 
   <dl>
+    <dt>2015</dt>
+    <dd>Eurographics Conference on Visualization (EuroVis)<sup>E</sup></dd>
     <dt>2014</dt>
     <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>E</sup></dd>
     <dd>IEEE Information Visualization (InfoVis) &ndash; 3 papers<sup>2</sup></dd>

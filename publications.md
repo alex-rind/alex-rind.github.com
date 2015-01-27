@@ -9,6 +9,7 @@ mod-date: 2014-12-10
     <li><a href="#article">Refereed Journal Articles</a></li>
     <li><a href="#inproc">Refereed Conference &amp; Workshop Articles</a></li>
     <li><a href="#inbook">Contributions in Books</a></li>
+    <li><a href="#talks">Invited Talks</a></li>
     <!--  <li><a href="#04">Books (Editor)</a></li> -->
     <!-- <li><a href="#05">Journals (Editor)</a></li> -->
     <!-- <li><a href="#06">Magazines (Editor)</a></li> -->
@@ -226,6 +227,22 @@ doi:<a href="http://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="exte
  Egger, R. &amp; Buhalis, D. (eds.), <em>eTourism Case Studies: Management and Marketing Issues in eTourism</em>, p. 361-371, Elsevier, Aug, 2008.
  <br /><span style="font-size: 80%">Please contact me for a preprint version.</span>
 </p>
+
+[top](#top){: .top_link}
+
+## Invited Talks {#talks}
+
+Rind, A.:
+__[Visual Analytics with a Focus on Time](http://www.ifs.tuwien.ac.at/~rind/preprint/20150121_TimeVis_Marseille_Invited-Talk.pdf){: .pdf}__,
+Invited talk at
+Blaise, J.-Y. (ed.), _MAP 2015 -- Modeles et simulations pour l'Architecture et le Patrimoine,_
+Campus CNRS Joseph Aiguier, Marseille, France, January 21, 2015.
+
+Rind, A.:
+__TimeRider -- Exploring Bivariate Data across Time with Static and Dynamic Scatter Plots__,
+Invited Demo at
+_EuroVis 2012 LabVisit in conjunction with the EuroGraphics/VGTC Conference on Visualization,_
+VRVis, Vienna, Austria, June 6, 2012.
 
 [top](#top){: .top_link}
 
