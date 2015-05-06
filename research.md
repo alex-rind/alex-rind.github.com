@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2014-11-19
+mod-date: 2015-05-06
 ---
 
 <ul class="toc">
@@ -193,6 +193,10 @@ mod-date: 2014-11-19
   <dl>
     <dt>2015</dt>
     <dd>Eurographics Conference on Visualization (EuroVis)<sup>E</sup></dd>
+    <dd>IEEE Information Visualization (InfoVis)<sup>E</sup></dd>
+    <dd>IEEE Visual Analytics Science and Technology (VAST) &ndash; 2 papers<sup>2</sup></dd>
+    <dd>Journal of the American Medical Informatics Association<sup>E</sup></dd>
+    <dd>International Conferences in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG)<sup>E</sup></dd>
     <dt>2014</dt>
     <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>E</sup></dd>
     <dd>IEEE Information Visualization (InfoVis) &ndash; 3 papers<sup>2</sup></dd>

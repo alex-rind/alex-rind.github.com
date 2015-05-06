@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2014-12-10
+mod-date: 2015-05-06
 ---
 
 <ul class="toc">
@@ -87,23 +87,36 @@ mod-date: 2014-12-10
 
 ## Refereed Conference &amp; Workshop Articles {#inproc}
 
-<p>
- Rind, A.; Aigner, W.; Wagner, M.; Miksch, S. &amp; Lammarsch, T.:
- <b><a href="http://mc.fhstp.ac.at/sites/default/files/publications/rind_2014_beliv_task_postprint.pdf" class="pdf">User Tasks for Evaluation: Untangling the Terminology Throughout Visualization Design and Development</a></b>,
- Lam, H.; Isenberg,  P.; Isenberg T.  &amp; Sedlmair M. (eds.), <em>Proceedings of the Fifth Workshop on Beyond Time and Errors: Novel Evaluation Methods for Visualization, BELIV</em>,
- p.&nbsp;9-15, New York, ACM, 2014.
- forthcoming.
- doi:<a href="http://dx.doi.org/10.1145/2669557.2669568" class="external">10.1145/2669557.2669568</a>
-</p>
+Wagner, M.; Fischer, F.; Luh, R.; Haberson, A.; Rind, A.; Keim, D. A. &amp; Aigner, W.:
+__A Survey of Visualization Systems for Malware Analysis__,
+Borgo, R.; Ganovelli, F. &amp; Viola, I. (eds.), _Proceedings of Eurographics Conference on Visualization (EuroVis) State of The Art Reports,_
+Cagliari, Italy, Eurographics, 2015.
+forthcoming.
 
-<p>
- Wagner, M.; Aigner, W.; Rind, A.; Dornhackl, H.; Kadletz, K.; Luh, R. &amp; Tavolato, P.:
- <b><a href="http://mc.fhstp.ac.at/sites/default/files/publications/wagner_2014_VizSec_problem.pdf" class="pdf">Problem Characterization and Abstraction for Visual Analytics in Behavior-Based Malware Pattern Analysis</a></b>,
- Whitley, K.; Engle, S.; Harrison, L.; Fischer, F. &amp; Prigent N. (eds.), <em>Proceedings of the Eleventh Workshop on Visualization for Cyber Security, VizSec</em>,
- p.&nbsp;9-16, New York, ACM, 2014.
- doi:<a href="http://dx.doi.org//10.1145/2671491.2671498" class="external">10.1145/2671491.2671498</a>
- <!-- (acceptance rate 28%) -->
-</p>
+B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
+__Integrating Predictions in Time Series Model Selection__,
+Bertini, E. &amp; Roberts, J. C. (eds.), _Proceedings of the Sixth International EuroVis Workshop on Visual Analytics (EuroVA 2015),_
+Cagliari, Italy, Eurographics, 2015.
+forthcoming.
+
+Wagner, M.; Aigner, W.; Haberson, A. &amp; Rind, A.:
+__[Literature Review in Visual Analytics for Malware Pattern Analysis](http://mc.fhstp.ac.at/sites/default/files/publications/Wagner_LiteratureReviewInVisualAnalytics.pdf){: .pdf}__, 
+_Proceedings of the 9th Forschungsforum der &ouml;sterreichischen Fachhochschulen,_
+FH Hagenberg, 2015.
+uri:<http://ffhoarep.fh-ooe.at/handle/123456789/362>{: .external}
+
+Rind, A.; Aigner, W.; Wagner, M.; Miksch, S. &amp; Lammarsch, T.:
+__[User Tasks for Evaluation: Untangling the Terminology Throughout Visualization Design and Development](http://mc.fhstp.ac.at/sites/default/files/publications/rind_2014_beliv_task_postprint.pdf){: .pdf}__,
+Lam, H.; Isenberg,  P.; Isenberg T. &amp; Sedlmair M. (eds.), _Proceedings of the Fifth Workshop on Beyond Time and Errors: Novel Evaluation Methods for Visualization, BELIV,_
+p.&nbsp;9-15, New York, ACM, 2014.
+doi:[10.1145/2669557.2669568](http://dx.doi.org/10.1145/2669557.2669568){: .external}
+
+Wagner, M.; Aigner, W.; Rind, A.; Dornhackl, H.; Kadletz, K.; Luh, R. &amp; Tavolato, P.:
+__[Problem Characterization and Abstraction for Visual Analytics in Behavior-Based Malware Pattern Analysis](http://mc.fhstp.ac.at/sites/default/files/publications/wagner_2014_VizSec_problem.pdf){: .pdf}__,
+Whitley, K.; Engle, S.; Harrison, L.; Fischer, F. &amp; Prigent N. (eds.), _Proceedings of the Eleventh Workshop on Visualization for Cyber Security, VizSec,_
+p.&nbsp;9-16, New York, ACM, 2014.
+doi:[10.1145/2671491.2671498](http://dx.doi.org/10.1145/2671491.2671498){: .external}
+<!-- (acceptance rate 28%) -->
 
 <p>
  B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
