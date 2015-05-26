@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2015-05-06
+mod-date: 2015-05-26
 ---
 
 <ul class="toc">
@@ -88,7 +88,7 @@ mod-date: 2015-05-06
 ## Refereed Conference &amp; Workshop Articles {#inproc}
 
 Wagner, M.; Fischer, F.; Luh, R.; Haberson, A.; Rind, A.; Keim, D. A. &amp; Aigner, W.:
-__A Survey of Visualization Systems for Malware Analysis__,
+__[A Survey of Visualization Systems for Malware Analysis](http://publik.tuwien.ac.at/files/PubDat_238853.pdf){: .pdf}__,
 Borgo, R.; Ganovelli, F. &amp; Viola, I. (eds.), _Proceedings of Eurographics Conference on Visualization (EuroVis) State of The Art Reports,_
 Cagliari, Italy, Eurographics, 2015.
 forthcoming.
