@@ -95,7 +95,7 @@ doi:[10.2312/eurovisstar.20151114](http://dx.doi.org/10.2312/eurovisstar.2015111
 
 B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
 __[Integrating Predictions in Time Series Model Selection](http://mc.fhstp.ac.at/sites/default/files/publications/boegl_2015_eurova_timova_postprint.pdf){: .pdf}__,
-Bertini, E. &amp; Roberts, J. C. (eds.), _Proceedings of the Sixth International EuroVis Workshop on Visual Analytics (EuroVA 2015),_
+Bertini, E. &amp; Roberts, J. C. (eds.), _Proceedings of the Sixth International EuroVis Workshop on Visual Analytics, EuroVA,_
 p.&nbsp;73-77, Cagliari, Italy, Eurographics, 2015.
 doi:[10.2312/eurova.20151107](http://dx.doi.org/10.2312/eurova.20151107){: .external}
 
@@ -118,37 +118,29 @@ p.&nbsp;9-16, New York, ACM, 2014.
 doi:[10.1145/2671491.2671498](http://dx.doi.org/10.1145/2671491.2671498){: .external}
 <!-- (acceptance rate 28%) -->
 
-<p>
- B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
- <b><a href="http://predictive-workshop.github.io/papers/vpa2014_7.pdf" class="pdf">Visual Analytics Methods to Guide Diagnostics for Time Series Model Predictions</a></b>,
- Perer A.; Bertini, E.; Maciejewski, R. &amp; Sun, J. (eds.), <em>Proceedings of the IEEE VIS 2014 Workshop on Visualization for Predictive Analytics, VPA</em>,
- <!-- p.&nbsp;301-320, --> 2014.
- <a href="http://predictive-workshop.github.io/" class="external">workshop website</a>
-</p>
+B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
+__[Visual Analytics Methods to Guide Diagnostics for Time Series Model Predictions](http://predictive-workshop.github.io/papers/vpa2014_7.pdf){: .pdf}__,
+Perer A.; Bertini, E.; Maciejewski, R. &amp; Sun, J. (eds.), _Proceedings of the IEEE VIS 2014 Workshop on Visualization for Predictive Analytics, VPA,_
+2014.
+[workshop website](http://predictive-workshop.github.io/){: .external}
 
-<p>
- Federico, P.; Hoffmann, S.; Rind, A.; Aigner, W. &amp; Miksch, S.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_228036.pdf" class="pdf">Qualizon Graphs: Space-Efficient Time-Series Visualization with Qualitative Abstractions</a></b>,
- <!-- (eds.), --><em>Proceedings of the 2014 International Working Conference on Advanced Visual Interfaces (AVI 2014)</em>,
- p. 273-280, ACM, 2014.
- doi:<a href="http://dx.doi.org/10.1145/2598153.2598172" class="external">10.1145/2598153.2598172</a>
-</p>
+Federico, P.; Hoffmann, S.; Rind, A.; Aigner, W. &amp; Miksch, S.:
+__[Qualizon Graphs: Space-Efficient Time-Series Visualization with Qualitative Abstractions](http://publik.tuwien.ac.at/files/PubDat_228036.pdf){: .pdf}__,
+<!-- (eds.), --> _Proceedings of the 2014 International Working Conference on Advanced Visual Interfaces, AVI,_
+p.&nbsp;273-280, ACM, 2014.
+doi:[10.1145/2598153.2598172](http://dx.doi.org/10.1145/2598153.2598172){: .external}
 
-<p>
- Lammarsch, T.; Aigner, W.; Bertone, A.; Miksch, S. &amp; Rind, A.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_218046.pdf" class="pdf">Mind the Time: Unleashing the Temporal Aspects in Pattern Discovery</a></b>,
- Pohl, M. &amp; Schumann, H. (eds.), <em>Proceedings of the Fourth International EuroVis Workshop on Visual Analytics held in Europe (EuroVA 2013)</em>,
- p. 31-35, Goslar, Eurographics, 2013.
- doi:<a href="http://dx.doi.org/10.2312/PE.EuroVAST.EuroVA13.031-035" class="external">10.2312/PE.EuroVAST.EuroVA13.031-035</a>
-</p>
+Lammarsch, T.; Aigner, W.; Bertone, A.; Miksch, S. &amp; Rind, A.:
+__[Mind the Time: Unleashing the Temporal Aspects in Pattern Discovery](http://publik.tuwien.ac.at/files/PubDat_218046.pdf){: .pdf}__,
+Pohl, M. &amp; Schumann, H. (eds.), _Proceedings of the Fourth International EuroVis Workshop on Visual Analytics held in Europe, EuroVA,_
+p.&nbsp;31-35, Goslar, Eurographics, 2013.
+doi:[10.2312/PE.EuroVAST.EuroVA13.031-035](http://dx.doi.org/10.2312/PE.EuroVAST.EuroVA13.031-035){: .external}
 
-<p>
- Lammarsch, T.; Aigner, W.; Bertone, A.; B&ouml;gl, M.; Gschwandtner, T.; Miksch, S. &amp; Rind, A.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_218044.pdf" class="pdf">Interactive Visual Transformation for Symbolic Representation of Time-oriented Data</a></b>,
- Holzinger, A. &amp; Pasi G. (eds.), <em>Human-Computer Interaction and Knowledge Discovery in Complex, Unstructured, Big Data (HCI-KDD 2013)</em>,
- LNCS 7947, p. 400-419, Heidelberg, Springer, 2013.
- doi:<a href="http://dx.doi.org/10.1007/978-3-642-39146-0_37" class="external">10.1007/978-3-642-39146-0_37</a>
-</p>
+Lammarsch, T.; Aigner, W.; Bertone, A.; B&ouml;gl, M.; Gschwandtner, T.; Miksch, S. &amp; Rind, A.:
+__[Interactive Visual Transformation for Symbolic Representation of Time-oriented Data](http://publik.tuwien.ac.at/files/PubDat_218044.pdf){: .pdf}__,
+Holzinger, A. &amp; Pasi G. (eds.), _Human-Computer Interaction and Knowledge Discovery in Complex, Unstructured, Big Data, HCI-KDD,_
+LNCS&nbsp;7947, p.&nbsp;400-419, Heidelberg, Springer, 2013.
+doi:[10.1007/978-3-642-39146-0_37](http://dx.doi.org/10.1007/978-3-642-39146-0_37){: .external}
 
 <p>
  Aigner, W.; Federico, P.; Gschwandtner, T.; Miksch, S.; &amp; Rind A.:
