@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2015-05-26
+mod-date: 2015-05-28
 ---
 
 <ul class="toc">
@@ -90,14 +90,14 @@ mod-date: 2015-05-26
 Wagner, M.; Fischer, F.; Luh, R.; Haberson, A.; Rind, A.; Keim, D. A. &amp; Aigner, W.:
 __[A Survey of Visualization Systems for Malware Analysis](http://publik.tuwien.ac.at/files/PubDat_238853.pdf){: .pdf}__,
 Borgo, R.; Ganovelli, F. &amp; Viola, I. (eds.), _Proceedings of Eurographics Conference on Visualization (EuroVis) State of The Art Reports,_
-Cagliari, Italy, Eurographics, 2015.
-forthcoming.
+p.&nbsp;105-125, Cagliari, Italy, Eurographics, 2015.
+doi:[10.2312/eurovisstar.20151114](http://dx.doi.org/10.2312/eurovisstar.20151114){: .external}
 
 B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
 __Integrating Predictions in Time Series Model Selection__,
 Bertini, E. &amp; Roberts, J. C. (eds.), _Proceedings of the Sixth International EuroVis Workshop on Visual Analytics (EuroVA 2015),_
-Cagliari, Italy, Eurographics, 2015.
-forthcoming.
+p.&nbsp;73-77, Cagliari, Italy, Eurographics, 2015.
+doi:[10.2312/eurova.20151107](http://dx.doi.org/10.2312/eurova.20151107){: .external}
 
 Wagner, M.; Aigner, W.; Haberson, A. &amp; Rind, A.:
 __[Literature Review in Visual Analytics for Malware Pattern Analysis](http://mc.fhstp.ac.at/sites/default/files/publications/Wagner_LiteratureReviewInVisualAnalytics.pdf){: .pdf}__, 
