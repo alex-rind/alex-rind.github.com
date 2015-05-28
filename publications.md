@@ -94,7 +94,7 @@ p.&nbsp;105-125, Cagliari, Italy, Eurographics, 2015.
 doi:[10.2312/eurovisstar.20151114](http://dx.doi.org/10.2312/eurovisstar.20151114){: .external}
 
 B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
-__Integrating Predictions in Time Series Model Selection__,
+__[Integrating Predictions in Time Series Model Selection](http://mc.fhstp.ac.at/sites/default/files/publications/boegl_2015_eurova_timova_postprint.pdf){: .pdf__,
 Bertini, E. &amp; Roberts, J. C. (eds.), _Proceedings of the Sixth International EuroVis Workshop on Visual Analytics (EuroVA 2015),_
 p.&nbsp;73-77, Cagliari, Italy, Eurographics, 2015.
 doi:[10.2312/eurova.20151107](http://dx.doi.org/10.2312/eurova.20151107){: .external}
