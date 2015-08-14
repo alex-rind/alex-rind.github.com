@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2015-05-28
+mod-date: 2015-08-14
 ---
 
 <ul class="toc">
@@ -86,6 +86,11 @@ mod-date: 2015-05-28
 [top](#top){: .top_link}
 
 ## Refereed Conference &amp; Workshop Articles {#inproc}
+
+B&ouml;gl, M.; Filzmoser, P.; Gschwandtner, T.; Miksch, S.; Aigner, W.; Rind, A. &amp; Lammarsch, T.:
+__[Visually and Statistically Guided Imputation of Missing Values in Univariate Seasonal Time Series](www.ifs.tuwien.ac.at/~rind/preprint/boegl_2015_vis_timi_postprint.pdf){: .pdf}__,
+Yang, J. &amp; Bertini, E. (eds.), _Poster Abstracts of IEEE VIS 2015, VAST track,_
+Chicago, IEEE, 2015.
 
 Wagner, M.; Fischer, F.; Luh, R.; Haberson, A.; Rind, A.; Keim, D. A. &amp; Aigner, W.:
 __[A Survey of Visualization Systems for Malware Analysis](http://publik.tuwien.ac.at/files/PubDat_238853.pdf){: .pdf}__,
