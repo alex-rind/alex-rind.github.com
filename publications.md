@@ -88,7 +88,7 @@ mod-date: 2015-08-14
 ## Refereed Conference &amp; Workshop Articles {#inproc}
 
 B&ouml;gl, M.; Filzmoser, P.; Gschwandtner, T.; Miksch, S.; Aigner, W.; Rind, A. &amp; Lammarsch, T.:
-__[Visually and Statistically Guided Imputation of Missing Values in Univariate Seasonal Time Series](www.ifs.tuwien.ac.at/~rind/preprint/boegl_2015_vis_timi_postprint.pdf){: .pdf}__,
+__[Visually and Statistically Guided Imputation of Missing Values in Univariate Seasonal Time Series](http://www.ifs.tuwien.ac.at/~rind/preprint/boegl_2015_vis_timi_postprint.pdf){: .pdf}__,
 Yang, J. &amp; Bertini, E. (eds.), _Poster Abstracts of IEEE VIS 2015, VAST track,_
 Chicago, IEEE, 2015.
 
