@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2015-05-06
+mod-date: 2015-08-31
 ---
 
 <ul class="toc">
@@ -192,10 +192,14 @@ mod-date: 2015-05-06
 
   <dl>
     <dt>2015</dt>
+    <dd>Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup></dd>
+    <dd>IEEE International Symposium on Big Data Visual Analytics (BDVA)<sup>PC</sup></dd>
     <dd>Eurographics Conference on Visualization (EuroVis)<sup>E</sup></dd>
     <dd>IEEE Information Visualization (InfoVis)<sup>E</sup></dd>
     <dd>IEEE Visual Analytics Science and Technology (VAST) &ndash; 2 papers<sup>2</sup></dd>
-    <dd>Journal of the American Medical Informatics Association<sup>E</sup></dd>
+    <dd>Journal of the American Medical Informatics Association (JAMIA)<sup>E</sup></dd>
+    <dd>The Visual Computer (TVCJ)<sup>E</sup></dd>
+    <dd>International Conference on Information Visualization Theory and Applications (IVAPP)<sup>2</sup>
     <dd>International Conferences in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG)<sup>E</sup></dd>
     <dt>2014</dt>
     <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>E</sup></dd>
@@ -208,7 +212,6 @@ mod-date: 2015-05-06
     <dd>IBM Journal of Research and Development, special issue on "Multimedia and Visual Analytics"<sup>E</sup></dd>
     <dd>Forum Medientechnik<sup>PC</sup></dd>
     <dd>Forschungsforum der &ouml;sterreichischen Fachhochschulen<sup>PC</sup></dd>
-    <dd>International Conference on Information Visualization Theory and Applications (IVAPP)<sup>2</sup>
     <dd>International Symposium on Visual Information Communication and Interaction (VINCI) &ndash; 2 papers<sup>2</sup><dd>
     <dt>2013</dt>
     <dd>Conference on Artificial Intelligence in MEdicine (AIME)<sup>E</sup></dd>
