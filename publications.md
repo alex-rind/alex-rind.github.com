@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2015-08-14
+mod-date: 2015-09-28
 ---
 
 <ul class="toc">
@@ -310,12 +310,20 @@ No. HCIL-2010-19, <em>University of Maryland</em>, College Park, 2010.</p>
 
 ## Dissemination to a General Audience {#general}
 
+<p id="aigner_2015_ern">
+ Aigner, W.; Niederer, C; Rind, A. &amp; Wagner, M.:
+ <b><a class="pdf" href="http://www.ifs.tuwien.ac.at/~rind/preprint/aigner_2015_ern.pdf">Aus Daten schlau werden: Visual Analytics mit einem Fokus auf Zeit</a></b>,
+ <em>European Researchers' Night: F.I.T. for Future</em>,
+ Vienna, Austria, September 25, 2015.
+ <a class="external" href=""http://www.fit-for-future.at/aus-daten-schlau-werden-visual-analytics-mit-einem-fokus-auf-zeit">website</a>
+</p>
+
 <p id="aigner_2014_ern">
  Aigner, W.; Haberson, A; Rind, A. &amp; Wagner, M.:
  <b><a class="pdf" href="http://www.ifs.tuwien.ac.at/~rind/preprint/aigner_2014_ern.pdf">Durchblick: Aus Daten schlau werden</a></b>,
- <em>European Researchers' Night: F.I.T. for Future</em>, 
+ <em>European Researchers' Night: F.I.T. for Future</em>,
  Vienna, Austria, September 26, 2014.
- <a class="external" href="http://www.fit-for-future.at/durchblick-aus-daten-schlau-werden-2">website</a>
+<!-- <a class="external" href="http://www.fit-for-future.at/durchblick-aus-daten-schlau-werden-2">website</a> -->
 </p>
 
 <p id="muehlmann_2009_lndf">
