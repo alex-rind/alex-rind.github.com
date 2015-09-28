@@ -315,7 +315,7 @@ No. HCIL-2010-19, <em>University of Maryland</em>, College Park, 2010.</p>
  <b><a class="pdf" href="http://www.ifs.tuwien.ac.at/~rind/preprint/aigner_2015_ern.pdf">Aus Daten schlau werden: Visual Analytics mit einem Fokus auf Zeit</a></b>,
  <em>European Researchers' Night: F.I.T. for Future</em>,
  Vienna, Austria, September 25, 2015.
- <a class="external" href=""http://www.fit-for-future.at/aus-daten-schlau-werden-visual-analytics-mit-einem-fokus-auf-zeit">website</a>
+ <a class="external" href="http://www.fit-for-future.at/aus-daten-schlau-werden-visual-analytics-mit-einem-fokus-auf-zeit">website</a>
 </p>
 
 <p id="aigner_2014_ern">
