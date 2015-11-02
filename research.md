@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2015-08-31
+mod-date: 2015-11-02
 ---
 
 <ul class="toc">
@@ -16,16 +16,16 @@ mod-date: 2015-08-31
   <h2 id="funded">funded research projects</h2>
 
   <dl>
-    <dt>starting 01/2015</dt>
+    <dt>since 01/2015</dt>
     <dd>
-      <!-- <a href="http://mc.fhstp.ac.at/projects/kava-time">
-        <img src="img/kava-time_logo_112.png" alt="KAVA-Time" width="112" height="65" align="right" />
-      </a> -->
+      <a href="http://www.validproject.at/">
+        <img src="img/valid_logo_112.png" alt="VALID" width="112" height="56" align="right" />
+      </a>
       <p class="project">VALID&mdash;Visual Analytics in Data-driven Journalism</p>
        Austrian Research Promotion Agency (FFG), IKT der Zukunft<br />
       <a href="http://english.fhstp.ac.at/research/institutes_areas/media_technologies" class="external">St.&nbsp;P&ouml;lten
-          University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<!--<br />
-      <a href="http://mc.fhstp.ac.at/projects/kava-time" class="external">project webpage</a> -->
+          University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
+      <a href="http://www.validproject.at/" class="external">project webpage</a>
     </dd>
 
     <dt>since 08/2013</dt>
@@ -191,12 +191,15 @@ mod-date: 2015-08-31
   <h2 id="reviewing">reviewing</h2>
 
   <dl>
+    <dt>2016</dt>
+    <dd>ACM Conference on Human Factors in Computing Systems (CHI)<sup>2</sup></dd>
     <dt>2015</dt>
     <dd>Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup></dd>
     <dd>IEEE International Symposium on Big Data Visual Analytics (BDVA)<sup>PC</sup></dd>
     <dd>Eurographics Conference on Visualization (EuroVis)<sup>E</sup></dd>
     <dd>IEEE Information Visualization (InfoVis)<sup>E</sup></dd>
     <dd>IEEE Visual Analytics Science and Technology (VAST) &ndash; 2 papers<sup>2</sup></dd>
+    <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>2</sup></dd>
     <dd>Journal of the American Medical Informatics Association (JAMIA)<sup>E</sup></dd>
     <dd>The Visual Computer (TVCJ)<sup>E</sup></dd>
     <dd>International Conference on Information Visualization Theory and Applications (IVAPP)<sup>2</sup>
