@@ -112,6 +112,11 @@ since 10/2004
 
 ## awards
 
+2015
+: IEEE Conference on Visual Analytics Science and Technology
+: [Best Poster Award](http://www.cvast.tuwien.ac.at/sites/default/files/BestPosterAward_0.pdf){: .external}
+for B&ouml;gl et al., Visually and Statistically Guided Imputation of Missing Values in Univariate Seasonal Time Series
+
 2012
 : Faculty of Informatics, Vienna University of Technology
 : Nomination to the [Young Distinguished Alumnus Award](http://www.informatik.tuwien.ac.at/studium/studierende/epilog/){: .external}

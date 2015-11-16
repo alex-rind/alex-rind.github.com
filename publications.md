@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2015-09-28
+mod-date: 2015-11-16
 ---
 
 <ul class="toc">
@@ -23,6 +23,12 @@ mod-date: 2015-09-28
 </ul>
 
 ## Refereed Journal Articles {#article}
+
+Rind, A.; Aigner, W.; Wagner, M.; Miksch, S. &amp; Lammarsch, T.:
+__[Task Cube: A Three-Dimensional Conceptual Space of User Tasks in Visualization Design and Evaluation](http://mc.fhstp.ac.at/sites/default/files/publications/rind_2015_ivi_task-cube_postprint.pdf){: .pdf}__,
+_Information Visualization, special issue on Evaluation in Visualization_,
+In Press.
+<!-- doi:[10.1145/2669557.2669568](http://dx.doi.org/10.1145/2669557.2669568){: .external} -->
 
 <p>
  Lammarsch, T.; Aigner, W.; Bertone, A.; Miksch, S. &amp; Rind, A.:
@@ -103,6 +109,11 @@ __[Integrating Predictions in Time Series Model Selection](http://mc.fhstp.ac.at
 Bertini, E. &amp; Roberts, J. C. (eds.), _Proceedings of the Sixth International EuroVis Workshop on Visual Analytics, EuroVA,_
 p.&nbsp;73-77, Cagliari, Italy, Eurographics, 2015.
 doi:[10.2312/eurova.20151107](http://dx.doi.org/10.2312/eurova.20151107){: .external}
+
+Niederer, C.; Aigner, W. &amp; Rind, A.:
+__[Survey on Visualizing Dynamic, Weighted, and Directed Graphs in the Context of Data-Driven Journalism](http://www.ifs.tuwien.ac.at/~rind/preprint/niederer_2015_vcss_survey.pdf){: .pdf}__,
+Schulz, H.-J.; Urban, B. &amp; von Lukas, U. (eds.), _Proceedings of the International Summer School on Visual Computing 2015,_
+Rostock, Fraunhofer, 2015. forthcoming.
 
 Wagner, M.; Aigner, W.; Haberson, A. &amp; Rind, A.:
 __[Literature Review in Visual Analytics for Malware Pattern Analysis](http://mc.fhstp.ac.at/sites/default/files/publications/Wagner_LiteratureReviewInVisualAnalytics.pdf){: .pdf}__, 
@@ -231,16 +242,27 @@ doi:<a href="http://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="exte
 
 ## Contributions in Books {#inbook}
 
-<p id="Waldhoer_2008__TAIDayTripIndicatorMeasuringValueAddedintheTourismSector">
- Waldh&ouml;r, K.; Freidl, C.; Rind, A. &amp; Ecker, K.:
- <a class="external" href="http://books.google.at/books?id=6J4qnLeywS8C"><b>TAI (Day Trip Indicator) &ndash; Measuring Value Added in the Tourism Sector</b></a>,
- Egger, R. &amp; Buhalis, D. (eds.), <em>eTourism Case Studies: Management and Marketing Issues in eTourism</em>, p. 361-371, Elsevier, Aug, 2008.
- <br /><span style="font-size: 80%">Please contact me for a preprint version.</span>
-</p>
+Rind, A.; Federico, P.; Gschwandtner,  T.; Aigner, W.; Doppler, J. &amp; Wagner, M.:
+__Visual Analytics of Electronic Health Records with a Focus on Time__, 
+Rinaldi, G. (ed.), _New Perspectives in Medical Records: Meeting the Needs of Patients and Practitioners,_ 
+Cham, Springer TELe-Health, In Press.\\
+<span style="font-size: 80%">Please contact me for a preprint version.</span>
+
+Waldh&ouml;r, K.; Freidl, C.; Rind, A. &amp; Ecker, K.:
+__[TAI (Day Trip Indicator) &ndash; Measuring Value Added in the Tourism Sector](http://books.google.at/books?id=6J4qnLeywS8C){: .external}__,
+Egger, R. &amp; Buhalis, D. (eds.), _eTourism Case Studies: Management and Marketing Issues in eTourism,_ 
+p. 361-371, Elsevier, Aug, 2008. \\
+<span style="font-size: 80%">Please contact me for a preprint version.</span>
 
 [top](#top){: .top_link}
 
 ## Invited Talks {#talks}
+
+Rind, A.:
+__Visual Analytics of Health Care Data with a Focus on Time__,
+Invited talk at
+Rinaldi, G. (ed.), _International Workshop 2015: Medical records update,_
+A.O. Ospedali Riuniti Marche Nord, Pesaro, Italy, October 21, 2015.
 
 Rind, A.:
 __[Visual Analytics with a Focus on Time](http://www.ifs.tuwien.ac.at/~rind/preprint/20150121_TimeVis_Marseille_Invited-Talk.pdf){: .pdf}__,
