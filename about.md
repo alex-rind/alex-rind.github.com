@@ -2,7 +2,7 @@
 layout: default
 title: "about"
 longtitle: "About Me / Curriculum Vitae"
-mod-date: 2014-10-09
+mod-date: 2015-11-19
 ---
 
 <ul class="toc">

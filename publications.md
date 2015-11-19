@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2015-11-16
+mod-date: 2015-11-19
 ---
 
 <ul class="toc">
@@ -95,7 +95,7 @@ In Press.
 
 B&ouml;gl, M.; Filzmoser, P.; Gschwandtner, T.; Miksch, S.; Aigner, W.; Rind, A. &amp; Lammarsch, T.:
 __[Visually and Statistically Guided Imputation of Missing Values in Univariate Seasonal Time Series](http://www.ifs.tuwien.ac.at/~rind/preprint/boegl_2015_vis_timi_postprint.pdf){: .pdf}__,
-Yang, J. &amp; Bertini, E. (eds.), _Poster Abstracts of IEEE VIS 2015, VAST track,_
+Yang, J.; Bertini, E.; Elmqvist, N.; Dwyer,  T.; Yuan,  X. &amp; Carr, H. (eds.), _Poster Proceedings of the IEEE Visualization Conference 2015, VAST track,_
 Chicago, IEEE, 2015.
 
 Wagner, M.; Fischer, F.; Luh, R.; Haberson, A.; Rind, A.; Keim, D. A. &amp; Aigner, W.:
