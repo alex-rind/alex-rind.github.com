@@ -1,6 +1,6 @@
 ---
 layout: default
-mod-date: 2014-10-09
+mod-date: 2015-12-10
 ---
 
 I am a scientific researcher at the
@@ -44,9 +44,8 @@ and received my M.Sc. degree from the Vienna University of Technology in 2004.
 	<li><a
 	href="http://www.infovis-wiki.net/index.php/Visual_Analytics"
 	class="external">Science of Interaction</a></li>
-	<li><a href="http://www.ifs.tuwien.ac.at/~lammarsch/HypoVis/"
-	class="external">Hypotheses &amp; Models</a></li>
-	<!-- // <li>Explicit Knowledge</li> -->
+	<li><a href="http://www.cvast.tuwien.ac.at/ieg-projects/hypovis" class="external">Hypotheses &amp; Models</a></li>
+	<li><a href="http://mc.fhstp.ac.at/projects/kava-time" class="external">Explicit Knowledge</a></li>
     </ul></li>
     <li><a href="http://www.timeviz.net/"
     class="external">Time-oriented Data</a></li>
@@ -56,9 +55,8 @@ and received my M.Sc. degree from the Vienna University of Technology in 2004.
 	href="http://ieg.ifs.tuwien.ac.at/projects/VisuExplore/"
 	class="external">User Centered Design</a>
 	</li>
-	<li><a
-	href="http://dx.doi.org/10.1561/1100000039"
-	class="external">Visualization of Electronic Health Records</a></li>
+	<li><a href="http://dx.doi.org/10.1561/1100000039" class="external">Visualization of Electronic Health Records</a></li>
+	<li><a href="http://dx.doi.org/10.2312/eurovisstar.20151114" class="external">Malicious Software Analysis</a></li>
 	<!-- <li>Business Intelligence</li> -->
     </ul>
     </li>
@@ -73,10 +71,12 @@ and received my M.Sc. degree from the Vienna University of Technology in 2004.
 ## other profiles
 
 <ul class="horizontal">
+    <li><a rel="me" href="https://twitter.com/alexrindvis" class="external">twitter</a></li>
     <li><a rel="me" href="http://at.linkedin.com/in/alexrind" class="external">linkedin</a></li>
     <li><a rel="me" href="https://www.xing.com/profile/Alexander_Rind" class="external">xing</a></li>
     <li><a rel="me" href="https://profiles.google.com/100502536782063406186" class="external">google+</a></li>
     <li><a rel="me" href="http://scholar.google.com/citations?user=R48XMTYAAAAJ" class="external">google scholar</a></li>
     <li><a rel="me" href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rind:Alexander.html" class="external">dblp</a></li>
+    <li><a rel="me" href="http://dl.acm.org/author_page.cfm?id=81488671213&role=Author" class="external">acm&nbsp;dl</a></li>
     <li><a rel="me" href="http://orcid.org/0000-0001-8788-4600" class="external">orcid</a></li>
 </ul>

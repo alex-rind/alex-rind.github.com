@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2015-11-02
+mod-date: 2015-12-10
 ---
 
 <ul class="toc">
@@ -22,7 +22,7 @@ mod-date: 2015-11-02
         <img src="img/valid_logo_112.png" alt="VALID" width="112" height="56" align="right" />
       </a>
       <p class="project">VALID&mdash;Visual Analytics in Data-driven Journalism</p>
-       Austrian Research Promotion Agency (FFG), IKT der Zukunft<br />
+       Austrian Ministry for Transport, Innovation and Technology (BMVIT), IKT der Zukunft<br />
       <a href="http://english.fhstp.ac.at/research/institutes_areas/media_technologies" class="external">St.&nbsp;P&ouml;lten
           University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
       <a href="http://www.validproject.at/" class="external">project webpage</a>
@@ -54,7 +54,7 @@ mod-date: 2015-11-02
 
     <dt>04/2011 &ndash; 12/2013</dt>
     <dd>
-      <a href="http://www.ifs.tuwien.ac.at/~lammarsch/HypoVis/">
+      <a href="http://www.cvast.tuwien.ac.at/ieg-projects/hypovis">
         <img src="img/HypoVis_Logo_112.png" alt="HypoVis" width="112" height="42" align="right" />
       </a>
       <p class="project">HypoVis&mdash;Modeling Hypotheses with Visual Analytics Methods to Analyze the Past
@@ -62,7 +62,7 @@ mod-date: 2015-11-02
       Austrian Science Fund (FWF)<br />
       <a href="http://www.isis.tuwien.ac.at/" class="external">Vienna University of Technology,
       Institute of Software Technology and Interactive Systems</a>, Austria<br />
-      <a href="http://www.ifs.tuwien.ac.at/~lammarsch/HypoVis/" class="external">project webpage</a>
+      <a href="http://www.cvast.tuwien.ac.at/ieg-projects/hypovis" class="external">project webpage</a>
     </dd>
 
     <dt>09/2010 &ndash; 05/2011</dt>
