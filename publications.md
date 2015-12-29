@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2015-11-19
+mod-date: 2015-12-29
 ---
 
 <ul class="toc">
@@ -27,8 +27,9 @@ mod-date: 2015-11-19
 Rind, A.; Aigner, W.; Wagner, M.; Miksch, S. &amp; Lammarsch, T.:
 __[Task Cube: A Three-Dimensional Conceptual Space of User Tasks in Visualization Design and Evaluation](http://mc.fhstp.ac.at/sites/default/files/publications/rind_2015_ivi_task-cube_postprint.pdf){: .pdf}__,
 _Information Visualization, special issue on Evaluation in Visualization_,
-In Press.
-<!-- doi:[10.1145/2669557.2669568](http://dx.doi.org/10.1145/2669557.2669568){: .external} -->
+Published online before print December 27, 2015.
+<!-- In Press. -->
+doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .external}
 
 <p>
  Lammarsch, T.; Aigner, W.; Bertone, A.; Miksch, S. &amp; Rind, A.:
@@ -111,7 +112,7 @@ p.&nbsp;73-77, Cagliari, Italy, Eurographics, 2015.
 doi:[10.2312/eurova.20151107](http://dx.doi.org/10.2312/eurova.20151107){: .external}
 
 Niederer, C.; Aigner, W. &amp; Rind, A.:
-__[Survey on Visualizing Dynamic, Weighted, and Directed Graphs in the Context of Data-Driven Journalism](http://www.ifs.tuwien.ac.at/~rind/preprint/niederer_2015_vcss_survey.pdf){: .pdf}__,
+__[Survey on Visualizing Dynamic, Weighted, and Directed Graphs in the Context of Data-Driven Journalism](http://mc.fhstp.ac.at/sites/default/files/publications/niederer_2015_vcss_survey_postprint.pdf){: .pdf}__,
 Schulz, H.-J.; Urban, B. &amp; von Lukas, U. (eds.), _Proceedings of the International Summer School on Visual Computing 2015,_
 Rostock, Fraunhofer, 2015. forthcoming.
 
