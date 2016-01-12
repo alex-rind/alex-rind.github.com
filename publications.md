@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2015-12-29
+mod-date: 2016-01-12
 ---
 
 <ul class="toc">
@@ -114,7 +114,7 @@ doi:[10.2312/eurova.20151107](http://dx.doi.org/10.2312/eurova.20151107){: .exte
 Niederer, C.; Aigner, W. &amp; Rind, A.:
 __[Survey on Visualizing Dynamic, Weighted, and Directed Graphs in the Context of Data-Driven Journalism](http://mc.fhstp.ac.at/sites/default/files/publications/niederer_2015_vcss_survey_postprint.pdf){: .pdf}__,
 Schulz, H.-J.; Urban, B. &amp; von Lukas, U. (eds.), _Proceedings of the International Summer School on Visual Computing 2015,_
-Rostock, Fraunhofer, 2015. forthcoming.
+p.&nbsp;49-58, Rostock, Fraunhofer, 2015.
 
 Wagner, M.; Aigner, W.; Haberson, A. &amp; Rind, A.:
 __[Literature Review in Visual Analytics for Malware Pattern Analysis](http://mc.fhstp.ac.at/sites/default/files/publications/Wagner_LiteratureReviewInVisualAnalytics.pdf){: .pdf}__, 
