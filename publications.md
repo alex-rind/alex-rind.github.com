@@ -112,7 +112,7 @@ p.&nbsp;73-77, Cagliari, Italy, Eurographics, 2015.
 doi:[10.2312/eurova.20151107](http://dx.doi.org/10.2312/eurova.20151107){: .external}
 
 Niederer, C.; Aigner, W. &amp; Rind, A.:
-__[Survey on Visualizing Dynamic, Weighted, and Directed Graphs in the Context of Data-Driven Journalism](http://mc.fhstp.ac.at/sites/default/files/publications/niederer_2015_vcss_survey_postprint.pdf){: .pdf}__,
+__[Survey on Visualizing Dynamic, Weighted, and Directed Graphs in the Context of Data-Driven Journalism](http://mc.fhstp.ac.at/sites/default/files/niederer_2015_vcss_survey_postprint.pdf){: .pdf}__,
 Schulz, H.-J.; Urban, B. &amp; von Lukas, U. (eds.), _Proceedings of the International Summer School on Visual Computing 2015,_
 p.&nbsp;49-58, Rostock, Fraunhofer, 2015.
 
