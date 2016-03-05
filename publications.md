@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2016-01-12
+mod-date: 2016-03-05
 ---
 
 <ul class="toc">
@@ -96,8 +96,9 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 
 B&ouml;gl, M.; Filzmoser, P.; Gschwandtner, T.; Miksch, S.; Aigner, W.; Rind, A. &amp; Lammarsch, T.:
 __[Visually and Statistically Guided Imputation of Missing Values in Univariate Seasonal Time Series](http://www.ifs.tuwien.ac.at/~rind/preprint/boegl_2015_vis_timi_postprint.pdf){: .pdf}__,
-Yang, J.; Bertini, E.; Elmqvist, N.; Dwyer,  T.; Yuan,  X. &amp; Carr, H. (eds.), _Poster Proceedings of the IEEE Visualization Conference 2015, VAST track,_
-Chicago, IEEE, 2015.
+Chen, M. &amp; Andrienko, G. (eds.), _Proceedings of IEEE Conference on Visual Analytics Science and Technology, VAST, Poster Abstracts,_
+p.&nbsp;189-190, Chicago, IEEE, 2015.
+doi:[10.1109/VAST.2015.7347672](http://dx.doi.org/10.1109/VAST.2015.7347672){: .external}
 
 Wagner, M.; Fischer, F.; Luh, R.; Haberson, A.; Rind, A.; Keim, D. A. &amp; Aigner, W.:
 __[A Survey of Visualization Systems for Malware Analysis](http://publik.tuwien.ac.at/files/PubDat_238853.pdf){: .pdf}__,
@@ -164,7 +165,7 @@ doi:[10.1007/978-3-642-39146-0_37](http://dx.doi.org/10.1007/978-3-642-39146-0_3
  <b><a href="http://publik.tuwien.ac.at/files/PubDat_210197.pdf" class="pdf">Challenges of Time-oriented Data in Visual Analytics for Healthcare</a></b>,
  Caban, J. J. &amp; Gotz, D., <em>Proceedings of the IEEE VisWeek Workshop on Visual Analytics in Healthcare</em>,
  4 p., Seattle, WA, USA, 2012.
- <a href="http://www.visualanalyticshealthcare.org/VAHC2012-proceedings.pdf" class="pdf">workshop proceedings</a>
+ <a href="http://www.visualanalyticshealthcare.org/docs/VAHC2012-proceedings.pdf" class="pdf">workshop proceedings</a>
 </p>
 
 <p>
@@ -220,13 +221,13 @@ doi:<a href="http://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="exte
 
 <p id="Aigner_2009_chi_InteractivelyExploringTime-OrientedData">
  Aigner, W.; Bertone, A.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
- <a class="pdf" href="/~rind/preprint/aigner_chi09_interacting-time.pdf"><b>Interactively Exploring Time-Oriented Data</b></a>,
+ <a class="pdf" href="http://publik.tuwien.ac.at/files/PubDat_217974.pdf"><b>Interactively Exploring Time-Oriented Data</b></a>,
  <em>Workshop Notes of CHI 2009 workshop ``Interacting with temporal data'' at Conference on Human Factors in Computing Systems (CHI 2009)</em>, Boston, MA, ACM Press, 2009.
 </p>
 
 <p id="Aigner_2009__InfoVis:Wiki">
  Aigner, W.; Rind, A. &amp; Miksch, S.:
- <a class="pdf" href="/~rind/preprint/aigner_2009_infovis-wiki.pdf"><b>InfoVis:Wiki (http://www.infovis-wiki.net): A Community Platform for Information Visualization</b></a>,
+ <a class="pdf" href="http://www.ifs.tuwien.ac.at/~rind/preprint/aigner_2009_infovis-wiki.pdf"><b>InfoVis:Wiki (http://www.infovis-wiki.net): A Community Platform for Information Visualization</b></a>,
  <em>Proceedings of VisWeek 2009 workshop ``Putting Visualization on the Web''</em>, Atlantic City, NJ, 2009.
 </p>
 
