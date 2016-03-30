@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2016-03-05
+mod-date: 2016-03-30
 ---
 
 <ul class="toc">
@@ -93,6 +93,18 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 [top](#top){: .top_link}
 
 ## Refereed Conference &amp; Workshop Articles {#inproc}
+
+Niederer, C.; Rind, A.; Aigner, W.; Ausserhofer, J.; Gutounig, R. &amp; Sedlmair, M.:
+__[Visual Exploration of Media Transparency for Data Journalists: Problem Characterization and Abstraction](http://mc.fhstp.ac.at/sites/default/files/publications/2016_FFH_VALiD_Niederer.pdf){: .pdf}__,
+_Proceedings of the 10th Forschungsforum der &ouml;sterreichischen Fachhochschulen,_
+Vienna, Austria, FH des BFI Wien, 2016.
+uri:<http://ffhoarep.fh-ooe.at/handle/123456789/542>{: .external}
+
+Wagner, M.; Rind, A.; Rottermanner, G.; Niederer, C. &amp; Aigner, W.:
+__[Knowledge-Assisted Rule Building for Malware Analysis](http://mc.fhstp.ac.at/sites/default/files/publications/2016_FFH_CallNet_Wagner_FullPaper.pdf){: .pdf}__,
+_Proceedings of the 10th Forschungsforum der &ouml;sterreichischen Fachhochschulen,_
+Vienna, Austria, FH des BFI Wien, 2016.
+uri:<http://ffhoarep.fh-ooe.at/handle/123456789/578>{: .external}
 
 B&ouml;gl, M.; Filzmoser, P.; Gschwandtner, T.; Miksch, S.; Aigner, W.; Rind, A. &amp; Lammarsch, T.:
 __[Visually and Statistically Guided Imputation of Missing Values in Univariate Seasonal Time Series](http://www.ifs.tuwien.ac.at/~rind/preprint/boegl_2015_vis_timi_postprint.pdf){: .pdf}__,
