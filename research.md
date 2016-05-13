@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2015-12-10
+mod-date: 2016-05-13
 ---
 
 <ul class="toc">
@@ -192,7 +192,14 @@ mod-date: 2015-12-10
 
   <dl>
     <dt>2016</dt>
+    <dd>Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup></dd>
+    <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>E</sup></dd>
+    <dd>IEEE Information Visualization (InfoVis)<sup>2</sup></dd>
+    <dd>Eurographics Conference on Visualization (EuroVis) &ndash; 2 papers<sup>E,2</sup></dd>
     <dd>ACM Conference on Human Factors in Computing Systems (CHI)<sup>2</sup></dd>
+    <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup></dd>
+    <dd>PLOS ONE<sup>E</sup></dd>
+    <dd>IEEE Pacific Visualization Symposium (PacificVis) Notes<sup>E</sup></dd>
     <dt>2015</dt>
     <dd>Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup></dd>
     <dd>IEEE International Symposium on Big Data Visual Analytics (BDVA)<sup>PC</sup></dd>
