@@ -29,5 +29,5 @@ navigation:
 # GitHub set these settings anyway
 safe: true
 lsi: false
-pygments: true
-
+# pygments: true
+highlighter: rouge
