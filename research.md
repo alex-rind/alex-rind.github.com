@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2016-05-13
+mod-date: 2016-07-22
 ---
 
 <ul class="toc">
@@ -199,6 +199,7 @@ mod-date: 2016-05-13
     <dd>ACM Conference on Human Factors in Computing Systems (CHI)<sup>2</sup></dd>
     <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup></dd>
     <dd>PLOS ONE<sup>E</sup></dd>
+    <dd>MDPI Informatics<sup>E</sup></dd>
     <dd>IEEE Pacific Visualization Symposium (PacificVis) Notes<sup>E</sup></dd>
     <dt>2015</dt>
     <dd>Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup></dd>

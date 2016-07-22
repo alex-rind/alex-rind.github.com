@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2016-05-13
+mod-date: 2016-07-21
 ---
 
 <ul class="toc">
@@ -97,12 +97,12 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 Wagner, M., Blumenstein, K., Rind, A., Seidl, M., Schmiedl, G., Lammarsch, T. &amp; Aigner, W.:
 __[Native Cross-platform Visualization: A Proof of Concept Based on the Unity3D Game Engine](http://mc.fhstp.ac.at/sites/default/files/publications/IV2016_UnityVis_Wagner.pdf){: .pdf}__,
 _Proceedings of 20th International Conference on Information Visualisation (iV16),_
-Lisbon, Portugal, IEEE Computer Society Press, forthcoming, 2016.
+p.&nbsp;39-44, Lisbon, Portugal, IEEE, forthcoming, 2016.
 
 Niederer, C., Rind, A. &amp; Aigner, W.:
 __[Multi-Device Visualisation Design for Climbing Self-Assessment](http://mc.fhstp.ac.at/sites/default/files/publications/2016_IV_Climbing_Niederer.pdf){: .pdf}__,
 _Proceedings of 20th International Conference on Information Visualisation (iV16),_
-Lisbon, Portugal, IEEE Computer Society Press, forthcoming, 2016.
+p.&nbsp;171-176, Lisbon, Portugal, IEEE, forthcoming, 2016.
 
 Niederer, C.; Rind, A.; Aigner, W.; Ausserhofer, J.; Gutounig, R. &amp; Sedlmair, M.:
 __[Visual Exploration of Media Transparency for Data Journalists: Problem Characterization and Abstraction](http://mc.fhstp.ac.at/sites/default/files/publications/2016_FFH_VALiD_Niederer.pdf){: .pdf}__,
