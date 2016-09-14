@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2016-07-21
+mod-date: 2016-09-14
 ---
 
 <ul class="toc">
@@ -25,10 +25,10 @@ mod-date: 2016-07-21
 ## Refereed Journal Articles {#article}
 
 Rind, A.; Aigner, W.; Wagner, M.; Miksch, S. &amp; Lammarsch, T.:
-__[Task Cube: A Three-Dimensional Conceptual Space of User Tasks in Visualization Design and Evaluation](http://mc.fhstp.ac.at/sites/default/files/publications/rind_2015_ivi_task-cube_postprint.pdf){: .pdf}__,
-_Information Visualization, special issue on Evaluation in Visualization_,
-Published online before print December 27, 2015.
-<!-- In Press. -->
+__[Task Cube: A Three-Dimensional Conceptual Space of User Tasks in Visualization Design and Evaluation](http://mc.fhstp.ac.at/sites/default/files/publications/rind_2016_ivi_task-cube_postprint.pdf){: .pdf}__,
+_Information Visualization, special section on Evaluation_,
+ Vol. 15, No. 4, p. 288-300, 2016.
+<!--published online before print December 27, 2015.-->
 doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .external}
 
 <p>
@@ -94,15 +94,23 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 
 ## Refereed Conference &amp; Workshop Articles {#inproc}
 
+Blumenstein, K., Niederer, C., Wagner, M., Schmiedl, G., Rind, A. &amp; Aigner, W.:
+__[Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space](http://mc.fhstp.ac.at/sites/default/files/publications/postprint-id11.pdf){: .pdf}__,
+_Proceedings of 2016 Workshop on Beyond Time And Errors: Novel Evaluation Methods For Visualization (BELiV),_
+<!-- p.&nbsp;39-44, --> Baltimore, MD, ACM, 2016. forthcoming
+doi:[10.1145/2993901.2993906](http://dx.doi.org/10.1145/2993901.2993906){: .external}
+
 Wagner, M., Blumenstein, K., Rind, A., Seidl, M., Schmiedl, G., Lammarsch, T. &amp; Aigner, W.:
 __[Native Cross-platform Visualization: A Proof of Concept Based on the Unity3D Game Engine](http://mc.fhstp.ac.at/sites/default/files/publications/IV2016_UnityVis_Wagner.pdf){: .pdf}__,
 _Proceedings of 20th International Conference on Information Visualisation (iV16),_
-p.&nbsp;39-44, Lisbon, Portugal, IEEE, forthcoming, 2016.
+p.&nbsp;39-44, Lisbon, Portugal, IEEE, 2016.
+doi:[10.1109/IV.2016.35](http://dx.doi.org/10.1109/IV.2016.35){: .external}
 
 Niederer, C., Rind, A. &amp; Aigner, W.:
 __[Multi-Device Visualisation Design for Climbing Self-Assessment](http://mc.fhstp.ac.at/sites/default/files/publications/2016_IV_Climbing_Niederer.pdf){: .pdf}__,
 _Proceedings of 20th International Conference on Information Visualisation (iV16),_
-p.&nbsp;171-176, Lisbon, Portugal, IEEE, forthcoming, 2016.
+p.&nbsp;171-176, Lisbon, Portugal, IEEE, 2016.
+doi:[10.1109/IV.2016.34](http://dx.doi.org/10.1109/IV.2016.34){: .external}
 
 Niederer, C.; Rind, A.; Aigner, W.; Ausserhofer, J.; Gutounig, R. &amp; Sedlmair, M.:
 __[Visual Exploration of Media Transparency for Data Journalists: Problem Characterization and Abstraction](http://mc.fhstp.ac.at/sites/default/files/publications/2016_FFH_VALiD_Niederer.pdf){: .pdf}__,
