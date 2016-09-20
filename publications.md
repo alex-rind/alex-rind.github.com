@@ -112,12 +112,6 @@ _Proceedings of 20th International Conference on Information Visualisation (iV16
 p.&nbsp;171-176, Lisbon, Portugal, IEEE, 2016.
 doi:[10.1109/IV.2016.34](http://dx.doi.org/10.1109/IV.2016.34){: .external}
 
-B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
-__[Visual Analytics for Time Series Model Selection, Prediction, and Imputation](http://mc.fhstp.ac.at/sites/default/files/publications/boegl_2016_timi_osg-ea.pdf){: .pdf}__,
-<!--Chen, M. &amp; Andrienko, G. (eds.),--> _Extended Abstract at Austrian Statistical Days,_
-<!--p.&nbsp;189-190, -->Wien, &Ouml;sterreichische Statistische Gesellschaft, 2016.
-url:[http://www.osg.or.at/download/files/%7BE8AC0427-285C-4D80-A69E-0F15FD14EB5E%7D/23_Boegl.pdf](http://www.osg.or.at/download/files/%7BE8AC0427-285C-4D80-A69E-0F15FD14EB5E%7D/23_Boegl.pdf){: .external}
-
 Niederer, C.; Rind, A.; Aigner, W.; Ausserhofer, J.; Gutounig, R. &amp; Sedlmair, M.:
 __[Visual Exploration of Media Transparency for Data Journalists: Problem Characterization and Abstraction](http://mc.fhstp.ac.at/sites/default/files/publications/2016_FFH_VALiD_Niederer.pdf){: .pdf}__,
 _Proceedings of the 10th Forschungsforum der &ouml;sterreichischen Fachhochschulen,_
@@ -317,6 +311,12 @@ VRVis, Vienna, Austria, June 6, 2012.
 [top](#top){: .top_link}
 
 ## Miscellaneous &amp; German Articles {#misc}
+
+B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
+__[Visual Analytics for Time Series Model Selection, Prediction, and Imputation](http://mc.fhstp.ac.at/sites/default/files/publications/boegl_2016_timi_osg-ea.pdf){: .pdf}__,
+<!--Chen, M. &amp; Andrienko, G. (eds.),--> _Extended Abstract at Austrian Statistical Days,_
+<!--p.&nbsp;189-190, -->Wien, &Ouml;sterreichische Statistische Gesellschaft, 2016.
+url:[http://www.osg.or.at/download/files/%7BE8AC0427-285C-4D80-A69E-0F15FD14EB5E%7D/23_Boegl.pdf](http://www.osg.or.at/download/files/%7BE8AC0427-285C-4D80-A69E-0F15FD14EB5E%7D/23_Boegl.pdf){: .external}
 
 <p>
  Lammarsch, T.; Aigner, W.; Miksch, S. &amp; Rind, A.:
