@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2016-09-14
+mod-date: 2016-09-20
 ---
 
 <ul class="toc">
@@ -95,7 +95,7 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 ## Refereed Conference &amp; Workshop Articles {#inproc}
 
 Blumenstein, K., Niederer, C., Wagner, M., Schmiedl, G., Rind, A. &amp; Aigner, W.:
-__[Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space](http://mc.fhstp.ac.at/sites/default/files/publications/postprint-id11.pdf){: .pdf}__,
+__[Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space](http://ifs.tuwien.ac.at/~rind/preprint/mobile-evaluation-beliv-postprint.pdf){: .pdf}__,
 _Proceedings of 2016 Workshop on Beyond Time And Errors: Novel Evaluation Methods For Visualization (BELiV),_
 <!-- p.&nbsp;39-44, --> Baltimore, MD, ACM, 2016. forthcoming
 doi:[10.1145/2993901.2993906](http://dx.doi.org/10.1145/2993901.2993906){: .external}
@@ -111,6 +111,12 @@ __[Multi-Device Visualisation Design for Climbing Self-Assessment](http://mc.fhs
 _Proceedings of 20th International Conference on Information Visualisation (iV16),_
 p.&nbsp;171-176, Lisbon, Portugal, IEEE, 2016.
 doi:[10.1109/IV.2016.34](http://dx.doi.org/10.1109/IV.2016.34){: .external}
+
+B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
+__[Visual Analytics for Time Series Model Selection, Prediction, and Imputation](http://mc.fhstp.ac.at/sites/default/files/publications/boegl_2016_timi_osg-ea.pdf){: .pdf}__,
+<!--Chen, M. &amp; Andrienko, G. (eds.),--> _Extended Abstract at Austrian Statistical Days,_
+<!--p.&nbsp;189-190, -->Wien, &Ouml;sterreichische Statistische Gesellschaft, 2016.
+url:[http://www.osg.or.at/download/files/%7BE8AC0427-285C-4D80-A69E-0F15FD14EB5E%7D/23_Boegl.pdf](http://www.osg.or.at/download/files/%7BE8AC0427-285C-4D80-A69E-0F15FD14EB5E%7D/23_Boegl.pdf){: .external}
 
 Niederer, C.; Rind, A.; Aigner, W.; Ausserhofer, J.; Gutounig, R. &amp; Sedlmair, M.:
 __[Visual Exploration of Media Transparency for Data Journalists: Problem Characterization and Abstraction](http://mc.fhstp.ac.at/sites/default/files/publications/2016_FFH_VALiD_Niederer.pdf){: .pdf}__,
