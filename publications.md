@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2016-09-20
+mod-date: 2016-10-05
 ---
 
 <ul class="toc">
@@ -97,7 +97,7 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 Blumenstein, K., Niederer, C., Wagner, M., Schmiedl, G., Rind, A. &amp; Aigner, W.:
 __[Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space](http://ifs.tuwien.ac.at/~rind/preprint/mobile-evaluation-beliv-postprint.pdf){: .pdf}__,
 _Proceedings of 2016 Workshop on Beyond Time And Errors: Novel Evaluation Methods For Visualization (BELiV),_
-<!-- p.&nbsp;39-44, --> Baltimore, MD, ACM, 2016. forthcoming
+p.&nbsp; 125-132, Baltimore, MD, ACM, 2016.
 doi:[10.1145/2993901.2993906](http://dx.doi.org/10.1145/2993901.2993906){: .external}
 
 Wagner, M., Blumenstein, K., Rind, A., Seidl, M., Schmiedl, G., Lammarsch, T. &amp; Aigner, W.:
