@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2016-10-05
+mod-date: 2016-10-27
 ---
 
 <ul class="toc">
@@ -94,10 +94,16 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 
 ## Refereed Conference &amp; Workshop Articles {#inproc}
 
+Rind, A., Pfahler, D., Niederer, C. &amp; Aigner, W.:
+__[Exploring Media Transparency With Multiple Views](http://ifs.tuwien.ac.at/~rind/preprint/rind_2016_fmt_transparency.pdf){: .pdf}__,
+W. Aigner, G. Schmiedl, K. Blumenstein, & M. Zeppelzauer (eds.), _Proceedings of the 9th Forum Media Technology,_
+ceur-ws.org, 2016.
+forthcoming.
+
 Blumenstein, K., Niederer, C., Wagner, M., Schmiedl, G., Rind, A. &amp; Aigner, W.:
 __[Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space](http://ifs.tuwien.ac.at/~rind/preprint/mobile-evaluation-beliv-postprint.pdf){: .pdf}__,
 _Proceedings of 2016 Workshop on Beyond Time And Errors: Novel Evaluation Methods For Visualization (BELiV),_
-p.&nbsp; 125-132, Baltimore, MD, ACM, 2016.
+p.&nbsp;125-132, Baltimore, MD, ACM, 2016.
 doi:[10.1145/2993901.2993906](http://dx.doi.org/10.1145/2993901.2993906){: .external}
 
 Wagner, M., Blumenstein, K., Rind, A., Seidl, M., Schmiedl, G., Lammarsch, T. &amp; Aigner, W.:
