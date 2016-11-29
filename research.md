@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2016-07-22
+mod-date: 2016-11-29
 ---
 
 <ul class="toc">
@@ -191,6 +191,9 @@ mod-date: 2016-07-22
   <h2 id="reviewing">reviewing</h2>
 
   <dl>
+    <dt>2017</dt>
+    <dd>IEEE Pacific Visualization Symposium (PacificVis)<sup>E</sup></dd>
+    <dd>ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup></dd>
     <dt>2016</dt>
     <dd>Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup></dd>
     <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>E</sup></dd>

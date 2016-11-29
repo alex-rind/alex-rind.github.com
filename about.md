@@ -2,7 +2,7 @@
 layout: default
 title: "about"
 longtitle: "About Me / Curriculum Vitae"
-mod-date: 2015-11-19
+mod-date: 2016-11-29
 ---
 
 <ul class="toc">
@@ -18,6 +18,10 @@ mod-date: 2015-11-19
 since 01/2014
 : [St.&nbsp;P&ouml;lten University of Applied Sciences,](http://english.fhstp.ac.at/){: .external} Austria
 : Researcher at the Institute of Creative\Media/Technologies
+
+10/2016 &ndash; 01/2017
+: [University of Applied Sciences Upper Austria, Hagenberg,](https://www.fh-ooe.at/en/hagenberg-campus/){: .external} Austria
+: Lecturer at the School of Informatics, Communications and Media
 
 03/2014 &ndash; 02/2015
 : [Vienna University of Technology,](http://ieg.ifs.tuwien.ac.at/){: .external} Austria
@@ -111,6 +115,11 @@ since 10/2004
 [top](#top){: .top_link}
 
 ## awards
+
+2016
+: IEEE Conference on Visual Analytics Science and Technology
+: [Best Paper Award](http://www.ifs.tuwien.ac.at/~rind/preprint/FMT2016-best-paper.pdf){: .external}
+for Rind et al., Exploring Media Transparency With Multiple Views
 
 2015
 : IEEE Conference on Visual Analytics Science and Technology

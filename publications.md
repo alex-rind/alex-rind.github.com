@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2016-10-27
+mod-date: 2016-11-24
 ---
 
 <ul class="toc">
@@ -96,9 +96,17 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 
 Rind, A., Pfahler, D., Niederer, C. &amp; Aigner, W.:
 __[Exploring Media Transparency With Multiple Views](http://ifs.tuwien.ac.at/~rind/preprint/rind_2016_fmt_transparency.pdf){: .pdf}__,
-W. Aigner, G. Schmiedl, K. Blumenstein, & M. Zeppelzauer (eds.), _Proceedings of the 9th Forum Media Technology,_
-ceur-ws.org, 2016.
-forthcoming.
+Aigner, W., Schmiedl, G., Blumenstein, K. &amp; Zeppelzauer, M. (eds.), _Proceedings of the 9th Forum Media Technology,_
+<!-- Aigner, W., Schmiedl, G., Blumenstein, K., Zeppelzauer, M. &amp; Iber, M. (eds.), _Proceedings of the 9th Forum Media Technology,_ -->
+p.&nbsp;65-73, CEUR-WS.org, 2016.
+uri:<http://ceur-ws.org/Vol-1734/fmt-proceedings-2016-paper8.pdf>{: .external}
+<!-- best paper award -->
+
+Kromer, L., Wagner,  M., Blumenstein, K., Rind, A. &amp; Aigner, W.:
+__[Performance Comparison between Unity and D3.js for Cross-Platform Visualization on Mobile Devices](http://mc.fhstp.ac.at/sites/default/files/publications/Kromer_2016_FMT_crossVisComparison.pdf){: .pdf}__,
+Aigner, W., Schmiedl, G., Blumenstein, K. &amp; Zeppelzauer, M. (eds.), _Proceedings of the 9th Forum Media Technology,_
+p.&nbsp;47-52, CEUR-WS.org, 2016.
+uri:<http://ceur-ws.org/Vol-1734/fmt-proceedings-2016-paper6.pdf>{: .external}
 
 Blumenstein, K., Niederer, C., Wagner, M., Schmiedl, G., Rind, A. &amp; Aigner, W.:
 __[Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space](http://ifs.tuwien.ac.at/~rind/preprint/mobile-evaluation-beliv-postprint.pdf){: .pdf}__,
@@ -135,6 +143,7 @@ __[Visually and Statistically Guided Imputation of Missing Values in Univariate 
 Chen, M. &amp; Andrienko, G. (eds.), _Proceedings of IEEE Conference on Visual Analytics Science and Technology, VAST, Poster Abstracts,_
 p.&nbsp;189-190, Chicago, IEEE, 2015.
 doi:[10.1109/VAST.2015.7347672](http://dx.doi.org/10.1109/VAST.2015.7347672){: .external}
+<!-- best poster award -->
 
 Wagner, M.; Fischer, F.; Luh, R.; Haberson, A.; Rind, A.; Keim, D. A. &amp; Aigner, W.:
 __[A Survey of Visualization Systems for Malware Analysis](http://publik.tuwien.ac.at/files/PubDat_238853.pdf){: .pdf}__,
