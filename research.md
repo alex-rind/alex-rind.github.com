@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2016-11-29
+mod-date: 2017-02-13
 ---
 
 <ul class="toc">
@@ -192,6 +192,8 @@ mod-date: 2016-11-29
 
   <dl>
     <dt>2017</dt>
+    <dd>Forschungsforum der &ouml;sterreichischen Fachhochschulen (FFH)<sup>PC</sup></dd>
+    <dd>Eurographics Conference on Visualization (EuroVis)<sup>E</sup></dd>
     <dd>IEEE Pacific Visualization Symposium (PacificVis)<sup>E</sup></dd>
     <dd>ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup></dd>
     <dt>2016</dt>

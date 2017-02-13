@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2016-11-24
+mod-date: 2017-02-13
 ---
 
 <ul class="toc">
@@ -23,6 +23,14 @@ mod-date: 2016-11-24
 </ul>
 
 ## Refereed Journal Articles {#article}
+
+Wagner, M., Rind, A., Th&uuml;r, N. &amp; Aigner, W.:
+__[A Knowledge-Assisted Visual Malware Analysis System: Design, Validation, and Reflection of KAMAS](http://mc.fhstp.ac.at/sites/default/files/publications/IV2016_UnityVis_Wagner.pdf){: .pdf}__,
+_Computers & Security,_
+published online before print February 11, 2017.
+<!-- Vol. 15, No. 4, p. 288-300, 2016.-->
+doi:[10.1016/j.cose.2017.02.003](http://dx.doi.org/10.1016/j.cose.2017.02.003){: .external}<br />
+Preprint available as [arXiv:1612.06232 [cs.CR]](https://arxiv.org/abs/1612.06232){: .external}
 
 Rind, A.; Aigner, W.; Wagner, M.; Miksch, S. &amp; Lammarsch, T.:
 __[Task Cube: A Three-Dimensional Conceptual Space of User Tasks in Visualization Design and Evaluation](http://mc.fhstp.ac.at/sites/default/files/publications/rind_2016_ivi_task-cube_postprint.pdf){: .pdf}__,
