@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2017-02-24
+mod-date: 2017-04-12
 ---
 
 <ul class="toc">
@@ -23,6 +23,15 @@ mod-date: 2017-02-24
 </ul>
 
 ## Refereed Journal Articles {#article}
+
+B&ouml;gl, M.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Leite, R. A.; Miksch, S. &amp; Rind, A.:
+<!-- __[Cycle Plot Revisited: Multivariate Outlier Detection Using a Distance-Based Abstraction](){: .pdf}__, -->
+__Cycle Plot Revisited: Multivariate Outlier Detection Using a Distance-Based Abstraction__,
+_Computer Graphics Forum, Special Issue &quot;EuroVis 2017&quot;,_
+<!-- published online before print February 11, 2017. -->
+Vol. 36, <!-- p. 1-15, --> 2017. forthcoming.\\
+<!-- doi:[10.1016/j.cose.2017.02.003](http://dx.doi.org/10.1016/j.cose.2017.02.003){: .external} -->
+<span style="font-size: 80%">Please contact me for a preprint version.</span>
 
 Wagner, M., Rind, A., Th&uuml;r, N. &amp; Aigner, W.:
 __[A Knowledge-Assisted Visual Malware Analysis System: Design, Validation, and Reflection of KAMAS](http://www.sciencedirect.com/science/article/pii/S0167404817300263){: .external}__,
@@ -300,7 +309,8 @@ doi:<a href="http://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="exte
 Rind, A.; Federico, P.; Gschwandtner,  T.; Aigner, W.; Doppler, J. &amp; Wagner, M.:
 __Visual Analytics of Electronic Health Records with a Focus on Time__, 
 Rinaldi, G. (ed.), _New Perspectives in Medical Records: Meeting the Needs of Patients and Practitioners,_ 
-Cham, Springer TELe-Health, In Press.\\
+p. 65-77, Cham, Springer TELe-Health.
+doi:[10.1007/978-3-319-28661-7_5](http://dx.doi.org/10.1007/978-3-319-28661-7_5){: .external}\\
 <span style="font-size: 80%">Please contact me for a preprint version.</span>
 
 Waldh&ouml;r, K.; Freidl, C.; Rind, A. &amp; Ecker, K.:
