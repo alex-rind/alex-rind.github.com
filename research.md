@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2017-02-13
+mod-date: 2017-05-12
 ---
 
 <ul class="toc">
@@ -192,10 +192,13 @@ mod-date: 2017-02-13
 
   <dl>
     <dt>2017</dt>
-    <dd>Forschungsforum der &ouml;sterreichischen Fachhochschulen (FFH)<sup>PC</sup></dd>
+    <dd>Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup></dd>
+    <dd>IEEE Information Visualization (InfoVis) &ndash; 2 papers<sup>E</sup></dd>
+    <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>2</sup></dd>
     <dd>Eurographics Conference on Visualization (EuroVis)<sup>E</sup></dd>
     <dd>IEEE Pacific Visualization Symposium (PacificVis)<sup>E</sup></dd>
     <dd>ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup></dd>
+    <dd>Forschungsforum der &ouml;sterreichischen Fachhochschulen (FFH)<sup>PC</sup></dd>
     <dt>2016</dt>
     <dd>Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup></dd>
     <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>E</sup></dd>
