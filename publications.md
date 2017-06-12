@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2017-05-12
+mod-date: 2017-06-12
 ---
 
 <ul class="toc">
@@ -112,10 +112,12 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 ## Refereed Conference &amp; Workshop Articles {#inproc}
 
 Rind, A., Haberson, A., Blumenstein, K., Niederer, C. &amp; Aigner, W.:
-__[PubViz: Lightweight Visual Presentation of Publication Data](http://phaidra.fhstp.ac.at/o:1933){: .external}__,
-Kozl&iacute;kov&aacute;, B., Schreck, T. &amp; Wischgoll, T. (eds.), _Proc. Eurographics Conf. Visualization (EuroVis) &ndash; Short Paper,_
-<!-- p.&nbsp;65-73, --> Eurographics, 2017. forthcoming.\\
-<span style="font-size: 80%">Please contact me for a preprint version.</span>
+__[PubViz: Lightweight Visual Presentation of Publication Data](http://ifs.tuwien.ac.at/~rind/preprint/rind_2017_pubviz_postprint){: .pdf}__,
+Kozl&iacute;kov&aacute;, B., Schreck, T. &amp; Wischgoll, T. (eds.), _Proc. Eurographics Conf. Visualization (EuroVis) &ndash; Short Papers,_
+p.&nbsp;169-173,  Eurographics, 2017.
+doi:[10.2312/eurovisshort.20171152](http://dx.doi.org/10.2312/eurovisshort.20171152){: .external}
+Research&nbsp;data&nbsp;at&nbsp;<http://phaidra.fhstp.ac.at/o:1933>{: .external}.
+<!-- <span style="font-size: 80%">Please contact me for a preprint version.</span> -->
 
 Rind, A., Pfahler, D., Niederer, C. &amp; Aigner, W.:
 __[Exploring Media Transparency With Multiple Views](http://ifs.tuwien.ac.at/~rind/preprint/rind_2016_fmt_transparency.pdf){: .pdf}__,
