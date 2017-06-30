@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2017-06-12
+mod-date: 2017-06-30
 ---
 
 <ul class="toc">
@@ -25,13 +25,11 @@ mod-date: 2017-06-12
 ## Refereed Journal Articles {#article}
 
 B&ouml;gl, M.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Leite, R. A.; Miksch, S. &amp; Rind, A.:
-<!-- __[Cycle Plot Revisited: Multivariate Outlier Detection Using a Distance-Based Abstraction](){: .pdf}__, -->
-__Cycle Plot Revisited: Multivariate Outlier Detection Using a Distance-Based Abstraction__,
+__[Cycle Plot Revisited: Multivariate Outlier Detection Using a Distance-Based Abstraction](http://publik.tuwien.ac.at/files/publik_260233.pdf){: .pdf}__,
 _Computer Graphics Forum, Special Issue &quot;EuroVis 2017&quot;,_
-<!-- published online before print February 11, 2017. -->
-Vol. 36, <!-- p. 1-15, --> 2017. forthcoming.\\
-<!-- doi:[10.1016/j.cose.2017.02.003](http://dx.doi.org/10.1016/j.cose.2017.02.003){: .external} -->
-<span style="font-size: 80%">Please contact me for a preprint version.</span>
+Vol. 36, No. 3, p. 227–238, 2017.
+doi:[10.1111/cgf.13182](http://dx.doi.org/10.1111/cgf.13182){: .external}
+<!-- <span style="font-size: 80%">Please contact me for a preprint version.</span> -->
 
 Wagner, M., Rind, A., Th&uuml;r, N. &amp; Aigner, W.:
 __[A Knowledge-Assisted Visual Malware Analysis System: Design, Validation, and Reflection of KAMAS](http://www.sciencedirect.com/science/article/pii/S0167404817300263){: .external}__,
@@ -112,7 +110,7 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 ## Refereed Conference &amp; Workshop Articles {#inproc}
 
 Rind, A., Haberson, A., Blumenstein, K., Niederer, C. &amp; Aigner, W.:
-__[PubViz: Lightweight Visual Presentation of Publication Data](http://ifs.tuwien.ac.at/~rind/preprint/rind_2017_pubviz_postprint){: .pdf}__,
+__[PubViz: Lightweight Visual Presentation of Publication Data](http://mc.fhstp.ac.at/sites/default/files/publications/rind_2017_pubviz.pdf){: .pdf}__,
 Kozl&iacute;kov&aacute;, B., Schreck, T. &amp; Wischgoll, T. (eds.), _Proc. Eurographics Conf. Visualization (EuroVis) &ndash; Short Papers,_
 p.&nbsp;169-173,  Eurographics, 2017.
 doi:[10.2312/eurovisshort.20171152](http://dx.doi.org/10.2312/eurovisshort.20171152){: .external}
