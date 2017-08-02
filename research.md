@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2017-06-12
+mod-date: 2017-08-02
 ---
 
 <ul class="toc">
@@ -199,6 +199,7 @@ mod-date: 2017-06-12
     <dd>Eurographics Conference on Visualization (EuroVis)<sup>E</sup></dd>
     <dd>IEEE Pacific Visualization Symposium (PacificVis)<sup>E</sup></dd>
     <dd>ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup></dd>
+    <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>2</sup></dd>
     <dd>Taylor & Francis Journal of Decision Systems<sup>E</sup></dd>
     <dd>Forschungsforum der &ouml;sterreichischen Fachhochschulen (FFH)<sup>PC</sup></dd>
     <dt>2016</dt>

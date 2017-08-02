@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2017-06-30
+mod-date: 2017-08-02
 ---
 
 <ul class="toc">
@@ -108,6 +108,12 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 [top](#top){: .top_link}
 
 ## Refereed Conference &amp; Workshop Articles {#inproc}
+
+Federico, P., Wagner, M., Rind, A., Amor-Amoros, A., Miksch, S. &amp; Aigner, W.:
+__[The Role of Explicit Knowledge: A Conceptual Model of Knowledge-Assisted Visual Analytics](http://ifs.tuwien.ac.at/~rind/preprint/federico-wagner_2017_knava-model.pdf){: .pdf}__,
+Fisher, B., Liu, S. &amp; Schreck, T. (eds.), _Proc. IEEE Conference on Visual Analytics Science and Technology (VAST),_
+<!-- p.&nbsp;169-173, --> IEEE, 2017. forthcoming.
+<!-- doi:[10.2312/eurovisshort.20171152](http://dx.doi.org/10.2312/eurovisshort.20171152){: .external} -->
 
 Rind, A., Haberson, A., Blumenstein, K., Niederer, C. &amp; Aigner, W.:
 __[PubViz: Lightweight Visual Presentation of Publication Data](http://mc.fhstp.ac.at/sites/default/files/publications/rind_2017_pubviz.pdf){: .pdf}__,
