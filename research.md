@@ -2,12 +2,13 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2017-08-02
+mod-date: 2017-08-14
 ---
 
 <ul class="toc">
 <li><a href="#funded">funded research projects</a></li>
 <li><a href="#student">supervised student projects</a></li>
+<li><a href="#scientific-collaborators">scientific collaborators</a></li>
 <li><a href="#reviewing">reviewing</a></li>
 <li><a href="#events_organized">conference and workshop organization</a></li>
 </ul>
@@ -186,7 +187,18 @@ mod-date: 2017-08-02
     </dd>
   </dl>
 
-  <a class="top_link" href="#top">top</a>
+[top](#top){: .top_link}
+
+## scientific collaborators
+
+* [Silvia Miksch](http://www.ifs.tuwien.ac.at/~silvia/){: .external}, TU Wien, Austria
+* [Wolfgang Aigner](http://mc.fhstp.ac.at/people/wolfgang-aigner){: .external}, St. Pölten University of Applied Sciences, Austria
+* [Tim Lammarsch](http://lammarsch.github.io/research.html){: .external}, (now) independent scholar and consultant, Austria
+* Catherine Plaisant & Ben Shneiderman, University of Maryland, USA
+* Natalia & Gennady Andrienko, Fraunhofer Institute IAIS, Germany
+* Daniel Keim, University of Konstanz, Germany
+
+[top](#top){: .top_link}
 
   <h2 id="reviewing">reviewing</h2>
 
