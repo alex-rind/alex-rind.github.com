@@ -193,7 +193,7 @@ mod-date: 2017-08-14
 
 * [Silvia Miksch](http://www.ifs.tuwien.ac.at/~silvia/){: .external}, TU Wien, Austria
 * [Wolfgang Aigner](http://mc.fhstp.ac.at/people/wolfgang-aigner){: .external}, St. Pölten University of Applied Sciences, Austria
-* [Tim Lammarsch](http://lammarsch.github.io/research.html){: .external}, (now) independent scholar and consultant, Austria
+* [Tim Lammarsch](http://www.lammarsch.de/publications.html){: .external}, (now) independent scholar and consultant, Austria
 * Catherine Plaisant & Ben Shneiderman, University of Maryland, USA
 * Natalia & Gennady Andrienko, Fraunhofer Institute IAIS, Germany
 * Daniel Keim, University of Konstanz, Germany
