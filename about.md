@@ -2,7 +2,7 @@
 layout: default
 title: "about"
 longtitle: "About Me / Curriculum Vitae"
-mod-date: 2016-11-29
+mod-date: 2017-10-11
 ---
 
 <ul class="toc">
@@ -19,7 +19,7 @@ since 01/2014
 : [St.&nbsp;P&ouml;lten University of Applied Sciences,](http://english.fhstp.ac.at/){: .external} Austria
 : Researcher at the Institute of Creative\Media/Technologies
 
-10/2016 &ndash; 01/2017
+10/2016 &ndash; 01/2018
 : [University of Applied Sciences Upper Austria, Hagenberg,](https://www.fh-ooe.at/en/hagenberg-campus/){: .external} Austria
 : Lecturer at the School of Informatics, Communications and Media
 
@@ -116,8 +116,14 @@ since 10/2004
 
 ## awards
 
+2017
+: Lower Austrian Chamber of Commerce and the Province of Lower Austria
+: [Recognition of excellent innovation](http://www.innovationspreis-noe.at/){: .external}
+:  for the research project
+  [KAVA-Time](http://mc.fhstp.ac.at/projects/kava-time){: .external}
+
 2016
-: IEEE Conference on Visual Analytics Science and Technology
+: Forum Media Technology
 : [Best Paper Award](http://www.ifs.tuwien.ac.at/~rind/preprint/FMT2016-best-paper.pdf){: .external}
 for Rind et al., Exploring Media Transparency With Multiple Views
 
@@ -138,8 +144,8 @@ for Stephan Hoffmann (co-supervised by Alexander Rind)
 
 2010
 : Lower Austrian Chamber of Commerce and the Province of Lower Austria
-: [&ldquo;Karl Ritter von Ghega&rdquo; award](http://www.innovationsprei-noe.at/){: .external}
-: Recognition of excellent innovation for the research project
+: [Recognition of excellent innovation](http://www.infinoe.at/901){: .external}
+: for the research project
   [VisuExplore](http://ieg.ifs.tuwien.ac.at/projects/VisuExplore/){: .external}
 
 2002
