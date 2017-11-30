@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2017-08-02
+mod-date: 2017-11-30
 ---
 
 <ul class="toc">
@@ -356,6 +356,12 @@ VRVis, Vienna, Austria, June 6, 2012.
 [top](#top){: .top_link}
 
 ## Miscellaneous &amp; German Articles {#misc}
+
+Bernád, Á. Z., Kaiser, M., Mair,  S. M. &amp; Rind, A.:
+__[Communities in biographischen Netzwerken](http://ceur-ws.org/Vol-2009/fmt-proceedings-2017-paper12.pdf){: .pdf}__,
+Aigner, W., Moser, T., Blumenstein, K., Zeppelzauer, M., Iber, M. &amp; Schmiedl, G. (eds.), _Proceedings of the 10th Forum Media Technology and 3rd All Around Audio Symposium,_
+p.&nbsp;83-87, CEUR-WS.org, 2017.
+uri:<http://ceur-ws.org/Vol-2009/fmt-proceedings-2017-paper12.pdf>{: .external}
 
 B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
 __[Visual Analytics for Time Series Model Selection, Prediction, and Imputation](http://mc.fhstp.ac.at/sites/default/files/publications/boegl_2016_timi_osg-ea.pdf){: .pdf}__,
