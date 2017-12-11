@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2017-11-30
+mod-date: 2017-12-11
 ---
 
 <ul class="toc">
@@ -24,6 +24,12 @@ mod-date: 2017-11-30
 
 ## Refereed Journal Articles {#article}
 
+Wagner, M.; Slijepcevic, D.; Horsak, B.; Rind, A.; Zeppelzauer, M. &amp; Aigner, W.:
+__KAVAGait: Knowledge-Assisted Visual Analytics for Clinical Gait Analysis__,
+_IEEE Transactions on Visualization and Computer Graphics,_
+Accepted/in press.
+Preprint available as [arXiv:1707.06105 [cs.HC]](https://arxiv.org/abs/1707.06105){: .external}
+
 B&ouml;gl, M.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Leite, R. A.; Miksch, S. &amp; Rind, A.:
 __[Cycle Plot Revisited: Multivariate Outlier Detection Using a Distance-Based Abstraction](http://publik.tuwien.ac.at/files/publik_260233.pdf){: .pdf}__,
 _Computer Graphics Forum, Special Issue &quot;EuroVis 2017&quot;,_
@@ -31,7 +37,7 @@ Vol. 36, No. 3, p. 227–238, 2017.
 doi:[10.1111/cgf.13182](http://dx.doi.org/10.1111/cgf.13182){: .external}
 <!-- <span style="font-size: 80%">Please contact me for a preprint version.</span> -->
 
-Wagner, M., Rind, A., Th&uuml;r, N. &amp; Aigner, W.:
+Wagner, M.; Rind, A.; Th&uuml;r, N. &amp; Aigner, W.:
 __[A Knowledge-Assisted Visual Malware Analysis System: Design, Validation, and Reflection of KAMAS](http://www.sciencedirect.com/science/article/pii/S0167404817300263){: .external}__,
 _Computers & Security,_
 <!-- published online before print February 11, 2017. -->
@@ -318,10 +324,16 @@ doi:<a href="http://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="exte
 
 ## Contributions in Books {#inbook}
 
+Wagner, M.; Sacha, D.; Rind, A.; Fischer, F.; Luh, R.; Schrittwieser, S.; Keim, D. A. &amp; Aigner, W.:
+__[Visual Analytics: Foundations and Experiences in Malware Analysis](https://www.crcpress.com/p/book/9781498776417){: .external}__,
+Othmane, L. b.; Jaatun, M. G. &amp; Weippl, E. (eds.), _Empirical Research for Software Security: Foundations and Experience,_
+p. 139-171, CRC/Taylor and Francis, , 2017.\\
+<span style="font-size: 80%">Please contact me for a preprint version.</span>
+
 Rind, A.; Federico, P.; Gschwandtner,  T.; Aigner, W.; Doppler, J. &amp; Wagner, M.:
 __Visual Analytics of Electronic Health Records with a Focus on Time__, 
 Rinaldi, G. (ed.), _New Perspectives in Medical Records: Meeting the Needs of Patients and Practitioners,_ 
-p. 65-77, Cham, Springer TELe-Health.
+p. 65-77, Cham, Springer TELe-Health, 2017.
 doi:[10.1007/978-3-319-28661-7_5](http://dx.doi.org/10.1007/978-3-319-28661-7_5){: .external}\\
 <span style="font-size: 80%">Please contact me for a preprint version.</span>
 
