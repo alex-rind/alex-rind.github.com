@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2017-12-11
+mod-date: 2018-01-10
 ---
 
 <ul class="toc">
@@ -23,6 +23,12 @@ mod-date: 2017-12-11
 </ul>
 
 ## Refereed Journal Articles {#article}
+
+Andrienko, N.; Lammarsch,  T.; Andrienko, G.; Fuchs, G.; Keim, D.; Miksch, S. &amp; Rind, A.:
+__Viewing Visual Analytics as Model Building__,
+_Computer Graphics Forum,_
+Accepted/in press.
+<span style="font-size: 80%">Please contact me for a preprint version.</span>
 
 Wagner, M.; Slijepcevic, D.; Horsak, B.; Rind, A.; Zeppelzauer, M. &amp; Aigner, W.:
 __KAVAGait: Knowledge-Assisted Visual Analytics for Clinical Gait Analysis__,

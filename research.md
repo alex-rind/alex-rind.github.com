@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2017-08-14
+mod-date: 2018-10-10
 ---
 
 <ul class="toc">
@@ -203,6 +203,8 @@ mod-date: 2017-08-14
   <h2 id="reviewing">reviewing</h2>
 
   <dl>
+    <dt>2018</dt>
+    <dd>ACM Conference on Human Factors in Computing Systems (CHI) &ndash; 2 papers<sup>E</sup></dd>
     <dt>2017</dt>
     <dd>Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup></dd>
     <dd>Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup></dd>
@@ -212,7 +214,10 @@ mod-date: 2017-08-14
     <dd>IEEE Pacific Visualization Symposium (PacificVis)<sup>E</sup></dd>
     <dd>ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup></dd>
     <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>2</sup></dd>
+    <dd>SAGE Information Visualization<sup>E</sup></dd>
     <dd>Taylor & Francis Journal of Decision Systems<sup>E</sup></dd>
+    <dd>Forum Medientechnik<sup>PC</sup></dd>
+    <dd>Digital Humanities Austria<sup>PC</sup></dd>
     <dd>Forschungsforum der &ouml;sterreichischen Fachhochschulen (FFH)<sup>PC</sup></dd>
     <dt>2016</dt>
     <dd>Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup></dd>
