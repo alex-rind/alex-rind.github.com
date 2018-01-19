@@ -2,7 +2,7 @@
 layout: default
 title: "about"
 longtitle: "About Me / Curriculum Vitae"
-mod-date: 2018-01-10
+mod-date: 2018-01-19
 ---
 
 <ul class="toc">
@@ -57,15 +57,15 @@ since 03/2008
 10/2004 &ndash; 11/2017
 : [Vienna University of Technology,](http://www.tuwien.ac.at/){: .external} Austria
 : M.Sc. in Information &amp; Knowledge Management
-: (a specialized study programme in computer science)
-: Master thesis &ldquo;A Software Framework for Visual Analytics of Time-Oriented Data&rdquo;
+: (a specialized study programme in computer science) with distinction
+: Master thesis &ldquo;[A Software Framework for Visual Analytics of Time-Oriented Data](http://permalink.obvsg.at/AC14523555){: .external}&rdquo;
 : Institute of Software Technology and Interactive Systems, Supervisor: Prof. Silvia Miksch
 
 10/1998 &ndash; 07/2004
 : [Vienna University of Technology,](http://www.tuwien.ac.at/){: .external} Austria
 : M.Sc. in <span xml:lang="de">Wirtschaftsinformatik</span>
 : (german; comparable to Information&nbsp;Systems or Business&nbsp;Informatics)<br />
-: Master thesis &ldquo;A Survey and Classification of Web Engineering Methodologies&rdquo;
+: Master thesis &ldquo;[A Survey and Classification of Web Engineering Methodologies](http://permalink.obvsg.at/AC04235587){: .external}&rdquo;
 : Institute of Information Systems, Supervisor: Prof. Mehdi Jazayeri
 
 08/2001 &ndash; 01/2002

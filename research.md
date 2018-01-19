@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2018-10-10
+mod-date: 2018-10-19
 ---
 
 <ul class="toc">
@@ -17,6 +17,18 @@ mod-date: 2018-10-10
   <h2 id="funded">funded research projects</h2>
 
   <dl>
+    <dt>since 01/2018</dt>
+    <dd>
+<!--      <a href="http://mc.fhstp.ac.at/projects/contractvis">
+        <img src="img/valid_logo_112.png" alt="VALID" width="112" height="56" align="right" />
+      </a> -->
+      <p class="project">ContractVis&mdash;the visual assistant for the fine print</p>
+       Internet Foundation Austria (IPA), netidee, prj2116<br />
+      <a href="http://english.fhstp.ac.at/research/institutes_areas/media_technologies" class="external">St.&nbsp;P&ouml;lten
+          University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
+      <a href="http://mc.fhstp.ac.at/projects/contractvis" class="external">project webpage</a>
+    </dd>
+
     <dt>since 01/2015</dt>
     <dd>
       <a href="http://www.validproject.at/">
@@ -289,6 +301,16 @@ mod-date: 2018-10-10
   <h2 id="events_organized">conference and workshop organization</h2>
 
   <dl>
+    <dt>09/2017</dt>
+    <dd>
+      <p class="project">OpenGLAM.at Kulturhackathon</p>
+      <a href="http://www.fhstp.ac.at/" class="external">St.&nbsp;P&ouml;lten University of Applied Sciences</a>,
+      <a href="http://www.fhstp.ac.at/" class="external">Federal State of Lower Austria</a>,
+      <a href="http://www.donau-uni.ac.at/" class="external">Donau Universität Krems</a>,
+      <a href="https://www.ait.ac.at/" class="external">AIT</a>, etc.
+      <em>Member of the organizing committee</em>
+    </dd>
+
     <dt>06/2012</dt>
     <dd>
       <p class="project">Eurographics Conference on Visualization
