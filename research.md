@@ -307,7 +307,7 @@ mod-date: 2018-10-19
       <a href="http://www.fhstp.ac.at/" class="external">St.&nbsp;P&ouml;lten University of Applied Sciences</a>,
       <a href="http://www.fhstp.ac.at/" class="external">Federal State of Lower Austria</a>,
       <a href="http://www.donau-uni.ac.at/" class="external">Donau Universität Krems</a>,
-      <a href="https://www.ait.ac.at/" class="external">AIT</a>, etc.
+      <a href="https://www.ait.ac.at/" class="external">AIT</a>, etc.<br />
       <em>Member of the organizing committee</em>
     </dd>
 

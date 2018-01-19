@@ -27,7 +27,7 @@ mod-date: 2018-01-10
 Andrienko, N.; Lammarsch,  T.; Andrienko, G.; Fuchs, G.; Keim, D.; Miksch, S. &amp; Rind, A.:
 __Viewing Visual Analytics as Model Building__,
 _Computer Graphics Forum,_
-Accepted/in press.
+Accepted/in press.\\
 <span style="font-size: 80%">Please contact me for a preprint version.</span>
 
 Wagner, M.; Slijepcevic, D.; Horsak, B.; Rind, A.; Zeppelzauer, M. &amp; Aigner, W.:
