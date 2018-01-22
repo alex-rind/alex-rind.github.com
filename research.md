@@ -214,87 +214,94 @@ mod-date: 2018-10-19
 
   <h2 id="reviewing">reviewing</h2>
 
-  <dl>
-    <dt>2018</dt>
-    <dd>ACM Conference on Human Factors in Computing Systems (CHI) &ndash; 2 papers<sup>E</sup></dd>
-    <dt>2017</dt>
-    <dd>Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup></dd>
-    <dd>Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup></dd>
-    <dd>IEEE Information Visualization (InfoVis) &ndash; 2 papers<sup>E</sup></dd>
-    <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>2</sup></dd>
-    <dd>Eurographics Conference on Visualization (EuroVis)<sup>E</sup></dd>
-    <dd>IEEE Pacific Visualization Symposium (PacificVis)<sup>E</sup></dd>
-    <dd>ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup></dd>
-    <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>2</sup></dd>
-    <dd>SAGE Information Visualization<sup>E</sup></dd>
-    <dd>Taylor & Francis Journal of Decision Systems<sup>E</sup></dd>
-    <dd>Forum Medientechnik<sup>PC</sup></dd>
-    <dd>Digital Humanities Austria<sup>PC</sup></dd>
-    <dd>Forschungsforum der &ouml;sterreichischen Fachhochschulen (FFH)<sup>PC</sup></dd>
-    <dt>2016</dt>
-    <dd>Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup></dd>
-    <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>E</sup></dd>
-    <dd>IEEE Information Visualization (InfoVis)<sup>2</sup></dd>
-    <dd>Eurographics Conference on Visualization (EuroVis) &ndash; 2 papers<sup>E,2</sup></dd>
-    <dd>ACM Conference on Human Factors in Computing Systems (CHI)<sup>2</sup></dd>
-    <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup></dd>
-    <dd>PLOS ONE<sup>E</sup></dd>
-    <dd>MDPI Informatics<sup>E</sup></dd>
-    <dd>IEEE Pacific Visualization Symposium (PacificVis) Notes<sup>E</sup></dd>
-    <dt>2015</dt>
-    <dd>Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup></dd>
-    <dd>IEEE International Symposium on Big Data Visual Analytics (BDVA)<sup>PC</sup></dd>
-    <dd>Eurographics Conference on Visualization (EuroVis)<sup>E</sup></dd>
-    <dd>IEEE Information Visualization (InfoVis)<sup>E</sup></dd>
-    <dd>IEEE Visual Analytics Science and Technology (VAST) &ndash; 2 papers<sup>2</sup></dd>
-    <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>2</sup></dd>
-    <dd>Journal of the American Medical Informatics Association (JAMIA)<sup>E</sup></dd>
-    <dd>The Visual Computer (TVCJ)<sup>E</sup></dd>
-    <dd>International Conference on Information Visualization Theory and Applications (IVAPP)<sup>2</sup>
-    <dd>International Conferences in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG)<sup>E</sup></dd>
-    <dt>2014</dt>
-    <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>E</sup></dd>
-    <dd>IEEE Information Visualization (InfoVis) &ndash; 3 papers<sup>2</sup></dd>
-    <dd>EuroVis Short Papers<sup>PC</sup></dd>
-    <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG) &ndash; 2 papers<sup>E,2</sup></dd>
-    <dd>ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup></dd>
-    <dd>Journal of the American Medical Informatics Association, special issue on "Visual Analytics"<sup>E</sup></dd>
-    <dd>it&mdash;Information Technology, special issue on "Visual Analytics"<sup>2</sup></dd>
-    <dd>IBM Journal of Research and Development, special issue on "Multimedia and Visual Analytics"<sup>E</sup></dd>
-    <dd>Forum Medientechnik<sup>PC</sup></dd>
-    <dd>Forschungsforum der &ouml;sterreichischen Fachhochschulen<sup>PC</sup></dd>
-    <dd>International Symposium on Visual Information Communication and Interaction (VINCI) &ndash; 2 papers<sup>2</sup><dd>
-    <dt>2013</dt>
-    <dd>Conference on Artificial Intelligence in MEdicine (AIME)<sup>E</sup></dd>
-    <dd>Eurographics Conference on Visualization (EuroVis)<sup>1</sup></dd>
-    <dd>Information Visualization Theory and Applications (IVAPP)<sup>2</sup></dd>
-    <dt>2012</dt>
-    <dd>IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup></dd>
-    <dd>IEEE Information Visualization (InfoVis) &ndash; 1 paper<sup>E</sup></dd>
-    <dd>IEEE Information Visualization (InfoVis) &ndash; 2 papers<sup>1,2</sup></dd>
-    <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>2</sup></dd>
-    <dd>Eurographics Conference on Visualization (EuroVis)<sup>2</sup></dd>
-    <dd>VAST 2012 Challenge &ndash; 2 contributions<sup>E</sup></dd>
-    <dd>eHealth conference, Vienna<sup>1</sup></dd>
-    <dt>2011</dt>
-    <dd>IEEE Information Visualization (InfoVis)<sup>2</sup></dd>
-    <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>2</sup></dd>
-    <dt>2010</dt>
-    <dd>IEEE Information Visualization (InfoVis)<sup>2</sup></dd>
-    <dd>IEEE Visual Analytics Science and Technology (VAST)<sup>2</sup></dd>
-    <dd>IEEE Pacific Visualization Symposium (PacificVis) &ndash; 2 papers<sup>1,2</sup></dd>
-    <dd>IEEE International Conference on Data Mining (ICDM)<sup>1</sup></dd>
-    <dd>eHealth conference, Vienna<sup>1</sup></dd>
-    <dt>2009</dt>
-    <dd>ACM Symposium on User Interface Software and Technology (UIST)<sup>2</sup></dd>
-  </dl>
+2018
+: ACM Conference on Human Factors in Computing Systems (CHI) &ndash; 2 papers<sup>E</sup>
 
-  <p style="font-size: 80%">
-   PC...programme committee member<br />
-   E...external reviewer/invitation from editor or programme committee member   <br />
-   1...in cooperation with Silvia Miksch    <br />
-   2...in cooperation with Wolfgang Aigner  <br />
-  </p>
+2017
+: Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup>
+: Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup>
+: IEEE Information Visualization (InfoVis) &ndash; 2 papers<sup>E</sup>
+: IEEE Visual Analytics Science and Technology (VAST)<sup>2</sup>
+: Eurographics Conference on Visualization (EuroVis)<sup>E</sup>
+: IEEE Pacific Visualization Symposium (PacificVis)<sup>E</sup>
+: ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup>
+: IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>2</sup>
+: SAGE Information Visualization<sup>E</sup>
+: Taylor & Francis Journal of Decision Systems<sup>E</sup>
+: Forum Medientechnik<sup>PC</sup>
+: Digital Humanities Austria<sup>PC</sup>
+: Forschungsforum der &ouml;sterreichischen Fachhochschulen (FFH)<sup>PC</sup>
+
+2016
+: Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup>
+: IEEE Visual Analytics Science and Technology (VAST)<sup>E</sup>
+: IEEE Information Visualization (InfoVis)<sup>2</sup>
+: Eurographics Conference on Visualization (EuroVis) &ndash; 2 papers<sup>E,2</sup>
+: ACM Conference on Human Factors in Computing Systems (CHI)<sup>2</sup>
+: IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup>
+: PLOS ONE<sup>E</sup>
+: MDPI Informatics<sup>E</sup>
+: IEEE Pacific Visualization Symposium (PacificVis) Notes<sup>E</sup>
+
+2015
+: Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup>
+: IEEE International Symposium on Big Data Visual Analytics (BDVA)<sup>PC</sup>
+: Eurographics Conference on Visualization (EuroVis)<sup>E</sup>
+: IEEE Information Visualization (InfoVis)<sup>E</sup>
+: IEEE Visual Analytics Science and Technology (VAST) &ndash; 2 papers<sup>2</sup>
+: IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>2</sup>
+: Journal of the American Medical Informatics Association (JAMIA)<sup>E</sup>
+: The Visual Computer (TVCJ)<sup>E</sup>
+: International Conference on Information Visualization Theory and Applications (IVAPP)<sup>2</sup>
+: International Conferences in Central Europe on Computer Graphics, Visualization and Computer Vision (WSCG)<sup>E</sup>
+
+2014
+: IEEE Visual Analytics Science and Technology (VAST)<sup>E</sup>
+: IEEE Information Visualization (InfoVis) &ndash; 3 papers<sup>2</sup>
+: EuroVis Short Papers<sup>PC</sup>
+: IEEE Transactions on Visualization and Computer Graphics (TVCG) &ndash; 2 papers<sup>E,2</sup>
+: ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup>
+: Journal of the American Medical Informatics Association, special issue on "Visual Analytics"<sup>E</sup>
+: it&mdash;Information Technology, special issue on "Visual Analytics"<sup>2</sup>
+: IBM Journal of Research and Development, special issue on "Multimedia and Visual Analytics"<sup>E</sup>
+: Forum Medientechnik<sup>PC</sup>
+: Forschungsforum der &ouml;sterreichischen Fachhochschulen<sup>PC</sup>
+: International Symposium on Visual Information Communication and Interaction (VINCI) &ndash; 2 papers<sup>2</sup><dd>
+
+2013
+: Conference on Artificial Intelligence in MEdicine (AIME)<sup>E</sup>
+: Eurographics Conference on Visualization (EuroVis)<sup>1</sup>
+: Information Visualization Theory and Applications (IVAPP)<sup>2</sup>
+
+2012
+: IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup>
+: IEEE Information Visualization (InfoVis) &ndash; 1 paper<sup>E</sup>
+: IEEE Information Visualization (InfoVis) &ndash; 2 papers<sup>1,2</sup>
+: IEEE Visual Analytics Science and Technology (VAST)<sup>2</sup>
+: Eurographics Conference on Visualization (EuroVis)<sup>2</sup>
+: VAST 2012 Challenge &ndash; 2 contributions<sup>E</sup>
+: eHealth conference, Vienna<sup>1</sup>
+
+2011
+: IEEE Information Visualization (InfoVis)<sup>2</sup>
+: IEEE Visual Analytics Science and Technology (VAST)<sup>2</sup>
+
+2010
+: IEEE Information Visualization (InfoVis)<sup>2</sup>
+: IEEE Visual Analytics Science and Technology (VAST)<sup>2</sup>
+: IEEE Pacific Visualization Symposium (PacificVis) &ndash; 2 papers<sup>1,2</sup>
+: IEEE International Conference on Data Mining (ICDM)<sup>1</sup>
+: eHealth conference, Vienna<sup>1</sup>
+
+2009
+: ACM Symposium on User Interface Software and Technology (UIST)<sup>2</sup>
+
+<p style="font-size: 80%">
+PC...programme committee member<br />
+E...external reviewer/invitation from editor or programme committee member<br />
+1...in cooperation with Silvia Miksch<br />
+2...in cooperation with Wolfgang Aigner<br />
+</p>
 
   <a class="top_link" href="#top">top</a>
 

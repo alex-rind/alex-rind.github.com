@@ -1,6 +1,6 @@
 ---
 layout: default
-mod-date: 2018-01-19
+mod-date: 2018-01-22
 ---
 
 I am a scientific researcher in Visual Analytics and Information Visualization at the
@@ -8,18 +8,12 @@ I am a scientific researcher in Visual Analytics and Information Visualization a
 [Institute of Creative\Media/Technologies](http://english.fhstp.ac.at/research/institutes_areas/media_technologies){: .external},
 [St.&nbsp;P&ouml;lten University of Applied Sciences,](http://english.fhstp.ac.at/){: .external}.
 My research focuses on supporting the exploration of time-oriented data throughout the visual analytics process.
-<!-- where I am involved in the basic research project KAVA-Time
-funded by the Austrian Science Fund (FWF) and other
-[research activities in Information Visualization and Visual Analytics](research.html). -->
-<!-- Furthermore, I supervise student projects, seminars, and theses at the
-[Information Engineering Group](http://ieg.ifs.tuwien.ac.at/){: .external},
-<!-- <a href="http://www.isis.tuwien.ac.at" class="external">Institute of Software Technology &amp; Interactive Systems</a>,
-[Vienna University of Technology](http://www.tuwien.ac.at/){: .external}.-->
 I pursue my doctoral studies about interaction in Information Visualization of time-oriented data at
 [Vienna University of Technology](http://www.informatik.tuwien.ac.at/){: .external}.
 Before that, I studied Wirtschaftsinformatik in Vienna and Lund
 and received my M.Sc. degree from the Vienna University of Technology in 2004.
-Additionally, I completed a Dipl.-Ing. degree in Information &amp; Knowledge Management from the Vienna University of Technology.
+Additionally, I completed a Dipl.-Ing. degree in Information &amp; Knowledge Management
+at the Vienna University of Technology.
 
 ## research interests
 
