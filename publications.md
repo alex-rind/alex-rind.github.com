@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2018-01-30
+mod-date: 2018-01-31
 ---
 
 <ul class="toc">
@@ -30,8 +30,8 @@ _Computer Graphics Forum,_
 early view/published online before print January 30, 2018.
 doi:[10.1111/cgf.13324](http://dx.doi.org/10.1111/cgf.13324){: .external} \\
 <span style="font-size: 80%">
-[free read-only access](http://rdcu.be/FVnu){: .external} \\
-Please contact me for a preprint version.</span>
+Please contact me for a preprint version
+or access a [free read-only version](http://rdcu.be/FVnu){: .external}.</span>
 
 Wagner, M.; Slijepcevic, D.; Horsak, B.; Rind, A.; Zeppelzauer, M. &amp; Aigner, W.:
 __KAVAGait: Knowledge-Assisted Visual Analytics for Clinical Gait Analysis__,
@@ -40,7 +40,7 @@ Accepted/in press.
 Preprint available as [arXiv:1707.06105 [cs.HC]](https://arxiv.org/abs/1707.06105){: .external}
 
 B&ouml;gl, M.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Leite, R. A.; Miksch, S. &amp; Rind, A.:
-__[Cycle Plot Revisited: Multivariate Outlier Detection Using a Distance-Based Abstraction](http://publik.tuwien.ac.at/files/publik_260233.pdf){: .pdf}__,
+__[Cycle Plot Revisited: Multivariate Outlier Detection Using a Distance-Based Abstraction](https://publik.tuwien.ac.at/files/publik_260233.pdf){: .pdf}__,
 _Computer Graphics Forum, Special Issue &quot;EuroVis 2017&quot;,_
 Vol. 36, No. 3, p. 227–238, 2017.
 doi:[10.1111/cgf.13182](http://dx.doi.org/10.1111/cgf.13182){: .external}
@@ -63,7 +63,7 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 
 <p>
  Lammarsch, T.; Aigner, W.; Bertone, A.; Miksch, S. &amp; Rind, A.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_220406.pdf" class="pdf">Mind the Time: Unleashing the Temporal Aspects in Pattern Discovery</a></b>,
+ <b><a href="https://publik.tuwien.ac.at/files/PubDat_220406.pdf" class="pdf">Mind the Time: Unleashing the Temporal Aspects in Pattern Discovery</a></b>,
  <em>Computers &amp; Graphics, Special Section on Visual Analytics</em>,
  Vol. 38, p. 38-50, 2014.
  doi:<a href="http://dx.doi.org/10.1016/j.cag.2013.10.007" class="external">10.1016/j.cag.2013.10.007</a>
@@ -72,7 +72,7 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 
 <p>
  Rind, A.; Lammarsch, T.; Aigner, W.; Alsallakh, B. &amp; Miksch, S.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_219700.pdf" class="pdf">TimeBench: A Data Model and Software Library for Visual Analytics of Time-Oriented Data</a></b>,
+ <b><a href="https://publik.tuwien.ac.at/files/PubDat_219700.pdf" class="pdf">TimeBench: A Data Model and Software Library for Visual Analytics of Time-Oriented Data</a></b>,
  <em>IEEE Transactions on Visualization and Computer Graphics, Special Issue &quot;VIS 2013&quot;</em>,
  Vol. 19, No. 12, p. 2247-2256, 2013.
  doi:<a href="http://dx.doi.org/10.1109/TVCG.2013.206" class="external">10.1109/TVCG.2013.206</a>
@@ -80,7 +80,7 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 
 <p>
  Rind, A.; Wang, T. D.; Aigner, W.; Miksch, S.; Wongsuphasawat, K.; Plaisant, C. &amp; Shneiderman, B.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_214284.pdf" class="pdf">Interactive
+ <b><a href="https://publik.tuwien.ac.at/files/PubDat_214284.pdf" class="pdf">Interactive
  Information Visualization to Explore and Query Electronic Health Records</a></b>,
  <em>Foundations and Trends in Human-Computer Interaction</em>, Vol. 5, No. 3, p. 207-298, 2013.
  doi:<a href="http://dx.doi.org/10.1561/1100000039" class="external">10.1561/1100000039</a><br />
@@ -90,7 +90,7 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 
 <p>
  Aigner, W.; Hoffmann, S. &amp; Rind, A.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_217457.pdf" class="pdf">EvalBench: A Software Library for Visualization Evaluation</a></b>,
+ <b><a href="https://publik.tuwien.ac.at/files/PubDat_217457.pdf" class="pdf">EvalBench: A Software Library for Visualization Evaluation</a></b>,
  <em>Computer Graphics Forum, Special Issue &quot;EuroVis 2013&quot;</em>, Vol. 32, No. 3, p. 41-50, 2013.
  doi:<a href="http://dx.doi.org/10.1111/cgf.12091" class="external">10.1111/cgf.12091</a>
  <!-- (acceptance rate 28%) -->
@@ -98,7 +98,7 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 
 <p>
  B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_220251.pdf" class="pdf">Visual Analytics for Model Selection in Time Series Analysis</a></b>,
+ <b><a href="https://publik.tuwien.ac.at/files/PubDat_220251.pdf" class="pdf">Visual Analytics for Model Selection in Time Series Analysis</a></b>,
  <em>IEEE Transactions on Visualization and Computer Graphics, Special Issue &quot;VIS 2013&quot;</em>,
  Vol. 19, No. 12, p. 2237-2246, 2013.
  doi:<a href="http://dx.doi.org/10.1109/TVCG.2013.222" class="external">10.1109/TVCG.2013.222</a>
@@ -106,7 +106,7 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 
 <p>
  Aigner, W.; Rind, A. &amp; Hoffmann, S.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_207563.pdf" class="pdf">Comparative Evaluation of an
+ <b><a href="https://publik.tuwien.ac.at/files/PubDat_207563.pdf" class="pdf">Comparative Evaluation of an
  Interactive Time-Series Visualization that Combines Quantitative Data with Qualitative Abstractions</a></b>,
  <em>Computer Graphics Forum, Special Issue &quot;EuroVis 2012&quot;</em>, Vol. 31, No. 3, p. 995-1004, 2012.
  doi:<a href="http://dx.doi.org/10.1111/j.1467-8659.2012.03092.x" class="external">10.1111/j.1467-8659.2012.03092.x</a>
@@ -115,7 +115,7 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 
 <p>
  Pohl, M.; Wiltner, S.; Miksch, S.; Aigner, W. &amp; Rind, A.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_215206.pdf" class="pdf">Analysing Interactivity in Information Visualisation</a></b>,
+ <b><a href="https://publik.tuwien.ac.at/files/PubDat_215206.pdf" class="pdf">Analysing Interactivity in Information Visualisation</a></b>,
  <em>KI &ndash; K&uuml;nstliche Intelligenz</em>, Vol. 26, No. 2, p. 151-159, 2012.
  doi:<a href="http://dx.doi.org/10.1007/s13218-012-0167-6" class="external">10.1007/s13218-012-0167-6</a>
 </p>
@@ -147,7 +147,7 @@ uri:<http://ceur-ws.org/Vol-1734/fmt-proceedings-2016-paper8.pdf>{: .external}
 <!-- best paper award -->
 
 Kromer, L., Wagner,  M., Blumenstein, K., Rind, A. &amp; Aigner, W.:
-__[Performance Comparison between Unity and D3.js for Cross-Platform Visualization on Mobile Devices](http://mc.fhstp.ac.at/sites/default/files/publications/Kromer_2016_FMT_crossVisComparison.pdf){: .pdf}__,
+__[Performance Comparison between Unity and D3.js for Cross-Platform Visualization on Mobile Devices](http://mc.fhstp.ac.at/sites/default/files/publications/Kromer_2016_FMT_crossVisComparison_privateCopy.pdf){: .pdf}__,
 Aigner, W., Schmiedl, G., Blumenstein, K. &amp; Zeppelzauer, M. (eds.), _Proceedings of the 9th Forum Media Technology,_
 p.&nbsp;47-52, CEUR-WS.org, 2016.
 uri:<http://ceur-ws.org/Vol-1734/fmt-proceedings-2016-paper6.pdf>{: .external}
@@ -190,7 +190,7 @@ doi:[10.1109/VAST.2015.7347672](http://dx.doi.org/10.1109/VAST.2015.7347672){: .
 <!-- best poster award -->
 
 Wagner, M.; Fischer, F.; Luh, R.; Haberson, A.; Rind, A.; Keim, D. A. &amp; Aigner, W.:
-__[A Survey of Visualization Systems for Malware Analysis](http://publik.tuwien.ac.at/files/PubDat_238853.pdf){: .pdf}__,
+__[A Survey of Visualization Systems for Malware Analysis](https://publik.tuwien.ac.at/files/PubDat_238853.pdf){: .pdf}__,
 Borgo, R.; Ganovelli, F. &amp; Viola, I. (eds.), _Proceedings of Eurographics Conference on Visualization (EuroVis) State of The Art Reports,_
 p.&nbsp;105-125, Cagliari, Italy, Eurographics, 2015.
 doi:[10.2312/eurovisstar.20151114](http://dx.doi.org/10.2312/eurovisstar.20151114){: .external}
@@ -232,26 +232,26 @@ Perer A.; Bertini, E.; Maciejewski, R. &amp; Sun, J. (eds.), _Proceedings of the
 [workshop website](http://predictive-workshop.github.io/){: .external}
 
 Federico, P.; Hoffmann, S.; Rind, A.; Aigner, W. &amp; Miksch, S.:
-__[Qualizon Graphs: Space-Efficient Time-Series Visualization with Qualitative Abstractions](http://publik.tuwien.ac.at/files/PubDat_228036.pdf){: .pdf}__,
+__[Qualizon Graphs: Space-Efficient Time-Series Visualization with Qualitative Abstractions](https://publik.tuwien.ac.at/files/PubDat_228036.pdf){: .pdf}__,
 <!-- (eds.), --> _Proceedings of the 2014 International Working Conference on Advanced Visual Interfaces, AVI,_
 p.&nbsp;273-280, ACM, 2014.
 doi:[10.1145/2598153.2598172](http://dx.doi.org/10.1145/2598153.2598172){: .external}
 
 Lammarsch, T.; Aigner, W.; Bertone, A.; Miksch, S. &amp; Rind, A.:
-__[Mind the Time: Unleashing the Temporal Aspects in Pattern Discovery](http://publik.tuwien.ac.at/files/PubDat_218046.pdf){: .pdf}__,
+__[Mind the Time: Unleashing the Temporal Aspects in Pattern Discovery](https://publik.tuwien.ac.at/files/PubDat_218046.pdf){: .pdf}__,
 Pohl, M. &amp; Schumann, H. (eds.), _Proceedings of the Fourth International EuroVis Workshop on Visual Analytics held in Europe, EuroVA,_
 p.&nbsp;31-35, Goslar, Eurographics, 2013.
 doi:[10.2312/PE.EuroVAST.EuroVA13.031-035](http://dx.doi.org/10.2312/PE.EuroVAST.EuroVA13.031-035){: .external}
 
 Lammarsch, T.; Aigner, W.; Bertone, A.; B&ouml;gl, M.; Gschwandtner, T.; Miksch, S. &amp; Rind, A.:
-__[Interactive Visual Transformation for Symbolic Representation of Time-oriented Data](http://publik.tuwien.ac.at/files/PubDat_218044.pdf){: .pdf}__,
+__[Interactive Visual Transformation for Symbolic Representation of Time-oriented Data](https://publik.tuwien.ac.at/files/PubDat_218044.pdf){: .pdf}__,
 Holzinger, A. &amp; Pasi G. (eds.), _Human-Computer Interaction and Knowledge Discovery in Complex, Unstructured, Big Data, HCI-KDD,_
 LNCS&nbsp;7947, p.&nbsp;400-419, Heidelberg, Springer, 2013.
 doi:[10.1007/978-3-642-39146-0_37](http://dx.doi.org/10.1007/978-3-642-39146-0_37){: .external}
 
 <p>
  Aigner, W.; Federico, P.; Gschwandtner, T.; Miksch, S.; &amp; Rind A.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_210197.pdf" class="pdf">Challenges of Time-oriented Data in Visual Analytics for Healthcare</a></b>,
+ <b><a href="https://publik.tuwien.ac.at/files/PubDat_210197.pdf" class="pdf">Challenges of Time-oriented Data in Visual Analytics for Healthcare</a></b>,
  Caban, J. J. &amp; Gotz, D., <em>Proceedings of the IEEE VisWeek Workshop on Visual Analytics in Healthcare</em>,
  4 p., Seattle, WA, USA, 2012.
  <a href="http://www.visualanalyticshealthcare.org/docs/VAHC2012-proceedings.pdf" class="pdf">workshop proceedings</a>
@@ -259,7 +259,7 @@ doi:[10.1007/978-3-642-39146-0_37](http://dx.doi.org/10.1007/978-3-642-39146-0_3
 
 <p>
  Lammarsch, T.; Rind, A.; Aigner, W. &amp; Miksch, S.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_207621.pdf" class="pdf">Developing an Extended Task Framework for Exploratory Data Analysis Along the Structure of Time</a></b>,
+ <b><a href="https://publik.tuwien.ac.at/files/PubDat_207621.pdf" class="pdf">Developing an Extended Task Framework for Exploratory Data Analysis Along the Structure of Time</a></b>,
  Matkovic, K. &amp; Santucci, G. (eds.), <em>Proceedings of International EuroVis Workshop on Visual Analytics (EuroVA 2012)</em>,
  p. 31-35, Eurographics, Vienna, Austria, 2012.
  doi:<a href="http://dx.doi.org/10.2312/PE/EuroVAST/EuroVA12/031-035" class="external">10.2312/PE/EuroVAST/EuroVA12/031-035</a>
@@ -267,7 +267,7 @@ doi:[10.1007/978-3-642-39146-0_37](http://dx.doi.org/10.1007/978-3-642-39146-0_3
 
 <p>
  Rind, A.; Aigner, W.; Miksch, S.; Wiltner, S.; Pohl, M.; Turic, T. &amp; Drexler, F.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_200644.pdf" class="pdf">Visual Exploration of Time-oriented Patient Data for Chronic Diseases: Design Study and Evaluation</a></b>,
+ <b><a href="https://publik.tuwien.ac.at/files/PubDat_200644.pdf" class="pdf">Visual Exploration of Time-oriented Patient Data for Chronic Diseases: Design Study and Evaluation</a></b>,
  Holzinger, A. &amp; Simonic, K.-M. (eds.), <em>Proceedings of USAB 2011: Information Quality in e-Health</em>,
  LNCS 7058, p.&nbsp;301-320, Heidelberg, Springer, 2011.
  doi:<a href="http://dx.doi.org/10.1007/978-3-642-25364-5_22" class="external">10.1007/978-3-642-25364-5_22</a>
@@ -275,7 +275,7 @@ doi:[10.1007/978-3-642-39146-0_37](http://dx.doi.org/10.1007/978-3-642-39146-0_3
 
 <p>
  Pohl, M.; Wiltner, S.; Rind, A.; Aigner, W.; Miksch, S.; Turic, T. &amp; Drexler, F.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_203979.pdf" class="pdf">Patient Development at a Glance:
+ <b><a href="https://publik.tuwien.ac.at/files/PubDat_203979.pdf" class="pdf">Patient Development at a Glance:
  An Evaluation of a Medical Data Visualization</a></b>,
  Campos, P. et al. (eds.), <em>Proceedings of 13th IFIP TC 13 International Conference on Human-Computer Interaction (INTERACT 2011), Part&nbsp;IV</em>,
  LNCS 6949, p. 292-299, Heidelberg, Springer, 2011.
@@ -284,7 +284,7 @@ doi:[10.1007/978-3-642-39146-0_37](http://dx.doi.org/10.1007/978-3-642-39146-0_3
 </p>
 
 <p>Lammarsch, T.; Aigner, W.; Bertone, A.; Miksch, S. &amp; Rind, A.:
-<b><a href="http://publik.tuwien.ac.at/files/PubDat_196860.pdf" class="pdf">Towards
+<b><a href="https://publik.tuwien.ac.at/files/PubDat_196860.pdf" class="pdf">Towards
 a Concept how the Structure of Time can Support the Visual Analytics
 Process</a></b>,
 Miksch, S. &amp; Santucci, G. (eds.), <em>Proceedings of International
@@ -295,7 +295,7 @@ doi:<a href="http://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="exte
 
 <p id="Rind__2011_VisuallyExploringMultivariateTrendsinPatientCohortsusingAnimatedScatterPlots">
  Rind, A.; Aigner, W.; Miksch, S.; Wiltner, S.; Pohl, M.; Drexler, F.; Neubauer, B. &amp; Suchy, N.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_198184.pdf" class="pdf">Visually Exploring Multivariate Trends in Patient Cohorts Using Animated Scatter Plots</a></b>,
+ <b><a href="https://publik.tuwien.ac.at/files/PubDat_198184.pdf" class="pdf">Visually Exploring Multivariate Trends in Patient Cohorts Using Animated Scatter Plots</a></b>,
  Robertson, M.M. (ed.), <em>Ergonomics and Health Aspects of Work with Computers, Proceedings of the International Conference held as part of HCI International 2011</em>,
  LNCS 6779, p. 139-148, Heidelberg, Springer, 2011.
  doi:<a href="http://dx.doi.org/10.1007/978-3-642-21716-6_15" class="external">10.1007/978-3-642-21716-6_15</a>
@@ -303,14 +303,14 @@ doi:<a href="http://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="exte
 
 <p id="Rind_2010__VisuExplore:GainingNewMedicalInsightsfromVisualExploration">
  Rind, A.; Miksch, S.; Aigner, W.; Turic, T. &amp; Pohl, M.:
- <a class="pdf" href="http://publik.tuwien.ac.at/files/PubDat_190298.pdf"><b>VisuExplore: Gaining New Medical Insights from Visual Exploration</b></a>,
+ <a class="pdf" href="https://publik.tuwien.ac.at/files/PubDat_190298.pdf"><b>VisuExplore: Gaining New Medical Insights from Visual Exploration</b></a>,
  Hayes, G. R. &amp; Tan, D. S. (eds.), <em>Proceedings of the 1st International Workshop on Interactive Systems in Healthcare (WISH@CHI2010)</em>,
  p. 149-152, Atlanta, GA, 2010.
 </p>
 
 <p id="Aigner_2009_chi_InteractivelyExploringTime-OrientedData">
  Aigner, W.; Bertone, A.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
- <a class="pdf" href="http://publik.tuwien.ac.at/files/PubDat_217974.pdf"><b>Interactively Exploring Time-Oriented Data</b></a>,
+ <a class="pdf" href="https://publik.tuwien.ac.at/files/PubDat_217974.pdf"><b>Interactively Exploring Time-Oriented Data</b></a>,
  <em>Workshop Notes of CHI 2009 workshop ``Interacting with temporal data'' at Conference on Human Factors in Computing Systems (CHI 2009)</em>, Boston, MA, ACM Press, 2009.
 </p>
 
@@ -390,24 +390,22 @@ __[Visual Analytics for Time Series Model Selection, Prediction, and Imputation]
 <!--p.&nbsp;189-190, -->Wien, &Ouml;sterreichische Statistische Gesellschaft, 2016.
 url:[http://www.osg.or.at/download/files/%7BE8AC0427-285C-4D80-A69E-0F15FD14EB5E%7D/23_Boegl.pdf](http://www.osg.or.at/download/files/%7BE8AC0427-285C-4D80-A69E-0F15FD14EB5E%7D/23_Boegl.pdf){: .external}
 
-<p>
- Lammarsch, T.; Aigner, W.; Miksch, S. &amp; Rind, A.:
- <b><a href="http://beyond.wallviz.dk/wp-content/uploads/2014/10/Submission1.pdf" class="pdf">Showing Important Facts to a Critical Audience by Means Beyond Desktop Computing</a></b>,
- <em>Proceedings of the IEEE VIS 2014 Workshop on Envisioning Visualization without Desktop Computing</em>,
- Paris, France, 2014.
- <a href="http://beyond.wallviz.dk/" class="external">workshop website</a>
-</p>
+Lammarsch, T.; Aigner, W.; Miksch, S. &amp; Rind, A.:
+__[Showing Important Facts to a Critical Audience by Means Beyond Desktop Computing](https://publik.tuwien.ac.at/files/PubDat_233657.pdf){: .pdf}__,
+_Proceedings of the IEEE VIS 2014 Workshop on Envisioning Visualization without Desktop Computing,_
+Paris, France, 2014.
+<!-- <a href="http://beyond.wallviz.dk/" class="external">workshop website</a> -->
 
 <p>
  Rind, A.; Neubauer, B.; Aigner, W. &amp; Miksch, S.:
- <b><a href="http://publik.tuwien.ac.at/files/PubDat_207731.pdf" class="pdf">Static and Dynamic Visual Mappings to Explore Bivariate Data Across Time</a></b>,
+ <b><a href="https://publik.tuwien.ac.at/files/PubDat_207731.pdf" class="pdf">Static and Dynamic Visual Mappings to Explore Bivariate Data Across Time</a></b>,
  Matkovic, K. &amp; Santucci, G. (eds.), <em>EuroVA 2012 Poster Proceedings</em>,
  p. 3, Eurographics, Vienna, Austria, 2012.
 </p>
 
 <p id="Rind_2010__VisuExplore:GewinnungneuermedizinischerErkenntnissedurchvisuelleExploration">
  Rind, A.; Aigner, W.; Turic, T.; Miksch, S. &amp; Pohl, M.:
- <a class="pdf" href="http://publik.tuwien.ac.at/files/PubDat_190161.pdf"><b>VisuExplore: Gewinnung neuer medizinischer Erkenntnisse durch visuelle Exploration</b></a>,
+ <a class="pdf" href="https://publik.tuwien.ac.at/files/PubDat_190161.pdf"><b>VisuExplore: Gewinnung neuer medizinischer Erkenntnisse durch visuelle Exploration</b></a>,
  Schreier, G.; Hayn, D. &amp; , Ammenwerth, E. (eds.), <em>Tagungsband der eHealth2010: Health Informatics meets eHealth</em>,
  p. 273-278, Vienna, OCG, 2010.
 </p>
@@ -467,7 +465,7 @@ No. HCIL-2010-19, <em>University of Maryland</em>, College Park, 2010.</p>
 
 <p id="rind_2008_timnesupgrade_DatenflutimmedizinischenAlltag">
  Rind, A.:
- <a class="pdf" href="http://www.donau-uni.ac.at/imperia/md/content/department/ike/timnews/timnewsupgrade_02_08/tim0208_20-21.pdf"><b>Datenflut im medizinischen Alltag &ndash; PatientInnendaten im &Uuml;berblick</b></a>,
+ <a class="pdf" href="https://www.donau-uni.ac.at/imperia/md/content/department/ike/timnews/timnewsupgrade_02_08/tim0208_20-21.pdf"><b>Datenflut im medizinischen Alltag &ndash; PatientInnendaten im &Uuml;berblick</b></a>,
  <em>TIMNEWSupgrade</em>, Vol. 42, No. 2, p. 20-21, September, 2008.
 </p>
 

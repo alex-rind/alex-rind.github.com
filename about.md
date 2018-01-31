@@ -2,7 +2,7 @@
 layout: default
 title: "about"
 longtitle: "About Me / Curriculum Vitae"
-mod-date: 2018-01-19
+mod-date: 2018-01-31
 ---
 
 <ul class="toc">
@@ -10,13 +10,13 @@ mod-date: 2018-01-19
     <li><a href="#education">education</a></li>
     <li><a href="#continuing-education">continuing education</a></li>
     <li><a href="#awards">awards</a></li>
-    <li><a href="#volunteer_activities">volunteer activities</a></li>
+    <li><a href="#volunteer-activities">volunteer activities</a></li>
 </ul>
 
 ## work experience
 
 since 01/2014
-: [St.&nbsp;P&ouml;lten University of Applied Sciences,](http://english.fhstp.ac.at/){: .external} Austria
+: [St.&nbsp;P&ouml;lten University of Applied Sciences,](https://www.fhstp.ac.at/){: .external} Austria
 : Researcher at the Institute of Creative\Media/Technologies
 
 10/2016 &ndash; 01/2018
@@ -177,7 +177,7 @@ since 2009
 Mentor for exchange students at Vienna University of Technology
 
 2001
-: [Krischansta Nation](http://www.krischan.se/){: .external} Lund, Sweden
+: [Krischansta Nation](https://krnation.se/){: .external} Lund, Sweden
 : Bartender at students' nightclub, pub, and caf&eacute;
 
 [top](#top){: .top_link}

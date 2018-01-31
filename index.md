@@ -1,12 +1,12 @@
 ---
 layout: default
-mod-date: 2018-01-22
+mod-date: 2018-01-31
 ---
 
 I am a scientific researcher in Visual Analytics and Information Visualization at the
 [Media Computing Research Group](http://mc.fhstp.ac.at/){: .external},
-[Institute of Creative\Media/Technologies](http://english.fhstp.ac.at/research/institutes_areas/media_technologies){: .external},
-[St.&nbsp;P&ouml;lten University of Applied Sciences,](http://english.fhstp.ac.at/){: .external}.
+[Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external},
+[St.&nbsp;P&ouml;lten University of Applied Sciences,](https://www.fhstp.ac.at/){: .external}.
 My research focuses on supporting the exploration of time-oriented data throughout the visual analytics process.
 I pursue my doctoral studies about interaction in Information Visualization of time-oriented data at
 [Vienna University of Technology](http://www.informatik.tuwien.ac.at/){: .external}.
@@ -73,7 +73,7 @@ at the Vienna University of Technology.
     <li><a rel="me" href="https://www.xing.com/profile/Alexander_Rind" class="external">Xing</a></li>
     <li><a rel="me" href="https://profiles.google.com/100502536782063406186" class="external">Google+</a></li>
     <li><a rel="me" href="http://scholar.google.com/citations?user=R48XMTYAAAAJ" class="external">Google Scholar</a></li>
-    <li><a rel="me" href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/r/Rind:Alexander.html" class="external">dblp</a></li>
+    <li><a rel="me" href="http://dblp.uni-trier.de/pers/hd/r/Rind:Alexander.html" class="external">dblp</a></li>
     <li><a rel="me" href="http://orcid.org/0000-0001-8788-4600" class="external">ORCID</a></li>
     <li><a rel="me" href="http://dl.acm.org/author_page.cfm?id=81488671213&role=Author" class="external">ACM&nbsp;DL</a></li>
     <li><a rel="me" href="https://www.researchgate.net/profile/Alexander_Rind" class="external">ResearchGate</a></li>

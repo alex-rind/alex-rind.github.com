@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2018-10-19
+mod-date: 2018-01-31
 ---
 
 <ul class="toc">
@@ -24,7 +24,7 @@ mod-date: 2018-10-19
       </a> -->
       <p class="project">ContractVis&mdash;the visual assistant for the fine print</p>
        Internet Foundation Austria (IPA), netidee, prj2116<br />
-      <a href="http://english.fhstp.ac.at/research/institutes_areas/media_technologies" class="external">St.&nbsp;P&ouml;lten
+      <a href="hhttps://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
           University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
       <a href="http://mc.fhstp.ac.at/projects/contractvis" class="external">project webpage</a>
     </dd>
@@ -36,7 +36,7 @@ mod-date: 2018-10-19
       </a>
       <p class="project">VALID&mdash;Visual Analytics in Data-driven Journalism</p>
        Austrian Ministry for Transport, Innovation and Technology (BMVIT), IKT der Zukunft<br />
-      <a href="http://english.fhstp.ac.at/research/institutes_areas/media_technologies" class="external">St.&nbsp;P&ouml;lten
+      <a href="hthttps://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
           University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
       <a href="http://www.validproject.at/" class="external">project webpage</a>
     </dd>
@@ -48,7 +48,7 @@ mod-date: 2018-10-19
       </a>
       <p class="project">KAVA-Time&mdash;Knowledge-Assisted Visual Analytics Methods for Time-Oriented Data</p>
       Austrian Science Fund (FWF)<br />
-      <a href="http://english.fhstp.ac.at/research/institutes_areas/media_technologies" class="external">St.&nbsp;P&ouml;lten
+      <a href="https://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
 	  University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
       <a href="http://mc.fhstp.ac.at/projects/kava-time" class="external">project webpage</a>
     </dd>
@@ -311,8 +311,8 @@ E...external reviewer/invitation from editor or programme committee member<br />
     <dt>09/2017</dt>
     <dd>
       <p class="project">OpenGLAM.at Kulturhackathon</p>
-      <a href="http://www.fhstp.ac.at/" class="external">St.&nbsp;P&ouml;lten University of Applied Sciences</a>,
-      <a href="http://www.fhstp.ac.at/" class="external">Federal State of Lower Austria</a>,
+      <a href="https://www.fhstp.ac.at/" class="external">St.&nbsp;P&ouml;lten University of Applied Sciences</a>,
+      <a href="http://www.noe.gv.at/" class="external">Federal State of Lower Austria</a>,
       <a href="http://www.donau-uni.ac.at/" class="external">Donau Universität Krems</a>,
       <a href="https://www.ait.ac.at/" class="external">AIT</a>, etc.<br />
       <em>Member of the organizing committee</em>
