@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2018-01-10
+mod-date: 2018-01-30
 ---
 
 <ul class="toc">
@@ -27,8 +27,11 @@ mod-date: 2018-01-10
 Andrienko, N.; Lammarsch,  T.; Andrienko, G.; Fuchs, G.; Keim, D.; Miksch, S. &amp; Rind, A.:
 __Viewing Visual Analytics as Model Building__,
 _Computer Graphics Forum,_
-Accepted/in press.\\
-<span style="font-size: 80%">Please contact me for a preprint version.</span>
+early view/published online before print January 30, 2018.
+doi:[10.1111/cgf.13324](http://dx.doi.org/10.1111/cgf.13324){: .external} \\
+<span style="font-size: 80%">
+[free read-only access](http://rdcu.be/FVnu){: .external} \\
+Please contact me for a preprint version.</span>
 
 Wagner, M.; Slijepcevic, D.; Horsak, B.; Rind, A.; Zeppelzauer, M. &amp; Aigner, W.:
 __KAVAGait: Knowledge-Assisted Visual Analytics for Clinical Gait Analysis__,
