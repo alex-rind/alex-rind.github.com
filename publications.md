@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2018-01-31
+mod-date: 2018-03-02
 ---
 
 <ul class="toc">
@@ -24,6 +24,13 @@ mod-date: 2018-01-31
 
 ## Refereed Journal Articles {#article}
 
+Wagner, M.; Slijepcevic, D.; Horsak, B.; Rind, A.; Zeppelzauer, M. &amp; Aigner, W.:
+__[KAVAGait: Knowledge-Assisted Visual Analytics for Clinical Gait Analysis](https://arxiv.org/pdf/1707.06105){: .pdf}__,
+_IEEE Transactions on Visualization and Computer Graphics,_
+early access/published online before print February 28, 2018.
+doi:[10.1109/TVCG.2017.2785271](http://dx.doi.org/10.1109/TVCG.2017.2785271){: .external} \\
+Preprint available as [arXiv:1707.06105 [cs.HC]](https://arxiv.org/abs/1707.06105){: .external}
+
 Andrienko, N.; Lammarsch,  T.; Andrienko, G.; Fuchs, G.; Keim, D.; Miksch, S. &amp; Rind, A.:
 __Viewing Visual Analytics as Model Building__,
 _Computer Graphics Forum,_
@@ -32,12 +39,6 @@ doi:[10.1111/cgf.13324](http://dx.doi.org/10.1111/cgf.13324){: .external} \\
 <span style="font-size: 80%">
 Please contact me for a preprint version
 or access a [free read-only version](http://rdcu.be/FVnu){: .external}.</span>
-
-Wagner, M.; Slijepcevic, D.; Horsak, B.; Rind, A.; Zeppelzauer, M. &amp; Aigner, W.:
-__KAVAGait: Knowledge-Assisted Visual Analytics for Clinical Gait Analysis__,
-_IEEE Transactions on Visualization and Computer Graphics,_
-Accepted/in press.
-Preprint available as [arXiv:1707.06105 [cs.HC]](https://arxiv.org/abs/1707.06105){: .external}
 
 B&ouml;gl, M.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Leite, R. A.; Miksch, S. &amp; Rind, A.:
 __[Cycle Plot Revisited: Multivariate Outlier Detection Using a Distance-Based Abstraction](https://publik.tuwien.ac.at/files/publik_260233.pdf){: .pdf}__,

@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2018-01-31
+mod-date: 2018-03-02
 ---
 
 <ul class="toc">
@@ -134,7 +134,7 @@ mod-date: 2018-01-31
 
   <a class="top_link" href="#top">top</a>
 
-  <h2 id="student">supervised student projects</h2>
+  <h2 id="student">supervised student projects (not up-to-date)</h2>
 
   <dl>
     <dt>05/2011 &ndash; 04/2012</dt>
@@ -212,10 +212,11 @@ mod-date: 2018-01-31
 
 [top](#top){: .top_link}
 
-  <h2 id="reviewing">reviewing</h2>
+## reviewing
 
 2018
-: ACM Conference on Human Factors in Computing Systems (CHI) &ndash; 2 papers<sup>E</sup>
+: ACM Conference on Human Factors in Computing Systems (CHI) &ndash; 2 papers, 1 late-breaking&nbsp;work<sup>E</sup>
+: Forschungsforum der &ouml;sterreichischen Fachhochschulen (FFH)<sup>E</sup>
 
 2017
 : Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup>
