@@ -411,6 +411,12 @@ Paris, France, 2014.
  p. 273-278, Vienna, OCG, 2010.
 </p>
 
+<p id="rind_2008_timnesupgrade_DatenflutimmedizinischenAlltag">
+ Rind, A.:
+ <a class="pdf" href="https://www.donau-uni.ac.at/imperia/md/content/department/ike/timnews/timnewsupgrade_02_08/tim0208_20-21.pdf"><b>Datenflut im medizinischen Alltag &ndash; PatientInnendaten im &Uuml;berblick</b></a>,
+ <em>TIMNEWSupgrade</em>, Vol. 42, No. 2, p. 20-21, September, 2008.
+</p>
+
 <p id="Ecker_2006__WertschoepfungsmessungimTourismus">
  Ecker, K.; Freidl, C.; Rind, A. &amp; Waldh&ouml;r, K.:
  <a class="pdf" href="http://www.users.fh-salzburg.ac.at/%7Emjooss/eTourism_Berichte%20aus%20Wissenschaft%20und%20Wirtschaft.pdf"><b>Wertsch&ouml;pfungsmessung im Tourismus</b></a>,
@@ -441,6 +447,18 @@ No. HCIL-2010-19, <em>University of Maryland</em>, College Park, 2010.</p>
 
 ## Dissemination to a General Audience {#general}
 
+Rind, A.; Aigner, W.; Grassinger, F.; Kirchknopf, A. &amp; Niederer, C.:
+__[Visualization Corner: Zum Kleingedruckten in Verträgen und anderen Visualisierungsprojekten](https://www.netidee.at/contractvis/contractvis-bei-der-langen-nacht-der-forschung-2018){: .external}__,
+_Lange Nacht der Forschung,_
+St. Pölten, Austria, April 13, 2018.
+[official website](https://www.langenachtderforschung.at/2018/stationen.html?group_id=13208&page=stationen){: .external}
+
+Rind, A.; Aigner, W.; Thür, N.; Niederer, C. &amp; Wagner, M.:
+__[Aus Daten schlau werden](http://www.validproject.at/2016/05/long-night-of-research-2016/){: .external}__,
+_Lange Nacht der Forschung,_
+St. Pölten, Austria, April 22, 2016.
+[blog post](http://www.validproject.at/2016/05/long-night-of-research-2016/){: .external}
+
 <p id="aigner_2015_ern">
  Aigner, W.; Niederer, C; Rind, A. &amp; Wagner, M.:
  <b><a class="pdf" href="http://www.ifs.tuwien.ac.at/~rind/preprint/aigner_2015_ern.pdf">Aus Daten schlau werden: Visual Analytics mit einem Fokus auf Zeit</a></b>,
@@ -462,12 +480,6 @@ No. HCIL-2010-19, <em>University of Maryland</em>, College Park, 2010.</p>
  <b><a class="external" href="http://www.donau-uni.ac.at/de/department/ike/news/id/14125/index.php">Sehen &amp; Gesehen werden</a></b>,
  <em>Lange Nacht der Forschung</em>, 
  Krems, Austria, November 7, 2009.
-</p>
-
-<p id="rind_2008_timnesupgrade_DatenflutimmedizinischenAlltag">
- Rind, A.:
- <a class="pdf" href="https://www.donau-uni.ac.at/imperia/md/content/department/ike/timnews/timnewsupgrade_02_08/tim0208_20-21.pdf"><b>Datenflut im medizinischen Alltag &ndash; PatientInnendaten im &Uuml;berblick</b></a>,
- <em>TIMNEWSupgrade</em>, Vol. 42, No. 2, p. 20-21, September, 2008.
 </p>
 
 <p style="font-size: 80%">
