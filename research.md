@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2018-03-02
+mod-date: 2018-05-08
 ---
 
 <ul class="toc">
@@ -215,7 +215,10 @@ mod-date: 2018-03-02
 ## reviewing
 
 2018
+: IEEE Information Visualization (InfoVis) &ndash; 2 papers<sup>E</sup>
+: IEEE Visual Analytics Science and Technology (VAST)<sup>2</sup>
 : ACM Conference on Human Factors in Computing Systems (CHI) &ndash; 2 papers, 1 late-breaking&nbsp;work<sup>E</sup>
+: IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup>
 : Forschungsforum der &ouml;sterreichischen Fachhochschulen (FFH)<sup>E</sup>
 
 2017
