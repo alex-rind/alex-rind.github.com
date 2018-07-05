@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2018-03-02
+mod-date: 2018-07-05
 ---
 
 <ul class="toc">
@@ -34,7 +34,7 @@ Preprint available as [arXiv:1707.06105 [cs.HC]](https://arxiv.org/abs/1707.0610
 Andrienko, N.; Lammarsch,  T.; Andrienko, G.; Fuchs, G.; Keim, D.; Miksch, S. &amp; Rind, A.:
 __Viewing Visual Analytics as Model Building__,
 _Computer Graphics Forum,_
-early view/published online before print January 30, 2018.
+Vol. 37, No. 6, p. 275-299, 2018.
 doi:[10.1111/cgf.13324](http://dx.doi.org/10.1111/cgf.13324){: .external} \\
 <span style="font-size: 80%">
 Please contact me for a preprint version
@@ -43,7 +43,7 @@ or access a [free read-only version](http://rdcu.be/FVnu){: .external}.</span>
 B&ouml;gl, M.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Leite, R. A.; Miksch, S. &amp; Rind, A.:
 __[Cycle Plot Revisited: Multivariate Outlier Detection Using a Distance-Based Abstraction](https://publik.tuwien.ac.at/files/publik_260233.pdf){: .pdf}__,
 _Computer Graphics Forum, Special Issue &quot;EuroVis 2017&quot;,_
-Vol. 36, No. 3, p. 227–238, 2017.
+Vol. 36, No. 3, p. 227-238, 2017.
 doi:[10.1111/cgf.13182](http://dx.doi.org/10.1111/cgf.13182){: .external}
 <!-- <span style="font-size: 80%">Please contact me for a preprint version.</span> -->
 
@@ -124,6 +124,12 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 [top](#top){: .top_link}
 
 ## Refereed Conference &amp; Workshop Articles {#inproc}
+
+Rind, A., Iber, M. &amp; Aigner, W.:
+__[Bridging the Gap Between Sonification and Visualization](https://github.com/MultiModalVis/multimodalvis.github.io/raw/master/papers/AVI_2018_paper_155.pdf){: .pdf}__,
+Lee, B. et al. (eds.), _Proc. AVI Workshop on Multimodal Interaction for Data Visualization (MultimodalVis),_
+<!-- p.&nbsp;169-173,  Eurographics, --> 2018.
+[workshop website](https://sites.google.com/view/multimodalvis/program){: .external}
 
 Federico, P., Wagner, M., Rind, A., Amor-Amoros, A., Miksch, S. &amp; Aigner, W.:
 __[The Role of Explicit Knowledge: A Conceptual Model of Knowledge-Assisted Visual Analytics](http://ifs.tuwien.ac.at/~rind/preprint/federico-wagner_2017_knava-model.pdf){: .pdf}__,
