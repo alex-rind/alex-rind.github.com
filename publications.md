@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2018-07-05
+mod-date: 2018-10-22
 ---
 
 <ul class="toc">
@@ -124,6 +124,12 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 [top](#top){: .top_link}
 
 ## Refereed Conference &amp; Workshop Articles {#inproc}
+
+Rind, A., Grassinger, F., Kirchknopf, A., Stoiber, C. &amp; A. &Ouml;z&uuml;yilmaz:
+__[ContractVis HighLighter: the Visual Assistant for the Fine Print](http://ceur-ws.org/Vol-2198/paper_93.pdf){: .pdf}__,
+Khalili, A. &amp; Koutraki, M. (eds.), _Proc. Posters and Demos Track 14th Int. Conf. Semantic Systems (SEMANTiCS2018),_
+CEUR-WS.org, 2018.
+uri:<http://ceur-ws.org/Vol-2198/paper_93.pdf>{: .external}
 
 Rind, A., Iber, M. &amp; Aigner, W.:
 __[Bridging the Gap Between Sonification and Visualization](https://github.com/MultiModalVis/multimodalvis.github.io/raw/master/papers/AVI_2018_paper_155.pdf){: .pdf}__,
@@ -384,6 +390,12 @@ VRVis, Vienna, Austria, June 6, 2012.
 [top](#top){: .top_link}
 
 ## Miscellaneous &amp; German Articles {#misc}
+
+Erlinger-Schiedlbauer, C., Neubauer, G., Petrovic-Majer, S., Rind A., Schlarb, S. &amp; Spangl B.:
+__[Semantische Suchabfragen mit der Linked Open Data Cloud generieren](https://www.societybyte.swiss/2018/10/22/semantische-suchabfragen-mit-der-linked-open-data-cloud-generieren/){: .external}__,
+_SocietyByte, Wissenschaftsmagazin des BFH-Zentrums Digital Society,_
+October 2018.
+<!-- uri:<https://www.societybyte.swiss/2018/10/22/semantische-suchabfragen-mit-der-linked-open-data-cloud-generieren/>{: .external} -->
 
 Bernád, Á. Z., Kaiser, M., Mair,  S. M. &amp; Rind, A.:
 __[Communities in biographischen Netzwerken](http://ceur-ws.org/Vol-2009/fmt-proceedings-2017-paper12.pdf){: .pdf}__,
