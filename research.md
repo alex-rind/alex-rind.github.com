@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2018-05-08
+mod-date: 2019-01-28
 ---
 
 <ul class="toc">
@@ -17,31 +17,55 @@ mod-date: 2018-05-08
   <h2 id="funded">funded research projects</h2>
 
   <dl>
-    <dt>since 01/2018</dt>
+    <dt>since 11/2018</dt>
     <dd>
-<!--      <a href="http://mc.fhstp.ac.at/projects/contractvis">
-        <img src="img/valid_logo_112.png" alt="VALID" width="112" height="56" align="right" />
-      </a> -->
-      <p class="project">ContractVis&mdash;the visual assistant for the fine print</p>
-       Internet Foundation Austria (IPA), netidee, prj2116<br />
-      <a href="hhttps://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
+      <a href="https://www.fhstp.ac.at/en/research/projects-1/remocap-lab">
+        <img src="img/remocap_logo-112.png" alt="ReMoCap-Lab" width="112" height="66" align="right" />
+      </a>
+      <p class="project">ReMoCap-Lab&mdash;Laboratory for Capturing Motion and Augmenting Environment in Motor Rehabilitation</p>
+       Austrian Federal Ministry for Digital And Economic Affairs (BMDW), COIN<br />
+      <a href="https://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
           University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
-      <a href="http://mc.fhstp.ac.at/projects/contractvis" class="external">project webpage</a>
+      <a href="https://www.fhstp.ac.at/en/research/projects-1/remocap-lab" class="external">project webpage</a>
     </dd>
 
-    <dt>since 01/2015</dt>
+    <dt>10/2018 &ndash; 12/2018</dt>
+    <dd>
+      <a href="https://www.fhstp.ac.at/icmt">
+        <img src="img/schreibcoachvis-112.png" alt="SchreibCoachVis" width="112" height="73" align="right" />
+      </a>
+      <p class="project">SchreibCoachVis&mdash;visualization for linguistic science and training</p>
+       Austrian Research Promotion Agency (FFG), Innovationsscheck<br />
+      <a href="https://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
+          University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
+<!--       <a href="http://mc.fhstp.ac.at/projects/contractvis" class="external">project webpage</a> -->
+    </dd>
+
+    <dt>01/2018 &ndash; 12/2018</dt>
+    <dd>
+      <a href="https://www.netidee.at/contractvis">
+        <img src="img/contractvis_112.png" alt="ContractVis" width="112" height="80" align="right" />
+      </a>
+      <p class="project">ContractVis&mdash;the visual assistant for the fine print</p>
+       Internet Foundation Austria (IPA), netidee, prj2116<br />
+      <a href="https://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
+          University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
+      <a href="https://www.netidee.at/contractvis" class="external">project webpage</a>
+    </dd>
+
+    <dt>01/2015 &ndash; 12/2018</dt>
     <dd>
       <a href="http://www.validproject.at/">
         <img src="img/valid_logo_112.png" alt="VALID" width="112" height="56" align="right" />
       </a>
       <p class="project">VALID&mdash;Visual Analytics in Data-driven Journalism</p>
        Austrian Ministry for Transport, Innovation and Technology (BMVIT), IKT der Zukunft<br />
-      <a href="hthttps://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
+      <a href="https://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
           University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
       <a href="http://www.validproject.at/" class="external">project webpage</a>
     </dd>
 
-    <dt>since 08/2013</dt>
+    <dt>08/2013 &ndash; 07/2018</dt>
     <dd>
       <a href="http://mc.fhstp.ac.at/projects/kava-time">
         <img src="img/kava-time_logo_112.png" alt="KAVA-Time" width="112" height="65" align="right" />
@@ -67,7 +91,7 @@ mod-date: 2018-05-08
 
     <dt>04/2011 &ndash; 12/2013</dt>
     <dd>
-      <a href="http://www.cvast.tuwien.ac.at/ieg-projects/hypovis">
+      <a href="https://www.cvast.tuwien.ac.at/projects/hypovis">
         <img src="img/HypoVis_Logo_112.png" alt="HypoVis" width="112" height="42" align="right" />
       </a>
       <p class="project">HypoVis&mdash;Modeling Hypotheses with Visual Analytics Methods to Analyze the Past
@@ -75,7 +99,7 @@ mod-date: 2018-05-08
       Austrian Science Fund (FWF)<br />
       <a href="http://www.isis.tuwien.ac.at/" class="external">Vienna University of Technology,
       Institute of Software Technology and Interactive Systems</a>, Austria<br />
-      <a href="http://www.cvast.tuwien.ac.at/ieg-projects/hypovis" class="external">project webpage</a>
+      <a href="https://www.cvast.tuwien.ac.at/projects/hypovis" class="external">project webpage</a>
     </dd>
 
     <dt>09/2010 &ndash; 05/2011</dt>
@@ -214,11 +238,16 @@ mod-date: 2018-05-08
 
 ## reviewing
 
+2019
+: ACM Conference on Human Factors in Computing Systems (CHI) &ndash; 3 late-breaking&nbsp;work<sup>E</sup>
+
 2018
+: Workshop on Evaluation and Beyond (BELIV)<sup>PC</sup>
 : IEEE Information Visualization (InfoVis) &ndash; 2 papers<sup>E</sup>
 : IEEE Visual Analytics Science and Technology (VAST)<sup>2</sup>
 : ACM Conference on Human Factors in Computing Systems (CHI) &ndash; 2 papers, 1 late-breaking&nbsp;work<sup>E</sup>
 : IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup>
+: Digital Humanities Austria<sup>PC</sup>
 : Forschungsforum der &ouml;sterreichischen Fachhochschulen (FFH)<sup>E</sup>
 
 2017
