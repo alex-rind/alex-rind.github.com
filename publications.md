@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2019-01-08
+mod-date: 2019-01-30
 ---
 
 <ul class="toc">
@@ -25,20 +25,21 @@ mod-date: 2019-01-08
 ## Refereed Journal Articles {#article}
 
 Wagner, M.; Slijepcevic, D.; Horsak, B.; Rind, A.; Zeppelzauer, M. &amp; Aigner, W.:
-__[KAVAGait: Knowledge-Assisted Visual Analytics for Clinical Gait Analysis](https://arxiv.org/pdf/1707.06105){: .pdf}__,
+__[KAVAGait: Knowledge-Assisted Visual Analytics for Clinical Gait Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8304678){: .pdf}__,
 _IEEE Transactions on Visualization and Computer Graphics,_
-early access/published online before print February 28, 2018.
+Vol. 25, No. 3, p. 1528–1542, 2018.
+<!-- early access/published online before print February 28, 2018. -->
 doi:[10.1109/TVCG.2017.2785271](http://dx.doi.org/10.1109/TVCG.2017.2785271){: .external} \\
 Preprint available as [arXiv:1707.06105 [cs.HC]](https://arxiv.org/abs/1707.06105){: .external}
 
 Andrienko, N.; Lammarsch,  T.; Andrienko, G.; Fuchs, G.; Keim, D.; Miksch, S. &amp; Rind, A.:
-__Viewing Visual Analytics as Model Building__,
+__[Viewing Visual Analytics as Model Building](http://ifs.tuwien.ac.at/~rind/preprint/andrienko_2018_cgf_model-building_postprint.pdf){: .pdf}__,
 _Computer Graphics Forum,_
 Vol. 37, No. 6, p. 275-299, 2018.
 doi:[10.1111/cgf.13324](http://dx.doi.org/10.1111/cgf.13324){: .external} \\
-<span style="font-size: 80%">
+<!-- <span style="font-size: 80%">
 Please contact me for a preprint version
-or access a [free read-only version](http://rdcu.be/FVnu){: .external}.</span>
+or access a [free read-only version](http://rdcu.be/FVnu){: .external}.</span> -->
 
 B&ouml;gl, M.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Leite, R. A.; Miksch, S. &amp; Rind, A.:
 __[Cycle Plot Revisited: Multivariate Outlier Detection Using a Distance-Based Abstraction](https://publik.tuwien.ac.at/files/publik_260233.pdf){: .pdf}__,
@@ -56,7 +57,7 @@ doi:[10.1016/j.cose.2017.02.003](http://dx.doi.org/10.1016/j.cose.2017.02.003){:
 Preprint available as [arXiv:1612.06232 [cs.CR]](https://arxiv.org/abs/1612.06232){: .external}
 
 Rind, A.; Aigner, W.; Wagner, M.; Miksch, S. &amp; Lammarsch, T.:
-__[Task Cube: A Three-Dimensional Conceptual Space of User Tasks in Visualization Design and Evaluation](http://mc.fhstp.ac.at/sites/default/files/publications/rind_2016_ivi_task-cube_postprint.pdf){: .pdf}__,
+__[Task Cube: A Three-Dimensional Conceptual Space of User Tasks in Visualization Design and Evaluation](https://publik.tuwien.ac.at/files/PubDat_247156.pdf){: .pdf}__,
 _Information Visualization, special section on Evaluation_,
  Vol. 15, No. 4, p. 288-300, 2016.
 <!--published online before print December 27, 2015.-->
@@ -144,7 +145,7 @@ p.&nbsp;92-103, IEEE, 2017.
 doi:[10.1109/VAST.2017.8585498](http://dx.doi.org/10.1109/VAST.2017.8585498){: .external}
 
 Rind, A., Haberson, A., Blumenstein, K., Niederer, C. &amp; Aigner, W.:
-__[PubViz: Lightweight Visual Presentation of Publication Data](http://mc.fhstp.ac.at/sites/default/files/publications/rind_2017_pubviz.pdf){: .pdf}__,
+__[PubViz: Lightweight Visual Presentation of Publication Data](http://ifs.tuwien.ac.at/~rind/preprint/rind_2017_pubviz_postprint.pdf){: .pdf}__,
 Kozl&iacute;kov&aacute;, B., Schreck, T. &amp; Wischgoll, T. (eds.), _Proc. Eurographics Conf. Visualization (EuroVis) &ndash; Short Papers,_
 p.&nbsp;169-173,  Eurographics, 2017.
 doi:[10.2312/eurovisshort.20171152](http://dx.doi.org/10.2312/eurovisshort.20171152){: .external}
@@ -209,7 +210,7 @@ p.&nbsp;105-125, Cagliari, Italy, Eurographics, 2015.
 doi:[10.2312/eurovisstar.20151114](http://dx.doi.org/10.2312/eurovisstar.20151114){: .external}
 
 B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
-__[Integrating Predictions in Time Series Model Selection](http://mc.fhstp.ac.at/sites/default/files/publications/boegl_2015_eurova_timova_postprint.pdf){: .pdf}__,
+__[Integrating Predictions in Time Series Model Selection](https://publik.tuwien.ac.at/files/PubDat_239076.pdf){: .pdf}__,
 Bertini, E. &amp; Roberts, J. C. (eds.), _Proceedings of the Sixth International EuroVis Workshop on Visual Analytics, EuroVA,_
 p.&nbsp;73-77, Cagliari, Italy, Eurographics, 2015.
 doi:[10.2312/eurova.20151107](http://dx.doi.org/10.2312/eurova.20151107){: .external}
@@ -226,7 +227,7 @@ FH Hagenberg, 2015.
 uri:<http://ffhoarep.fh-ooe.at/handle/123456789/362>{: .external}
 
 Rind, A.; Aigner, W.; Wagner, M.; Miksch, S. &amp; Lammarsch, T.:
-__[User Tasks for Evaluation: Untangling the Terminology Throughout Visualization Design and Development](http://mc.fhstp.ac.at/sites/default/files/publications/rind_2014_beliv_task_postprint.pdf){: .pdf}__,
+__[User Tasks for Evaluation: Untangling the Terminology Throughout Visualization Design and Development](http://publik.tuwien.ac.at/files/PubDat_232654.pdf){: .pdf}__,
 Lam, H.; Isenberg,  P.; Isenberg T. &amp; Sedlmair M. (eds.), _Proceedings of the Fifth Workshop on Beyond Time and Errors: Novel Evaluation Methods for Visualization, BELIV,_
 p.&nbsp;9-15, New York, ACM, 2014.
 doi:[10.1145/2669557.2669568](http://dx.doi.org/10.1145/2669557.2669568){: .external}
