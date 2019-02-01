@@ -197,7 +197,7 @@ Vienna, Austria, FH des BFI Wien, 2016.
 uri:<http://ffhoarep.fh-ooe.at/handle/123456789/578>{: .external}
 
 B&ouml;gl, M.; Filzmoser, P.; Gschwandtner, T.; Miksch, S.; Aigner, W.; Rind, A. &amp; Lammarsch, T.:
-__[Visually and Statistically Guided Imputation of Missing Values in Univariate Seasonal Time Series](http://www.ifs.tuwien.ac.at/~rind/preprint/boegl_2015_vis_timi_postprint.pdf){: .pdf}__,
+__[Visually and Statistically Guided Imputation of Missing Values in Univariate Seasonal Time Series](https://publik.tuwien.ac.at/files/PubDat_242014.pdf){: .pdf}__,
 Chen, M. &amp; Andrienko, G. (eds.), _Proceedings of IEEE Conference on Visual Analytics Science and Technology, VAST, Poster Abstracts,_
 p.&nbsp;189-190, Chicago, IEEE, 2015.
 doi:[10.1109/VAST.2015.7347672](http://dx.doi.org/10.1109/VAST.2015.7347672){: .external}
@@ -233,14 +233,14 @@ p.&nbsp;9-15, New York, ACM, 2014.
 doi:[10.1145/2669557.2669568](http://dx.doi.org/10.1145/2669557.2669568){: .external}
 
 Wagner, M.; Aigner, W.; Rind, A.; Dornhackl, H.; Kadletz, K.; Luh, R. &amp; Tavolato, P.:
-__[Problem Characterization and Abstraction for Visual Analytics in Behavior-Based Malware Pattern Analysis](http://mc.fhstp.ac.at/sites/default/files/publications/wagner_2014_VizSec_problem.pdf){: .pdf}__,
+__[Problem Characterization and Abstraction for Visual Analytics in Behavior-Based Malware Pattern Analysis](http://ifs.tuwien.ac.at/~rind/preprint/wagner_2014_VizSec_problem.pdf){: .pdf}__,
 Whitley, K.; Engle, S.; Harrison, L.; Fischer, F. &amp; Prigent N. (eds.), _Proceedings of the Eleventh Workshop on Visualization for Cyber Security, VizSec,_
 p.&nbsp;9-16, New York, ACM, 2014.
 doi:[10.1145/2671491.2671498](http://dx.doi.org/10.1145/2671491.2671498){: .external}
 <!-- (acceptance rate 28%) -->
 
 B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
-__[Visual Analytics Methods to Guide Diagnostics for Time Series Model Predictions](http://predictive-workshop.github.io/papers/vpa2014_7.pdf){: .pdf}__,
+__[Visual Analytics Methods to Guide Diagnostics for Time Series Model Predictions](https://publik.tuwien.ac.at/files/PubDat_232994.pdf){: .pdf}__,
 Perer A.; Bertini, E.; Maciejewski, R. &amp; Sun, J. (eds.), _Proceedings of the IEEE VIS 2014 Workshop on Visualization for Predictive Analytics, VPA,_
 2014.
 [workshop website](http://predictive-workshop.github.io/){: .external}
