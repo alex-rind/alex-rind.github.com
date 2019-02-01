@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2019-01-30
+mod-date: 2019-02-01
 ---
 
 <ul class="toc">
@@ -139,7 +139,7 @@ Lee, B. et al. (eds.), _Proc. AVI Workshop on Multimodal Interaction for Data Vi
 [workshop website](https://sites.google.com/view/multimodalvis/program){: .external}
 
 Federico, P., Wagner, M., Rind, A., Amor-Amoros, A., Miksch, S. &amp; Aigner, W.:
-__[The Role of Explicit Knowledge: A Conceptual Model of Knowledge-Assisted Visual Analytics](http://ifs.tuwien.ac.at/~rind/preprint/federico-wagner_2017_knava-model.pdf){: .pdf}__,
+__[The Role of Explicit Knowledge: A Conceptual Model of Knowledge-Assisted Visual Analytics](https://publik.tuwien.ac.at/files/publik_261674.pdf){: .pdf}__,
 Fisher, B., Liu, S. &amp; Schreck, T. (eds.), _Proc. IEEE Conference on Visual Analytics Science and Technology (VAST),_
 p.&nbsp;92-103, IEEE, 2017.
 doi:[10.1109/VAST.2017.8585498](http://dx.doi.org/10.1109/VAST.2017.8585498){: .external}
@@ -153,7 +153,7 @@ Research&nbsp;data&nbsp;at&nbsp;<http://phaidra.fhstp.ac.at/o:1933>{: .external}
 <!-- <span style="font-size: 80%">Please contact me for a preprint version.</span> -->
 
 Rind, A., Pfahler, D., Niederer, C. &amp; Aigner, W.:
-__[Exploring Media Transparency With Multiple Views](http://ifs.tuwien.ac.at/~rind/preprint/rind_2016_fmt_transparency.pdf){: .pdf}__,
+__[Exploring Media Transparency With Multiple Views](http://publik.tuwien.ac.at/files/publik_253289.pdf){: .pdf}__,
 Aigner, W., Schmiedl, G., Blumenstein, K. &amp; Zeppelzauer, M. (eds.), _Proceedings of the 9th Forum Media Technology,_
 <!-- Aigner, W., Schmiedl, G., Blumenstein, K., Zeppelzauer, M. &amp; Iber, M. (eds.), _Proceedings of the 9th Forum Media Technology,_ -->
 p.&nbsp;65-73, CEUR-WS.org, 2016.
