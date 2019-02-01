@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2019-01-28
+mod-date: 2019-02-01
 ---
 
 <ul class="toc">
@@ -75,6 +75,18 @@ mod-date: 2019-01-28
       <a href="https://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
 	  University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
       <a href="http://mc.fhstp.ac.at/projects/kava-time" class="external">project webpage</a>
+    </dd>
+
+    <dt>03/2015 &ndash; 12/2015</dt>
+    <dd>
+<!--      <a href="https://www.fhstp.ac.at/icmt">
+        <img src="img/schreibcoachvis-112.png" alt="SchreibCoachVis" width="112" height="73" align="right" />
+      </a> -->
+      <p class="project">Real Estate Analytics</p>
+       Austrian Research Promotion Agency (FFG), Innovationsscheck<br />
+      <a href="https://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
+          University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
+      <a href="https://research.fhstp.ac.at/projekte/visual-analytics-fuer-immobilienplattform" class="external">project webpage</a>
     </dd>
 
     <dt>01/2013 &ndash; 12/2013</dt>
