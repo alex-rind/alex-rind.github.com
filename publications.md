@@ -138,6 +138,12 @@ Lee, B. et al. (eds.), _Proc. AVI Workshop on Multimodal Interaction for Data Vi
 <!-- p.&nbsp;169-173,  Eurographics, --> 2018.
 [workshop website](https://sites.google.com/view/multimodalvis/program){: .external}
 
+Aigner, W., Rind, A. &amp; Wagner, M.:
+__[KAVA-Time: Knowledge-Assisted Visual Analytics Methods for Time-Oriented Data](http://ffhoarep.fh-ooe.at/bitstream/123456789/1070/1/FFH2018-T1-01.pdf){: .pdf}__,
+Wageneder-Schmid, C. (ed.), _Tagungsband des 12. Forschungsforum der österreichischen Fachhochschulen (FFH) 2018,_
+Fachhochschule Salzburg, 2018.
+handle:[123456789/1070](http://ffhoarep.fh-ooe.at/handle/123456789/1070){: .external}
+
 Federico, P., Wagner, M., Rind, A., Amor-Amoros, A., Miksch, S. &amp; Aigner, W.:
 __[The Role of Explicit Knowledge: A Conceptual Model of Knowledge-Assisted Visual Analytics](https://publik.tuwien.ac.at/files/publik_261674.pdf){: .pdf}__,
 Fisher, B., Liu, S. &amp; Schreck, T. (eds.), _Proc. IEEE Conference on Visual Analytics Science and Technology (VAST),_
