@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2019-02-01
+mod-date: 2019-03-05
 ---
 
 <ul class="toc">
@@ -167,7 +167,7 @@ uri:<http://ceur-ws.org/Vol-1734/fmt-proceedings-2016-paper8.pdf>{: .external}
 <!-- best paper award -->
 
 Kromer, L., Wagner,  M., Blumenstein, K., Rind, A. &amp; Aigner, W.:
-__[Performance Comparison between Unity and D3.js for Cross-Platform Visualization on Mobile Devices](http://mc.fhstp.ac.at/sites/default/files/publications/Kromer_2016_FMT_crossVisComparison_privateCopy.pdf){: .pdf}__,
+__[Performance Comparison between Unity and D3.js for Cross-Platform Visualization on Mobile Devices](https://research.fhstp.ac.at/content/download/89489/file/Kromer_2016_FMT_crossVisComparison_privateCopy.pdf){: .pdf}__,
 Aigner, W., Schmiedl, G., Blumenstein, K. &amp; Zeppelzauer, M. (eds.), _Proceedings of the 9th Forum Media Technology,_
 p.&nbsp;47-52, CEUR-WS.org, 2016.
 uri:<http://ceur-ws.org/Vol-1734/fmt-proceedings-2016-paper6.pdf>{: .external}
@@ -197,7 +197,7 @@ Vienna, Austria, FH des BFI Wien, 2016.
 uri:<http://ffhoarep.fh-ooe.at/handle/123456789/542>{: .external}
 
 Wagner, M.; Rind, A.; Rottermanner, G.; Niederer, C. &amp; Aigner, W.:
-__[Knowledge-Assisted Rule Building for Malware Analysis](http://mc.fhstp.ac.at/sites/default/files/publications/2016_FFH_CallNet_Wagner_FullPaper.pdf){: .pdf}__,
+__[Knowledge-Assisted Rule Building for Malware Analysis](http://ffhoarep.fh-ooe.at/bitstream/123456789/578/1/103_226_Wagner_FullPaper_en_final.pdf){: .pdf}__,
 _Proceedings of the 10th Forschungsforum der &ouml;sterreichischen Fachhochschulen,_
 Vienna, Austria, FH des BFI Wien, 2016.
 uri:<http://ffhoarep.fh-ooe.at/handle/123456789/578>{: .external}
@@ -222,7 +222,7 @@ p.&nbsp;73-77, Cagliari, Italy, Eurographics, 2015.
 doi:[10.2312/eurova.20151107](http://dx.doi.org/10.2312/eurova.20151107){: .external}
 
 Niederer, C.; Aigner, W. &amp; Rind, A.:
-__[Survey on Visualizing Dynamic, Weighted, and Directed Graphs in the Context of Data-Driven Journalism](http://mc.fhstp.ac.at/sites/default/files/niederer_2015_vcss_survey_postprint.pdf){: .pdf}__,
+__[Survey on Visualizing Dynamic, Weighted, and Directed Graphs in the Context of Data-Driven Journalism](http://vcg.informatik.uni-rostock.de/~hs162/pdf/vcricproc.pdf#page=60){: .pdf}__,
 Schulz, H.-J.; Urban, B. &amp; von Lukas, U. (eds.), _Proceedings of the International Summer School on Visual Computing 2015,_
 p.&nbsp;49-58, Rostock, Fraunhofer, 2015.
 
