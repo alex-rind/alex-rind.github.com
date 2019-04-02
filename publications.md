@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2019-03-05
+mod-date: 2019-04-02
 ---
 
 <ul class="toc">
@@ -23,6 +23,12 @@ mod-date: 2019-03-05
 </ul>
 
 ## Refereed Journal Articles {#article}
+
+Stoiber, C.; Rind, A.; Grassinger, F.; Gutounig, R.; Goldgruber, E.; Sedlmair, M.; Emrich; S. &amp; Aigner; W.:
+__netflower: Dynamic Network Visualization for Data Journalists__,
+_Computer Graphics Forum, Special Issue &quot;EuroVis 2019&quot;,_
+forthcoming, 2019.
+<span style="font-size: 80%">Please contact me for a preprint version.</span>
 
 Wagner, M.; Slijepcevic, D.; Horsak, B.; Rind, A.; Zeppelzauer, M. &amp; Aigner, W.:
 __[KAVAGait: Knowledge-Assisted Visual Analytics for Clinical Gait Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8304678){: .pdf}__,
@@ -227,7 +233,7 @@ Schulz, H.-J.; Urban, B. &amp; von Lukas, U. (eds.), _Proceedings of the Interna
 p.&nbsp;49-58, Rostock, Fraunhofer, 2015.
 
 Wagner, M.; Aigner, W.; Haberson, A. &amp; Rind, A.:
-__[Literature Review in Visual Analytics for Malware Pattern Analysis](http://mc.fhstp.ac.at/sites/default/files/publications/Wagner_LiteratureReviewInVisualAnalytics.pdf){: .pdf}__, 
+__[Literature Review in Visual Analytics for Malware Pattern Analysis](http://mc.fhstp.ac.at/sites/default/files/publications/Wagner_LiteratureReviewInVisualAnalytics.pdf){: .pdf}__,
 _Proceedings of the 9th Forschungsforum der &ouml;sterreichischen Fachhochschulen,_
 FH Hagenberg, 2015.
 uri:<http://ffhoarep.fh-ooe.at/handle/123456789/362>{: .external}
@@ -360,15 +366,15 @@ p. 139-171, CRC/Taylor and Francis, , 2017.\\
 <span style="font-size: 80%">Please contact me for a preprint version.</span>
 
 Rind, A.; Federico, P.; Gschwandtner,  T.; Aigner, W.; Doppler, J. &amp; Wagner, M.:
-__Visual Analytics of Electronic Health Records with a Focus on Time__, 
-Rinaldi, G. (ed.), _New Perspectives in Medical Records: Meeting the Needs of Patients and Practitioners,_ 
+__Visual Analytics of Electronic Health Records with a Focus on Time__,
+Rinaldi, G. (ed.), _New Perspectives in Medical Records: Meeting the Needs of Patients and Practitioners,_
 p. 65-77, Cham, Springer TELe-Health, 2017.
 doi:[10.1007/978-3-319-28661-7_5](http://dx.doi.org/10.1007/978-3-319-28661-7_5){: .external}\\
 <span style="font-size: 80%">Please contact me for a preprint version.</span>
 
 Waldh&ouml;r, K.; Freidl, C.; Rind, A. &amp; Ecker, K.:
 __[TAI (Day Trip Indicator) &ndash; Measuring Value Added in the Tourism Sector](http://books.google.at/books?id=6J4qnLeywS8C){: .external}__,
-Egger, R. &amp; Buhalis, D. (eds.), _eTourism Case Studies: Management and Marketing Issues in eTourism,_ 
+Egger, R. &amp; Buhalis, D. (eds.), _eTourism Case Studies: Management and Marketing Issues in eTourism,_
 p. 361-371, Elsevier, Aug, 2008. \\
 <span style="font-size: 80%">Please contact me for a preprint version.</span>
 
@@ -503,7 +509,7 @@ St. Pölten, Austria, April 22, 2016.
 <p id="muehlmann_2009_lndf">
  M&uuml;hlmann, K.; Bertone, A.; Bauer, I.; Klinka, P.; Lammarsch, T.; Mayr, E.; Miksch, S.; Rind, A.; Siebenhandl, K.; Smuc, M.; Wiel&auml;nder, M.; Windhager, F. &amp; Zenk, L.:
  <b><a class="external" href="http://www.donau-uni.ac.at/de/department/ike/news/id/14125/index.php">Sehen &amp; Gesehen werden</a></b>,
- <em>Lange Nacht der Forschung</em>, 
+ <em>Lange Nacht der Forschung</em>,
  Krems, Austria, November 7, 2009.
 </p>
 
