@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2019-04-02
+mod-date: 2019-04-14
 ---
 
 <ul class="toc">
@@ -25,10 +25,10 @@ mod-date: 2019-04-02
 ## Refereed Journal Articles {#article}
 
 Stoiber, C.; Rind, A.; Grassinger, F.; Gutounig, R.; Goldgruber, E.; Sedlmair, M.; Emrich; S. &amp; Aigner; W.:
-__netflower: Dynamic Network Visualization for Data Journalists__,
+__[netflower: Dynamic Network Visualization for Data Journalists](http://ifs.tuwien.ac.at/~rind/preprint/stoiber_2019_netflower_postprint.pdf){: .pdf}__,
 _Computer Graphics Forum, Special Issue &quot;EuroVis 2019&quot;,_
 forthcoming, 2019.
-<span style="font-size: 80%">Please contact me for a preprint version.</span>
+<!-- <span style="font-size: 80%">Please contact me for a preprint version.</span> -->
 
 Wagner, M.; Slijepcevic, D.; Horsak, B.; Rind, A.; Zeppelzauer, M. &amp; Aigner, W.:
 __[KAVAGait: Knowledge-Assisted Visual Analytics for Clinical Gait Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8304678){: .pdf}__,
