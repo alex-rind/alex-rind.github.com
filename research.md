@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2019-02-01
+mod-date: 2019-05-07
 ---
 
 <ul class="toc">
@@ -24,21 +24,21 @@ mod-date: 2019-02-01
       </a>
       <p class="project">ReMoCap-Lab&mdash;Laboratory for Capturing Motion and Augmenting Environment in Motor Rehabilitation</p>
        Austrian Federal Ministry for Digital And Economic Affairs (BMDW), COIN<br />
-      <a href="https://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
-          University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
+      <a href="https://cdhi.fhstp.ac.at/en" class="external">St.&nbsp;P&ouml;lten
+          University of Applied Sciences, Center for Digital Health Innovation</a>, Austria<br />
       <a href="https://www.fhstp.ac.at/en/research/projects-1/remocap-lab" class="external">project webpage</a>
     </dd>
 
     <dt>10/2018 &ndash; 12/2018</dt>
     <dd>
-      <a href="https://www.fhstp.ac.at/icmt">
+      <a href="https://research.fhstp.ac.at/en/projects/schreibcoachvis">
         <img src="img/schreibcoachvis-112.png" alt="SchreibCoachVis" width="112" height="73" align="right" />
       </a>
       <p class="project">SchreibCoachVis&mdash;visualization for linguistic science and training</p>
        Austrian Research Promotion Agency (FFG), Innovationsscheck<br />
       <a href="https://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
           University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
-<!--       <a href="http://mc.fhstp.ac.at/projects/contractvis" class="external">project webpage</a> -->
+      <a href="https://research.fhstp.ac.at/en/projects/schreibcoachvis" class="external">project webpage</a>
     </dd>
 
     <dt>01/2018 &ndash; 12/2018</dt>
@@ -79,14 +79,14 @@ mod-date: 2019-02-01
 
     <dt>03/2015 &ndash; 12/2015</dt>
     <dd>
-<!--      <a href="https://www.fhstp.ac.at/icmt">
-        <img src="img/schreibcoachvis-112.png" alt="SchreibCoachVis" width="112" height="73" align="right" />
-      </a> -->
-      <p class="project">Real Estate Analytics</p>
-       Austrian Research Promotion Agency (FFG), Innovationsscheck<br />
+      <a href="https://research.fhstp.ac.at/en/projects/visual-analytics-for-real-estate-platform">
+        <img src="img/immmovis_112.png" alt="Real Estate Analytics" width="112" height="73" align="right" />
+      </a>
+      <p class="project">Visual Analytics for Real Estate Platform</p>
+       Austrian Research Promotion Agency (FFG), Innovationsscheck plus<br />
       <a href="https://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
           University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
-      <a href="https://research.fhstp.ac.at/projekte/visual-analytics-fuer-immobilienplattform" class="external">project webpage</a>
+      <a href="https://research.fhstp.ac.at/en/projects/visual-analytics-for-real-estate-platform" class="external">project webpage</a>
     </dd>
 
     <dt>01/2013 &ndash; 12/2013</dt>
