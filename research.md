@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2019-05-07
+mod-date: 2019-05-09
 ---
 
 <ul class="toc">
@@ -252,6 +252,7 @@ mod-date: 2019-05-07
 
 2019
 : ACM Conference on Human Factors in Computing Systems (CHI) &ndash; 3 late-breaking&nbsp;work<sup>E</sup>
+: Applied Clinical Informatics (ACI)<sup>E</sup>
 
 2018
 : Workshop on Evaluation and Beyond (BELIV)<sup>PC</sup>
