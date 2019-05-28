@@ -1,6 +1,6 @@
 ---
 layout: default
-mod-date: 2018-01-31
+mod-date: 2019-05-28
 ---
 
 I am a scientific researcher in Visual Analytics and Information Visualization at the
@@ -71,7 +71,7 @@ at the Vienna University of Technology.
     <li><a rel="me" href="https://twitter.com/alexrindvis" class="external">Twitter</a></li>
     <li><a rel="me" href="http://at.linkedin.com/in/alexrind" class="external">LinkedIn</a></li>
     <li><a rel="me" href="https://www.xing.com/profile/Alexander_Rind" class="external">Xing</a></li>
-    <li><a rel="me" href="https://profiles.google.com/100502536782063406186" class="external">Google+</a></li>
+    <li><a rel="me" href="https://github.com/alex-rind" class="external">GitHub</a></li>
     <li><a rel="me" href="http://scholar.google.com/citations?user=R48XMTYAAAAJ" class="external">Google Scholar</a></li>
     <li><a rel="me" href="http://dblp.uni-trier.de/pers/hd/r/Rind:Alexander.html" class="external">dblp</a></li>
     <li><a rel="me" href="http://orcid.org/0000-0001-8788-4600" class="external">ORCID</a></li>
