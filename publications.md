@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2019-04-14
+mod-date: 2019-06-19
 ---
 
 <ul class="toc">
@@ -27,7 +27,8 @@ mod-date: 2019-04-14
 Stoiber, C.; Rind, A.; Grassinger, F.; Gutounig, R.; Goldgruber, E.; Sedlmair, M.; Emrich; S. &amp; Aigner; W.:
 __[netflower: Dynamic Network Visualization for Data Journalists](http://ifs.tuwien.ac.at/~rind/preprint/stoiber_2019_netflower_postprint.pdf){: .pdf}__,
 _Computer Graphics Forum, Special Issue &quot;EuroVis 2019&quot;,_
-forthcoming, 2019.
+Vol. 38, No. 3, p. 699–711, 2019.
+doi:[10.1111/cgf.13721 ](https://doi.org/10.1111/cgf.13721){: .external}
 <!-- <span style="font-size: 80%">Please contact me for a preprint version.</span> -->
 
 Wagner, M.; Slijepcevic, D.; Horsak, B.; Rind, A.; Zeppelzauer, M. &amp; Aigner, W.:
@@ -403,6 +404,12 @@ VRVis, Vienna, Austria, June 6, 2012.
 [top](#top){: .top_link}
 
 ## Miscellaneous &amp; German Articles {#misc}
+
+Dahnert, M., Rind, A., Aigner, W., & Kehrer, J.:
+__[Looking beyond the horizon: Evaluation of four compact visualization techniques for time series in a spatial context](https://arxiv.org/pdf/1906.07377){: .pdf}__
+_arXiv:1906.07377 [cs.HC]_,
+June 2019.
+uri:<http://arxiv.org/abs/1906.07377>{: .external}
 
 Erlinger-Schiedlbauer, C., Neubauer, G., Petrovic-Majer, S., Rind A., Schlarb, S. &amp; Spangl B.:
 __[Semantische Suchabfragen mit der Linked Open Data Cloud generieren](https://www.societybyte.swiss/2018/10/22/semantische-suchabfragen-mit-der-linked-open-data-cloud-generieren/){: .external}__,
