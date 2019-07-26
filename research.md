@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2019-05-09
+mod-date: 2019-07-26
 ---
 
 <ul class="toc">
@@ -17,6 +17,18 @@ mod-date: 2019-05-09
   <h2 id="funded">funded research projects</h2>
 
   <dl>
+    <dt>starting 2020</dt>
+    <dd>
+<!--      <a href="https://www.fhstp.ac.at/en/research/projects-1/remocap-lab">
+        <img src="img/remocap_logo-112.png" alt="ReMoCap-Lab" width="112" height="66" align="right" />
+      </a> -->
+      <p class="project">RegioBioGraph</p>
+       NÖ Forschungs- und Bildungsges.m.b.H. (NFB), FTI<br />
+      <a href="https://icmt.fhstp.ac.at/en" class="external">St.&nbsp;P&ouml;lten
+          University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
+<!--      <a href="https://www.fhstp.ac.at/en/research/projects-1/remocap-lab" class="external">project webpage</a> -->
+    </dd>
+
     <dt>since 11/2018</dt>
     <dd>
       <a href="https://www.fhstp.ac.at/en/research/projects-1/remocap-lab">
@@ -251,6 +263,7 @@ mod-date: 2019-05-09
 ## reviewing
 
 2019
+: Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup>
 : ACM Conference on Human Factors in Computing Systems (CHI) &ndash; 3 late-breaking&nbsp;work<sup>E</sup>
 : Applied Clinical Informatics (ACI)<sup>E</sup>
 
