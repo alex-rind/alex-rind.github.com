@@ -2,7 +2,7 @@
 layout: default
 title: "about"
 longtitle: "About Me / Curriculum Vitae"
-mod-date: 2018-01-31
+mod-date: 2019-08-22
 ---
 
 <ul class="toc">
@@ -19,7 +19,7 @@ since 01/2014
 : [St.&nbsp;P&ouml;lten University of Applied Sciences,](https://www.fhstp.ac.at/){: .external} Austria
 : Researcher at the Institute of Creative\Media/Technologies
 
-10/2016 &ndash; 01/2018
+since 10/2016
 : [University of Applied Sciences Upper Austria, Hagenberg,](https://www.fh-ooe.at/en/hagenberg-campus/){: .external} Austria
 : Lecturer at the School of Informatics, Communications and Media
 

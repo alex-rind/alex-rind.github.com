@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2019-06-19
+mod-date: 2019-08-22
 ---
 
 <ul class="toc">
@@ -132,6 +132,12 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 [top](#top){: .top_link}
 
 ## Refereed Conference &amp; Workshop Articles {#inproc}
+
+Rind, A., Wagner, M. &amp; Aigner, W.:
+__[Towards a Structural Framework for Explicit Domain Knowledge in Visual Analytics](https://arxiv.org/pdf/1908.07752){: .pdf}__,
+<!-- XX, X. (ed.), -->_Proc. Workshop on Visual Analytics in Healthcare (VAHC),_
+IEEE, 2019. forthcoming. \\
+Preprint available as [arXiv:1908.07752 [cs.HC]](https://arxiv.org/abs/1908.07752){: .external}
 
 Rind, A., Grassinger, F., Kirchknopf, A., Stoiber, C. &amp; A. &Ouml;z&uuml;yilmaz:
 __[ContractVis HighLighter: the Visual Assistant for the Fine Print](http://ceur-ws.org/Vol-2198/paper_93.pdf){: .pdf}__,
