@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2019-07-26
+mod-date: 2019-11-25
 ---
 
 <ul class="toc">
@@ -261,6 +261,9 @@ mod-date: 2019-07-26
 [top](#top){: .top_link}
 
 ## reviewing
+
+2020
+: IEEE Pacific Visualization Symposium (PacificVis)<sup>E</sup>
 
 2019
 : Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup>
