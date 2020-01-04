@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2019-08-22
+mod-date: 2020-01-04
 ---
 
 <ul class="toc">
@@ -135,9 +135,11 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 
 Rind, A., Wagner, M. &amp; Aigner, W.:
 __[Towards a Structural Framework for Explicit Domain Knowledge in Visual Analytics](https://arxiv.org/pdf/1908.07752){: .pdf}__,
-<!-- XX, X. (ed.), -->_Proc. Workshop on Visual Analytics in Healthcare (VAHC),_
-IEEE, 2019. forthcoming. \\
+Wu, D. &amp; Ruddle, R. (eds.), _Proc. IEEE Workshop on Visual Analytics in Healthcare (VAHC),_
+p.&nbsp;33-40, IEEE, 2019.
+doi:[10.1109/VAHC47919.2019.8945032](https://doi.org/10.1109/VAHC47919.2019.8945032){: .external} \\
 Preprint available as [arXiv:1908.07752 [cs.HC]](https://arxiv.org/abs/1908.07752){: .external}
+[video of talk](https://vimeo.com/376257564){: .external}
 
 Rind, A., Grassinger, F., Kirchknopf, A., Stoiber, C. &amp; A. &Ouml;z&uuml;yilmaz:
 __[ContractVis HighLighter: the Visual Assistant for the Fine Print](http://ceur-ws.org/Vol-2198/paper_93.pdf){: .pdf}__,
@@ -394,6 +396,7 @@ __Visual Analytics of Health Care Data with a Focus on Time__,
 Invited talk at
 Rinaldi, G. (ed.), _International Workshop 2015: Medical records update,_
 A.O. Ospedali Riuniti Marche Nord, Pesaro, Italy, October 21, 2015.
+[video of talk](https://youtu.be/EjtegPn6bbc){: .external}
 
 Rind, A.:
 __[Visual Analytics with a Focus on Time](http://www.ifs.tuwien.ac.at/~rind/preprint/20150121_TimeVis_Marseille_Invited-Talk.pdf){: .pdf}__,
