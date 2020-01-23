@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2019-11-25
+mod-date: 2020-01-23
 ---
 
 <ul class="toc">
@@ -17,7 +17,7 @@ mod-date: 2019-11-25
   <h2 id="funded">funded research projects</h2>
 
   <dl>
-    <dt>starting 2020</dt>
+    <dt>since 01/2020</dt>
     <dd>
 <!--      <a href="https://www.fhstp.ac.at/en/research/projects-1/remocap-lab">
         <img src="img/remocap_logo-112.png" alt="ReMoCap-Lab" width="112" height="66" align="right" />
@@ -264,6 +264,8 @@ mod-date: 2019-11-25
 
 2020
 : IEEE Pacific Visualization Symposium (PacificVis)<sup>E</sup>
+: Eurographics Conference on Visualization (EuroVis)<sup>2</sup>
+: Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup>
 
 2019
 : Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup>
