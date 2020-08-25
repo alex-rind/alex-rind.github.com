@@ -347,7 +347,7 @@ p.org {
 	margin: 0px;
 }
 
-p.project {
+.project {
 	margin: 0px;
 	font-weight: bold;
 }
@@ -362,6 +362,3 @@ ul.horizontal li {
 	margin: 0 20px 0 0;
 	display: inline;
 }
-
-
-

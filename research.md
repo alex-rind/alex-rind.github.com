@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2020-01-23
+mod-date: 2020-08-25
 ---
 
 <ul class="toc">
@@ -13,33 +13,32 @@ mod-date: 2020-01-23
 <li><a href="#events_organized">conference and workshop organization</a></li>
 </ul>
 
+## funded research projecwqqts {#funded}
 
-  <h2 id="funded">funded research projects</h2>
+since 09/2020
+: **SoniVis&mdash;Data Analytics using Sonification and Visualization**{: .project} \\
+Austrian Science Fund (FWF) \\
+[St.&nbsp;P&ouml;lten University of Applied Sciences, Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
+[project webpage](http://mc.fhstp.ac.at/projects/kava-time){: .external}
 
-  <dl>
-    <dt>since 01/2020</dt>
-    <dd>
-<!--      <a href="https://www.fhstp.ac.at/en/research/projects-1/remocap-lab">
-        <img src="img/remocap_logo-112.png" alt="ReMoCap-Lab" width="112" height="66" align="right" />
-      </a> -->
-      <p class="project">RegioBioGraph</p>
-       NÖ Forschungs- und Bildungsges.m.b.H. (NFB), FTI<br />
-      <a href="https://icmt.fhstp.ac.at/en" class="external">St.&nbsp;P&ouml;lten
-          University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
-<!--      <a href="https://www.fhstp.ac.at/en/research/projects-1/remocap-lab" class="external">project webpage</a> -->
-    </dd>
+since 01/2020
+: [![RegioBioGraph](img/regiobiograph-logo_112.png){: align="right"}](https://research.fhstp.ac.at/en/projects/regiobiograph)
+**RegioBioGraph**{: .project} \\
+NÖ Forschungs- und Bildungsges.m.b.H. (NFB), FTI \\
+[St.&nbsp;P&ouml;lten University of Applied Sciences, Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
+[project webpage](https://research.fhstp.ac.at/en/projects/regiobiograph){: .external}
 
-    <dt>since 11/2018</dt>
-    <dd>
-      <a href="https://www.fhstp.ac.at/en/research/projects-1/remocap-lab">
-        <img src="img/remocap_logo-112.png" alt="ReMoCap-Lab" width="112" height="66" align="right" />
-      </a>
-      <p class="project">ReMoCap-Lab&mdash;Laboratory for Capturing Motion and Augmenting Environment in Motor Rehabilitation</p>
-       Austrian Federal Ministry for Digital And Economic Affairs (BMDW), COIN<br />
-      <a href="https://cdhi.fhstp.ac.at/en" class="external">St.&nbsp;P&ouml;lten
-          University of Applied Sciences, Center for Digital Health Innovation</a>, Austria<br />
-      <a href="https://www.fhstp.ac.at/en/research/projects-1/remocap-lab" class="external">project webpage</a>
-    </dd>
+since 11/2018
+: [![ReMoCap-Lab](img/remocap_logo-112.png){: align="right"}](https://research.fhstp.ac.at/en/projects/remocap-lab)
+**ReMoCap-Lab&mdash;Laboratory for Capturing Motion and Augmenting Environment in Motor Rehabilitation**{: .project} \\
+Austrian Federal Ministry for Digital And Economic Affairs (BMDW), COIN \\
+[project webpage](https://research.fhstp.ac.at/en/projects/remocap-lab){: .external}
+
+since 05/2020
+: **Egozentrierte Netzwerkkarte digital!**{: .project} \\
+Federal Ministry for Digital and Economic Affairs (BMDW), Digital Innovation Hub DIH-OST \\
+[St.&nbsp;P&ouml;lten University of Applied Sciences, Center for Digital Health Innovation](https://cdhi.fhstp.ac.at/en){: .external}, Austria \\
+[project webpage](https://dih-ost.at/product/egozentrierte-netzwerkkarte-digital/){: .external}
 
     <dt>10/2018 &ndash; 12/2018</dt>
     <dd>
@@ -178,9 +177,8 @@ mod-date: 2020-01-23
       Austrian Research Promotion Agency (FFG), Industrial Competence Network anet<br />
       Krems Research Forschungsgesellschaft, Austria
     </dd>
-  </dl>
 
-  <a class="top_link" href="#top">top</a>
+ [top](#top){: .top_link}
 
   <h2 id="student">supervised student projects (not up-to-date)</h2>
 
@@ -263,6 +261,9 @@ mod-date: 2020-01-23
 ## reviewing
 
 2020
+: IEEE VIS Short Papers<sup>PC</sup>
+: IEEE Visual Analytics Science and Technology (VAST)<sup>E</sup>
+: IEEE Information Visualization (InfoVis)<sup>E</sup>
 : IEEE Pacific Visualization Symposium (PacificVis)<sup>E</sup>
 : Eurographics Conference on Visualization (EuroVis)<sup>2</sup>
 : Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup>

@@ -1,1 +1,13 @@
 This repository hosts my personal website.
+
+It can be tested using docker:
+```
+docker run --rm  \
+  --volume="//c/Users/arind/Documents/scm/alex-rind.github.com:/srv/jekyll" \
+  --volume="//c/Users/arind/Documents/scm/alex-rind.github.com/vendor/bundle:/usr/local/bundle" \
+  -p 4000:4000 -it jekyll/jekyll:$JEKYLL_VERSION   jekyll serve --incremental
+```
+or
+```
+docker-compose up
+```
