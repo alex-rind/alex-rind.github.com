@@ -1,0 +1,18 @@
+Id;StartMonth;EndMonth;Title;Subtitle;ProjectUrl;ImgUrl;Funding;Affiliations
+1;09/2020;;SoniVis;Data Analytics using Sonification and Visualization;https://research.fhstp.ac.at/en/projects/sonivis-data-analytics-using-sonification-and-visualization;;Austrian Science Fund (FWF);ICMT
+2;01/2020;;RegioBioGraph;;https://research.fhstp.ac.at/en/projects/regiobiograph;img/regiobiograph-logo_112.png;NÖ Forschungs- und Bildungsges.m.b.H. (NFB), FTI;ICMT
+3;11/2018;;ReMoCap-Lab;Laboratory for Capturing Motion and Augmenting Environment in Motor Rehabilitation;https://research.fhstp.ac.at/en/projects/remocap-lab;img/remocap_logo-112.png;Austrian Federal Ministry for Digital And Economic Affairs (BMDW), COIN;CDHI
+4;05/2020;;Egozentrierte Netzwerkkarte digital!;;https://dih-ost.at/product/egozentrierte-netzwerkkarte-digital/;;Federal Ministry for Digital and Economic Affairs (BMDW), Digital Innovation Hub DIH-OST;ICMT
+5;10/2018;12/2018;SchreibCoachVis;visualization for linguistic science and training;https://research.fhstp.ac.at/en/projects/schreibcoachvis;img/schreibcoachvis-112.png;Austrian Research Promotion Agency (FFG), Innovationsscheck;ICMT
+6;01/2018;12/2018;ContractVis;the visual assistant for the fine print;https://www.netidee.at/contractvis;img/contractvis_112.png;Internet Foundation Austria (IPA), netidee, prj2116;ICMT
+7;01/2015;12/2018;VALID;Visual Analytics in Data-driven Journalism;http://www.validproject.at/;img/valid_logo_112.png;Austrian Ministry for Transport, Innovation and Technology (BMVIT), IKT der Zukunft;ICMT
+8;08/2013;07/2018;KAVA-Time;Knowledge-Assisted Visual Analytics Methods for Time-Oriented Data;https://research.fhstp.ac.at/en/projects/kava-time-how-man-and-machine-analyze-data;img/kava-time_logo_112.png;Austrian Science Fund (FWF);ICMT
+9;03/2015;12/2015;Visual Analytics for Real Estate Platform;;https://research.fhstp.ac.at/en/projects/visual-analytics-for-real-estate-platform;img/immmovis_112.png;Austrian Research Promotion Agency (FFG), Innovationsscheck plus;ICMT
+10;01/2013;12/2013;CVAST;Centre for Visual Analytics Science and Technology;http://www.cvast.tuwien.ac.at/node/550;img/cvast_112x80.png;Austrian Federal Ministry of Economy, Family and Youth in the exceptional Laura Bassi Centres of Excellence initiative;ISIS
+11;04/2011;12/2013;HypoVis;Modeling Hypotheses with Visual Analytics Methods to Analyze the Past and Forecast the Future;https://www.cvast.tuwien.ac.at/projects/hypovis;img/HypoVis_Logo_112.png;Austrian Science Fund (FWF);ISIS
+12;09/2010;05/2011;HorizonVis;Interactive Visual Exploration of Multivariate Medical Measurements in Diabetes Care;http://ieg.ifs.tuwien.ac.at/projects/HorizonVis/;img/HorizonVis_Logo_112.png;Sparkling Science initiative of the Federal Ministry of Science and Research;ISIS
+13;03/2008;03/2011;VisuExplore;Gaining New Medical Insights through Visual Exploration;http://ieg.ifs.tuwien.ac.at/projects/VisuExplore/;img/VisuExplore_Logo_112.png;Austrian Research Promotion Agency (FFG), Bridge Program;IKE
+14;10/2008;02/2009;TimeCockpit;Interactive Visualization of Sensor Data for Time Tracking;;;Austrian Research Promotion Agency (FFG), Innovationsscheck;IKE
+15;04/2006;02/2008;etBlogAnalysis;Analysis of Tourism Weblogs;;;Austrian Research Promotion Agency (FFG), Industrial Competence Network anet;TRC
+16;04/2006;02/2008;etValidierung;Validation of Tourism Websites;;;Austrian Research Promotion Agency (FFG), Industrial Competence Network anet;TRC
+17;12/2004;06/2005;TAI;Measuring Value Added by Day Trip Tourism;;;Austrian Research Promotion Agency (FFG), Industrial Competence Network anet;TRC

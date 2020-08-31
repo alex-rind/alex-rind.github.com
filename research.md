@@ -2,12 +2,12 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2020-08-25
+mod-date: 2020-08-31
 ---
 
 <ul class="toc">
 <li><a href="#funded">funded research projects</a></li>
-<li><a href="#student">supervised student projects</a></li>
+<!-- <li><a href="#student">supervised student projects</a></li> -->
 <li><a href="#scientific-collaborators">scientific collaborators</a></li>
 <li><a href="#reviewing">reviewing</a></li>
 <li><a href="#events_organized">conference and workshop organization</a></li>
@@ -19,167 +19,114 @@ since 09/2020
 : **SoniVis&mdash;Data Analytics using Sonification and Visualization**{: .project} \\
 Austrian Science Fund (FWF) \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences, Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
-[project webpage](http://mc.fhstp.ac.at/projects/kava-time){: .external}
+[project webpage](https://research.fhstp.ac.at/en/projects/sonivis-data-analytics-using-sonification-and-visualization){: .external}
 
 since 01/2020
-: [![RegioBioGraph](img/regiobiograph-logo_112.png){: align="right"}](https://research.fhstp.ac.at/en/projects/regiobiograph)
+: [![RegioBioGraph](img/regiobiograph-logo_112.png){: align='right'}](https://research.fhstp.ac.at/en/projects/regiobiograph)
 **RegioBioGraph**{: .project} \\
 NÖ Forschungs- und Bildungsges.m.b.H. (NFB), FTI \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences, Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
 [project webpage](https://research.fhstp.ac.at/en/projects/regiobiograph){: .external}
 
 since 11/2018
-: [![ReMoCap-Lab](img/remocap_logo-112.png){: align="right"}](https://research.fhstp.ac.at/en/projects/remocap-lab)
+: [![ReMoCap-Lab](img/remocap_logo-112.png){: align='right'}](https://research.fhstp.ac.at/en/projects/remocap-lab)
 **ReMoCap-Lab&mdash;Laboratory for Capturing Motion and Augmenting Environment in Motor Rehabilitation**{: .project} \\
 Austrian Federal Ministry for Digital And Economic Affairs (BMDW), COIN \\
+[St.&nbsp;P&ouml;lten University of Applied Sciences, Center for Digital Health Innovation](https://cdhi.fhstp.ac.at/en){: .external}, Austria \\
 [project webpage](https://research.fhstp.ac.at/en/projects/remocap-lab){: .external}
 
 since 05/2020
 : **Egozentrierte Netzwerkkarte digital!**{: .project} \\
 Federal Ministry for Digital and Economic Affairs (BMDW), Digital Innovation Hub DIH-OST \\
-[St.&nbsp;P&ouml;lten University of Applied Sciences, Center for Digital Health Innovation](https://cdhi.fhstp.ac.at/en){: .external}, Austria \\
+[St.&nbsp;P&ouml;lten University of Applied Sciences, Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
 [project webpage](https://dih-ost.at/product/egozentrierte-netzwerkkarte-digital/){: .external}
 
-    <dt>10/2018 &ndash; 12/2018</dt>
-    <dd>
-      <a href="https://research.fhstp.ac.at/en/projects/schreibcoachvis">
-        <img src="img/schreibcoachvis-112.png" alt="SchreibCoachVis" width="112" height="73" align="right" />
-      </a>
-      <p class="project">SchreibCoachVis&mdash;visualization for linguistic science and training</p>
-       Austrian Research Promotion Agency (FFG), Innovationsscheck<br />
-      <a href="https://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
-          University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
-      <a href="https://research.fhstp.ac.at/en/projects/schreibcoachvis" class="external">project webpage</a>
-    </dd>
+10/2018 &ndash; 12/2018
+: [![SchreibCoachVis](img/schreibcoachvis-112.png){: align='right'}](https://research.fhstp.ac.at/en/projects/schreibcoachvis)
+**SchreibCoachVis&mdash;visualization for linguistic science and training**{: .project} \\
+Austrian Research Promotion Agency (FFG), Innovationsscheck \\
+[St.&nbsp;P&ouml;lten University of Applied Sciences, Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
+[project webpage](https://research.fhstp.ac.at/en/projects/schreibcoachvis){: .external}
 
-    <dt>01/2018 &ndash; 12/2018</dt>
-    <dd>
-      <a href="https://www.netidee.at/contractvis">
-        <img src="img/contractvis_112.png" alt="ContractVis" width="112" height="80" align="right" />
-      </a>
-      <p class="project">ContractVis&mdash;the visual assistant for the fine print</p>
-       Internet Foundation Austria (IPA), netidee, prj2116<br />
-      <a href="https://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
-          University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
-      <a href="https://www.netidee.at/contractvis" class="external">project webpage</a>
-    </dd>
+01/2018 &ndash; 12/2018
+: [![ContractVis](img/contractvis_112.png){: align='right'}](https://www.netidee.at/contractvis)
+**ContractVis&mdash;the visual assistant for the fine print**{: .project} \\
+Internet Foundation Austria (IPA), netidee, prj2116 \\
+[St.&nbsp;P&ouml;lten University of Applied Sciences, Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
+[project webpage](https://www.netidee.at/contractvis){: .external}
 
-    <dt>01/2015 &ndash; 12/2018</dt>
-    <dd>
-      <a href="http://www.validproject.at/">
-        <img src="img/valid_logo_112.png" alt="VALID" width="112" height="56" align="right" />
-      </a>
-      <p class="project">VALID&mdash;Visual Analytics in Data-driven Journalism</p>
-       Austrian Ministry for Transport, Innovation and Technology (BMVIT), IKT der Zukunft<br />
-      <a href="https://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
-          University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
-      <a href="http://www.validproject.at/" class="external">project webpage</a>
-    </dd>
+01/2015 &ndash; 12/2018
+: [![VALID](img/valid_logo_112.png){: align='right'}](http://www.validproject.at/)
+**VALID&mdash;Visual Analytics in Data-driven Journalism**{: .project} \\
+Austrian Ministry for Transport, Innovation and Technology (BMVIT), IKT der Zukunft \\
+[St.&nbsp;P&ouml;lten University of Applied Sciences, Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
+[project webpage](http://www.validproject.at/){: .external}
 
-    <dt>08/2013 &ndash; 07/2018</dt>
-    <dd>
-      <a href="http://mc.fhstp.ac.at/projects/kava-time">
-        <img src="img/kava-time_logo_112.png" alt="KAVA-Time" width="112" height="65" align="right" />
-      </a>
-      <p class="project">KAVA-Time&mdash;Knowledge-Assisted Visual Analytics Methods for Time-Oriented Data</p>
-      Austrian Science Fund (FWF)<br />
-      <a href="https://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
-	  University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
-      <a href="http://mc.fhstp.ac.at/projects/kava-time" class="external">project webpage</a>
-    </dd>
+08/2013 &ndash; 07/2018
+: [![KAVA-Time](img/kava-time_logo_112.png){: align='right'}](https://research.fhstp.ac.at/en/projects/kava-time-how-man-and-machine-analyze-data)
+**KAVA-Time&mdash;Knowledge-Assisted Visual Analytics Methods for Time-Oriented Data**{: .project} \\
+Austrian Science Fund (FWF) \\
+[St.&nbsp;P&ouml;lten University of Applied Sciences, Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
+[project webpage](https://research.fhstp.ac.at/en/projects/kava-time-how-man-and-machine-analyze-data){: .external}
 
-    <dt>03/2015 &ndash; 12/2015</dt>
-    <dd>
-      <a href="https://research.fhstp.ac.at/en/projects/visual-analytics-for-real-estate-platform">
-        <img src="img/immmovis_112.png" alt="Real Estate Analytics" width="112" height="73" align="right" />
-      </a>
-      <p class="project">Visual Analytics for Real Estate Platform</p>
-       Austrian Research Promotion Agency (FFG), Innovationsscheck plus<br />
-      <a href="https://www.fhstp.ac.at/icmt" class="external">St.&nbsp;P&ouml;lten
-          University of Applied Sciences, Institute of Creative\Media/Technologies</a>, Austria<br />
-      <a href="https://research.fhstp.ac.at/en/projects/visual-analytics-for-real-estate-platform" class="external">project webpage</a>
-    </dd>
+03/2015 &ndash; 12/2015
+: [![Visual Analytics for Real Estate Platform](img/immmovis_112.png){: align='right'}](https://research.fhstp.ac.at/en/projects/visual-analytics-for-real-estate-platform)
+**Visual Analytics for Real Estate Platform**{: .project} \\
+Austrian Research Promotion Agency (FFG), Innovationsscheck plus \\
+[St.&nbsp;P&ouml;lten University of Applied Sciences, Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
+[project webpage](https://research.fhstp.ac.at/en/projects/visual-analytics-for-real-estate-platform){: .external}
 
-    <dt>01/2013 &ndash; 12/2013</dt>
-    <dd>
-      <a href="http://www.cvast.tuwien.ac.at/node/550">
-        <img src="img/cvast_112x80.png" alt="CVAST" width="112" height="80" align="right" />
-      </a>
-      <p class="project">CVAST&mdash;Centre for Visual Analytics Science and Technology</p>
-       Austrian Federal Ministry of Economy, Family and Youth in the exceptional Laura Bassi Centres of Excellence initiative<br />
-      <a href="http://www.isis.tuwien.ac.at/" class="external">Vienna University of Technology,
-      Institute of Software Technology and Interactive Systems</a>, Austria<br />
-      <a href="http://www.cvast.tuwien.ac.at/node/550" class="external">project webpage</a>
-    </dd>
+01/2013 &ndash; 12/2013
+: [![CVAST](img/cvast_112x80.png){: align='right'}](http://www.cvast.tuwien.ac.at/node/550)
+**CVAST&mdash;Centre for Visual Analytics Science and Technology**{: .project} \\
+Austrian Federal Ministry of Economy, Family and Youth in the exceptional Laura Bassi Centres of Excellence initiative \\
+[Vienna University of Technology, Institute of Software Technology and Interactive Systems](http://www.isis.tuwien.ac.at/){: .external}, Austria \\
+[project webpage](http://www.cvast.tuwien.ac.at/node/550){: .external}
 
-    <dt>04/2011 &ndash; 12/2013</dt>
-    <dd>
-      <a href="https://www.cvast.tuwien.ac.at/projects/hypovis">
-        <img src="img/HypoVis_Logo_112.png" alt="HypoVis" width="112" height="42" align="right" />
-      </a>
-      <p class="project">HypoVis&mdash;Modeling Hypotheses with Visual Analytics Methods to Analyze the Past
-      and Forecast the Future</p>
-      Austrian Science Fund (FWF)<br />
-      <a href="http://www.isis.tuwien.ac.at/" class="external">Vienna University of Technology,
-      Institute of Software Technology and Interactive Systems</a>, Austria<br />
-      <a href="https://www.cvast.tuwien.ac.at/projects/hypovis" class="external">project webpage</a>
-    </dd>
+04/2011 &ndash; 12/2013
+: [![HypoVis](img/HypoVis_Logo_112.png){: align='right'}](https://www.cvast.tuwien.ac.at/projects/hypovis)
+**HypoVis&mdash;Modeling Hypotheses with Visual Analytics Methods to Analyze the Past and Forecast the Future**{: .project} \\
+Austrian Science Fund (FWF) \\
+[Vienna University of Technology, Institute of Software Technology and Interactive Systems](http://www.isis.tuwien.ac.at/){: .external}, Austria \\
+[project webpage](https://www.cvast.tuwien.ac.at/projects/hypovis){: .external}
 
-    <dt>09/2010 &ndash; 05/2011</dt>
-    <dd>
-      <a href="http://ieg.ifs.tuwien.ac.at/projects/HorizonVis/">
-        <img src="img/HorizonVis_Logo_112.png" alt="HorizonVis" width="112" height="58" align="right" />
-      </a>
-      <p class="project">HorizonVis&mdash;Interactive Visual Exploration of Multivariate Medical Measurements in Diabetes Care</p>
-      Sparkling Science initiative of the Federal Ministry of Science and Research<br />
-      <a href="http://www.isis.tuwien.ac.at/" class="external">Vienna University of Technology,
-      Institute of Software Technology and Interactive Systems</a>, Austria<br />
-      <a href="http://ieg.ifs.tuwien.ac.at/projects/HorizonVis/" class="external">project webpage</a>
-    </dd>
+09/2010 &ndash; 05/2011
+: [![HorizonVis](img/HorizonVis_Logo_112.png){: align='right'}](http://ieg.ifs.tuwien.ac.at/projects/HorizonVis/)
+**HorizonVis&mdash;Interactive Visual Exploration of Multivariate Medical Measurements in Diabetes Care**{: .project} \\
+Sparkling Science initiative of the Federal Ministry of Science and Research \\
+[Vienna University of Technology, Institute of Software Technology and Interactive Systems](http://www.isis.tuwien.ac.at/){: .external}, Austria \\
+[project webpage](http://ieg.ifs.tuwien.ac.at/projects/HorizonVis/){: .external}
 
-    <dt>03/2008 &ndash; 03/2011</dt>
-    <dd>
-      <a href="http://ieg.ifs.tuwien.ac.at/projects/VisuExplore/">
-        <img src="img/VisuExplore_Logo_112.png" alt="VisuExplore" width="112" height="48" align="right" />
-      </a>
-       <p class="project">VisuExplore&mdash;Gaining New Medical Insights through Visual Exploration</p>
-      Austrian Research Promotion Agency (FFG), Bridge Program<br />
-      <a href="http://www.donau-uni.ac.at/en/department/ike/" class="external">Danube University Krems,
-      Department of Information &amp; Knowledge Engineering</a>, Austria<br />
-      <a href="http://ieg.ifs.tuwien.ac.at/projects/VisuExplore/" class="external">project webpage</a>
-    </dd>
+03/2008 &ndash; 03/2011
+: [![VisuExplore](img/VisuExplore_Logo_112.png){: align='right'}](http://ieg.ifs.tuwien.ac.at/projects/VisuExplore/)
+**VisuExplore&mdash;Gaining New Medical Insights through Visual Exploration**{: .project} \\
+Austrian Research Promotion Agency (FFG), Bridge Program \\
+[Danube University Krems, Department of Information &amp; Knowledge Engineering](http://www.donau-uni.ac.at/en/department/ike/){: .external}, Austria \\
+[project webpage](http://ieg.ifs.tuwien.ac.at/projects/VisuExplore/){: .external}
 
-    <dt>10/2008 &ndash; 02/2009</dt>
-    <dd>
-       <p class="project">TimeCockpit&mdash;Interactive Visualization of Sensor Data for Time Tracking</p>
-      Austrian Research Promotion Agency (FFG), Innovationsscheck<br />
-      <a href="http://www.donau-uni.ac.at/en/department/ike/" class="external">Danube University Krems,
-      Department of Information &amp; Knowledge Engineering</a>, Austria
-    </dd>
+10/2008 &ndash; 02/2009
+: **TimeCockpit&mdash;Interactive Visualization of Sensor Data for Time Tracking**{: .project} \\
+Austrian Research Promotion Agency (FFG), Innovationsscheck \\
+[Danube University Krems, Department of Information &amp; Knowledge Engineering](http://www.donau-uni.ac.at/en/department/ike/){: .external}, Austria
 
-    <dt>04/2006 &ndash; 02/2008</dt>
-    <dd>
-       <p class="project">etBlogAnalysis&mdash;Analysis of Tourism Weblogs</p>
-      Austrian Research Promotion Agency (FFG), Industrial Competence Network anet<br />
-      Krems Research Forschungsgesellschaft, Austria
-    </dd>
+04/2006 &ndash; 02/2008
+: **etBlogAnalysis&mdash;Analysis of Tourism Weblogs**{: .project} \\
+Austrian Research Promotion Agency (FFG), Industrial Competence Network anet \\
+Krems Research Forschungsgesellschaft, Austria
 
-    <dt>04/2005 &ndash; 02/2008</dt>
-    <dd>
-       <p class="project">etValidierung&mdash;Validation of Tourism Websites</p>
-      Austrian Research Promotion Agency (FFG), Industrial Competence Network anet<br />
-      Krems Research Forschungsgesellschaft, Austria
-    </dd>
+04/2006 &ndash; 02/2008
+: **etValidierung&mdash;Validation of Tourism Websites**{: .project} \\
+Austrian Research Promotion Agency (FFG), Industrial Competence Network anet \\
+Krems Research Forschungsgesellschaft, Austria
 
-    <dt>12/2004 &ndash; 06/2005</dt>
-    <dd>
-       <p class="project">TAI&mdash;Measuring Value Added by Day Trip Tourism</p>
-      Austrian Research Promotion Agency (FFG), Industrial Competence Network anet<br />
-      Krems Research Forschungsgesellschaft, Austria
-    </dd>
+12/2004 &ndash; 06/2005
+: **TAI&mdash;Measuring Value Added by Day Trip Tourism**{: .project} \\
+Austrian Research Promotion Agency (FFG), Industrial Competence Network anet \\
+Krems Research Forschungsgesellschaft, Austria
 
- [top](#top){: .top_link}
+[top](#top){: .top_link}
 
+<!--
   <h2 id="student">supervised student projects (not up-to-date)</h2>
 
   <dl>
@@ -246,6 +193,7 @@ Federal Ministry for Digital and Economic Affairs (BMDW), Digital Innovation Hub
   </dl>
 
 [top](#top){: .top_link}
+-->
 
 ## scientific collaborators
 
