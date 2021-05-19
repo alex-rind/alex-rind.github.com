@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2020-08-31
+mod-date: 2021-05-19
 ---
 
 <ul class="toc">
@@ -16,7 +16,8 @@ mod-date: 2020-08-31
 ## funded research projecwqqts {#funded}
 
 since 09/2020
-: **SoniVis&mdash;Data Analytics using Sonification and Visualization**{: .project} \\
+: [![SoniVis](img/sonivis-circle_80.png){: align='right'}](https://research.fhstp.ac.at/en/projects/sonivis-data-analytics-using-sonification-and-visualization)
+**SoniVis&mdash;Data Analytics using Sonification and Visualization**{: .project} \\
 Austrian Science Fund (FWF) \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences, Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
 [project webpage](https://research.fhstp.ac.at/en/projects/sonivis-data-analytics-using-sonification-and-visualization){: .external}
@@ -208,8 +209,16 @@ Krems Research Forschungsgesellschaft, Austria
 
 ## reviewing
 
-2020
+2021
 : IEEE VIS Short Papers<sup>PC</sup>
+: Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup>
+: Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup> &ndash; 2 papers
+: Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup>
+: IEEE VIS Full Papers<sup>E</sup> &ndash; 2 papers
+: SAGE Information Visualization<sup>E</sup>
+
+2020
+: IEEE VIS Short Papers<sup>PC</sup> &ndash; 3 papers
 : IEEE Visual Analytics Science and Technology (VAST)<sup>E</sup>
 : IEEE Information Visualization (InfoVis)<sup>E</sup>
 : IEEE Pacific Visualization Symposium (PacificVis)<sup>E</sup>
@@ -321,6 +330,13 @@ E...external reviewer/invitation from editor or programme committee member<br />
   <h2 id="events_organized">conference and workshop organization</h2>
 
   <dl>
+    <dt>10/2021</dt>
+    <dd>
+      <p class="project"> Workshop on Audio-Visual Analytics – Towards a Research Agenda for Integrating Sonification and Visualization</p>
+      at <a href="http://ieeevis.org/year/2021/info/workshops" class="external">IEEE VIS 2021</a><br />
+      <em>Member of the organizing committee</em>
+    </dd>
+	
     <dt>09/2017</dt>
     <dd>
       <p class="project">OpenGLAM.at Kulturhackathon</p>
