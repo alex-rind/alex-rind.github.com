@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2021-05-19
+mod-date: 2021-07-27
 ---
 
 <ul class="toc">
@@ -13,7 +13,7 @@ mod-date: 2021-05-19
 <li><a href="#events_organized">conference and workshop organization</a></li>
 </ul>
 
-## funded research projecwqqts {#funded}
+## funded research projects {#funded}
 
 since 09/2020
 : [![SoniVis](img/sonivis-circle_80.png){: align='right'}](https://research.fhstp.ac.at/en/projects/sonivis-data-analytics-using-sonification-and-visualization)
@@ -215,7 +215,7 @@ Krems Research Forschungsgesellschaft, Austria
 : Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup> &ndash; 2 papers
 : Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup>
 : IEEE VIS Full Papers<sup>E</sup> &ndash; 2 papers
-: SAGE Information Visualization<sup>E</sup>
+: SAGE Information Visualization<sup>E</sup> &ndash; 2 papers
 
 2020
 : IEEE VIS Short Papers<sup>PC</sup> &ndash; 3 papers
@@ -325,116 +325,85 @@ E...external reviewer/invitation from editor or programme committee member<br />
 2...in cooperation with Wolfgang Aigner<br />
 </p>
 
-  <a class="top_link" href="#top">top</a>
+[top](#top){: .top_link}
 
-  <h2 id="events_organized">conference and workshop organization</h2>
+## conference and workshop organization {#events_organized}
 
-  <dl>
-    <dt>10/2021</dt>
-    <dd>
-      <p class="project"> Workshop on Audio-Visual Analytics – Towards a Research Agenda for Integrating Sonification and Visualization</p>
-      at <a href="http://ieeevis.org/year/2021/info/workshops" class="external">IEEE VIS 2021</a><br />
-      <em>Member of the organizing committee</em>
-    </dd>
-	
-    <dt>09/2017</dt>
-    <dd>
-      <p class="project">OpenGLAM.at Kulturhackathon</p>
-      <a href="https://www.fhstp.ac.at/" class="external">St.&nbsp;P&ouml;lten University of Applied Sciences</a>,
-      <a href="http://www.noe.gv.at/" class="external">Federal State of Lower Austria</a>,
-      <a href="http://www.donau-uni.ac.at/" class="external">Donau Universität Krems</a>,
-      <a href="https://www.ait.ac.at/" class="external">AIT</a>, etc.<br />
-      <em>Member of the organizing committee</em>
-    </dd>
+10/2021
+: **Workshop on Audio-Visual Analytics – Towards a Research Agenda for Integrating Sonification and Visualization**{: .project} \\
+at [IEEE VIS 2021](http://ieeevis.org/year/2021/info/workshops){: .external} \\
+[workshop webpage](https://audio-visual-analytics.github.io/vis2021.html){: .external} \\
+*Member of the organizing committee, webmaster*
 
-    <dt>06/2012</dt>
-    <dd>
-      <p class="project">Eurographics Conference on Visualization
-        (EuroVis)</p>
-      <a href="http://www.cg.tuwien.ac.at/eurovis2012/"
-        class="external">Vienna University of Technology, Institute of
-        Computer Graphics and Algorithms</a>, <a
-        href="http://www.uni-linz.ac.at/index_e.htm" class="external">VRVis
-        Center for Virtual Reality and Visualization Research</a>, and
-      <a href="http://www.ocg.at/" class="external">Austrian Computer
-        Society (OCG)</a><br /> <em>Student volunteer</em>
-    </dd>
+09/2021
+: **Workshop on Audio-Visual Analytics – Towards a Research Agenda for Integrating Sonification and Visualization**{: .project} \\
+at [Audio Mostly 2021](https://audiomostly.com/2021/program/){: .external} \\
+[workshop webpage](https://audio-visual-analytics.github.io/am2021.html){: .external} \\
+*Member of the organizing committee, webmaster*
 
-    <dt>07/2008</dt>
-    <dd>
-      <p class="project">BEST Course on Technology &ldquo;Biomedical
-        Engineering: Stimulate Your Nerves!&rdquo;</p>
-      <a href="http://bestvienna.at/" class="external">BEST Vienna</a> in
-      cooperation with <a href="http://www.tuwien.ac.at/" class="external">Vienna
-        University of Technology</a><br /> <em>Member of the organizing
-        committee</em>
-    </dd>
+09/2017
+: **OpenGLAM.at Kulturhackathon**{: .project} \\
+[St.&nbsp;P&ouml;lten University of Applied Sciences](https://www.fhstp.ac.at/){: .external},
+[Federal State of Lower Austria](http://www.noe.gv.at/){: .external},
+[Donau Universität Krems](http://www.donau-uni.ac.at/){: .external},
+[AIT](https://www.ait.ac.at/){: .external}, etc. \\
+*Member of the organizing committee*
 
-    <dt>09/2007</dt>
-    <dd>
-      <p class="project">International Conference on Music Information
-        Retrieval (ISMIR)</p>
-      <a href="http://www.informatik.tuwien.ac.at/" class="external">Vienna
-        University of Technology</a>, <a
-        href="http://www.uni-linz.ac.at/index_e.htm" class="external">Johannes
-        Kepler University</a>, <a
-        href="http://www.ofai.at/research/impml/" class="external">Austrian
-        Research Institute for Artificial Intelligence (OFAI)</a>, and <a
-        href="http://www.ocg.at/" class="external">Austrian Computer
-        Society (OCG)</a><br />
-        <em>Student volunteer</em>
-    </dd>
+06/2012
+: **Eurographics Conference on Visualization (EuroVis)**{: .project} \\
+[Vienna University of Technology, Institute of Computer Graphics and Algorithms](http://www.cg.tuwien.ac.at/eurovis2012/){: .external},
+[VRVis Center for Virtual Reality and Visualization Research](https://www.vrvis.at/){: .external},
+[Austrian Computer Society (OCG)](http://www.ocg.at/){: .external} \\
+*Student volunteer*
 
-    <dt>07/2007</dt>
-    <dd>
-      <p class="project">Symposium &ldquo;Blogs in Tourism&rdquo;</p>
-      <a href="http://www.kremsresearch.at/" class="external">Krems
-        Research Forschungsgesellschaft</a> in cooperation with <a
-        href="http://www.kitzbuehel.com/de/" class="external">Kitzb&uuml;hel
-        Tourism</a><br />
-        <em>Member of the organizing committee</em>
-    </dd>
+07/2008
+: **BEST Course on Technology &ldquo;Biomedical Engineering: Stimulate Your Nerves!&rdquo;**{: .project} \\
+[BEST Vienna](http://bestvienna.at/){: .external}
+in cooperation with
+[Vienna University of Technology](http://www.tuwien.ac.at/){: .external} \\
+*Member of the organizing committee*
 
-    <dt>07/2007</dt>
-    <dd>
-      <p class="project">BEST Course on Technology &ldquo;Space
-        Engineering&rdquo;</p>
-      <a href="http://www.bestvienna.at/" class="external">BEST Vienna</a>
-      in cooperation with <a href="http://www.tuwien.ac.at/"
-        class="external">Vienna University of Technology</a> <br />
-      <em>Member of the organizing committee</em>
-    </dd>
+09/2007
+: **International Conference on Music Information Retrieval (ISMIR)**{: .project} \\
+[Vienna University of Technology](http://www.informatik.tuwien.ac.at/){: .external},
+[Johannes Kepler University](http://www.uni-linz.ac.at/index_e.htm){: .external},
+[Austrian Research Institute for Artificial Intelligence (OFAI)](http://www.ofai.at/research/impml/){: .external}, and
+[Austrian Computer Society (OCG)](http://www.ocg.at/){: .external} \\
+*Student volunteer*
 
-    <dt>07/2006</dt>
-    <dd>
-      <p class="project">BEST Course on Technology &ldquo;Universal
-        Design - Architecture for All&rdquo;</p>
-      <a href="http://www.bestvienna.at/" class="external">BEST Vienna</a>
-      in cooperation with <a href="http://www.tuwien.ac.at/"
-        class="external">Vienna University of Technology </a><br />
-      <em>Member of the organizing committee</em>
-    </dd>
+07/2007
+: **Symposium &ldquo;Blogs in Tourism&rdquo;**{: .project} \\
+[Krems Research Forschungsgesellschaft](http://www.kremsresearch.at/){: .external}
+in cooperation with
+[Kitzb&uuml;hel Tourism](http://www.kitzbuehel.com/){: .external} \\
+*Member of the organizing committee*
 
-    <dt>07/2005</dt>
-    <dd>
-      <p class="project">BEST Course on Technology &ldquo;Universal
-        Design - Architecture for everyone&rdquo;</p>
-      <a href="http://www.bestvienna.at/" class="external">BEST Vienna</a>
-      in cooperation with <a href="http://www.tuwien.ac.at/"
-        class="external">Vienna University of Technology</a> <br />
-      <em>Member of the organizing committee</em>
-    </dd>
+07/2007
+: **BEST Course on Technology &ldquo;Space Engineering&rdquo;**{: .project} \\
+[BEST Vienna](http://bestvienna.at/){: .external}
+in cooperation with
+[Vienna University of Technology](http://www.tuwien.ac.at/){: .external} \\
+*Member of the organizing committee*
 
-    <dt>09/2003</dt>
-    <dd>
-      <p class="project">Workshop &ldquo;Curriculum development: the use
-        of new tools for teaching/learning&rdquo;</p>
-      <a href="http://www.bestvienna.at/" class="external">BEST Vienna</a>
-      in cooperation with the European Union thematic network <a
-        href="http://etnet.vub.ac.be/etnet21.asp" class="external">ETNET21</a>
-      <br />
-      <em>Head of the organizing committee</em>
-    </dd>
-  </dl>
+07/2006
+: **BEST Course on Technology &ldquo;Universal Design - Architecture for All&rdquo;**{: .project} \\
+[BEST Vienna](http://bestvienna.at/){: .external}
+in cooperation with
+[Vienna University of Technology](http://www.tuwien.ac.at/){: .external} \\
+*Member of the organizing committee*
 
-  <a class="top_link" href="#top">top</a>
+07/2005
+: **BEST Course on Technology &ldquo;Universal Design - Architecture for everyone&rdquo;**{: .project} \\
+[BEST Vienna](http://bestvienna.at/){: .external}
+in cooperation with
+[Vienna University of Technology](http://www.tuwien.ac.at/){: .external} \\
+*Member of the organizing committee*
+
+09/2003
+: **Workshop &ldquo;Curriculum development: the use of new tools for teaching/learning**{: .project} \\
+[BEST Vienna](http://bestvienna.at/){: .external}
+in cooperation with the European Union thematic network
+[ETNET21](http://etnet.vub.ac.be/etnet21.asp){: .external} \\
+*Head of the organizing committee*
+
+[top](#top){: .top_link}

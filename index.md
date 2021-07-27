@@ -1,6 +1,6 @@
 ---
 layout: default
-mod-date: 2019-05-28
+mod-date: 2021-07-27
 ---
 
 I am a scientific researcher in Visual Analytics and Information Visualization at the
@@ -21,26 +21,27 @@ at the Vienna University of Technology.
     <li>Interactive Visual Interfaces
     <ul>
 	<li><a
-	href="http://www.infovis-wiki.net/index.php/Information_Visualization"
+	href="http://www.infovis-wiki.net/wiki/Information_Visualization"
 	class="external">Information Visualization</a>
 	</li>
 	<li><a
-	href="http://www.infovis-wiki.net/index.php/Visual_Analytics"
+	href="http://www.infovis-wiki.net/wiki/Visual_Analytics"
 	class="external">Visual Analytics</a></li>
 	<li><a
-	href="http://www.infovis-wiki.net/index.php/HCI_%28Human-Computer_Interaction%29"
+	href="http://www.infovis-wiki.net/wiki/HCI_%28Human-Computer_Interaction%29"
 	class="external">Human-Computer Interaction (HCI)</a></li>
     </ul>
     </li>
     <li><a
-    href="http://www.infovis-wiki.net/index.php/Visual_Exploration"
+    href="http://www.infovis-wiki.net/wiki/Visual_Exploration"
     class="external">Supporting Data Exploration Processes</a>
     <ul>
 	<li><a
-	href="http://www.infovis-wiki.net/index.php/Visual_Analytics"
+	href="http://www.infovis-wiki.net/wiki/Visual_Analytics"
 	class="external">Science of Interaction</a></li>
 	<li><a href="http://www.cvast.tuwien.ac.at/ieg-projects/hypovis" class="external">Hypotheses &amp; Models</a></li>
 	<li><a href="http://mc.fhstp.ac.at/projects/kava-time" class="external">Explicit Knowledge</a></li>
+	<li><a href="https://audio-visual-analytics.github.io/" class="external">Audio-Visual Analytics</a></li>
     </ul></li>
     <li><a href="http://www.timeviz.net/"
     class="external">Time-oriented Data</a></li>
@@ -48,12 +49,13 @@ at the Vienna University of Technology.
     <ul>
 	<li><a
 	href="http://ieg.ifs.tuwien.ac.at/projects/VisuExplore/"
-	class="external">User Centered Design</a>
+	class="external">Human-Centered Design</a>
 	</li>
 	<li><a href="http://dx.doi.org/10.1561/1100000039" class="external">Visualization of Electronic Health Records</a></li>
 	<li><a href="http://dx.doi.org/10.2312/eurovisstar.20151114" class="external">Malicious Software Analysis</a></li>
 	<li><a href="https://arxiv.org/abs/1707.06105" class="external">Clinical Gait Analysis for Rehabilitation</a></li>
-	<li><a href="http://ceur-ws.org/Vol-2009/fmt-proceedings-2017-paper12.pdf" class="external">Digital Humanities &amp; OpenGLAM</a></li>
+	<li><a href="https://research.fhstp.ac.at/en/projects/regiobiograph" class="external">Digital Humanities</a> &amp; <a href="http://ceur-ws.org/Vol-2009/fmt-proceedings-2017-paper12.pdf" class="external">OpenGLAM</a></li>
+	<li><a href="https://github.com/fhstp/easynwk-web" class="external">Diagnosis and Reflection in Social Work</a></li>
 	<!-- <li>Business Intelligence</li> -->
     </ul>
     </li>

@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2020-01-04
+mod-date: 2021-07-27
 ---
 
 <ul class="toc">
@@ -132,6 +132,13 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 [top](#top){: .top_link}
 
 ## Refereed Conference &amp; Workshop Articles {#inproc}
+
+Enge, K., Rind, A., Iber, M., Höldrich, R. &amp; Aigner, W.:
+__[It's about Time: Adopting Theoretical Constructs from Visualization for Sonification](https://www.ifs.tuwien.ac.at/~rind/enge_2021_am_marks_postprint.pdf){: .pdf}__,
+_Proc. ACM Audio Mostly (AM),_
+<!-- p.&nbsp;33-40, --> ACM, 2021.
+<!-- doi:[10.1109/VAHC47919.2019.8945032](https://doi.org/10.1109/VAHC47919.2019.8945032){: .external} \\ -->
+forthcoming.
 
 Rind, A., Wagner, M. &amp; Aigner, W.:
 __[Towards a Structural Framework for Explicit Domain Knowledge in Visual Analytics](https://arxiv.org/pdf/1908.07752){: .pdf}__,
@@ -538,4 +545,3 @@ St. Pölten, Austria, April 22, 2016.
 </p>
 
 [top](#top){: .top_link}
-

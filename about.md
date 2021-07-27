@@ -2,7 +2,7 @@
 layout: default
 title: "about"
 longtitle: "About Me / Curriculum Vitae"
-mod-date: 2019-08-22
+mod-date: 2021-07-27
 ---
 
 <ul class="toc">
@@ -119,11 +119,17 @@ since 03/2008
 
 ## awards
 
+2020
+: Lower Austrian Chamber of Commerce and the Province of Lower Austria
+: [Recognition of excellent innovation](http://www.innovationspreis-noe.at/){: .external}
+:  for the research project
+  [ReMoCap-Lab](https://research.fhstp.ac.at/en/projects/remocap-lab){: .external}
+
 2017
 : Lower Austrian Chamber of Commerce and the Province of Lower Austria
 : [Recognition of excellent innovation](http://www.innovationspreis-noe.at/){: .external}
 :  for the research project
-  [KAVA-Time](http://mc.fhstp.ac.at/projects/kava-time){: .external}
+  [KAVA-Time](https://research.fhstp.ac.at/en/projects/kava-time-how-man-and-machine-analyze-data){: .external}
 
 2016
 : Forum Media Technology
@@ -158,9 +164,6 @@ for Stephan Hoffmann (co-supervised by Alexander Rind)
 [top](#top){: .top_link}
 
 ## volunteer activities
-
-since 2009
-: [BEST Alumni Network](http://best.eu.org/alumni/){: .external}
 
 2002 &ndash; 2009
 : [BEST Vienna](http://bestvienna.at/){: .external}
