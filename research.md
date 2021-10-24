@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2021-07-27
+mod-date: 2021-10-24
 ---
 
 <ul class="toc">
@@ -210,8 +210,8 @@ Krems Research Forschungsgesellschaft, Austria
 ## reviewing
 
 2021
-: IEEE VIS Short Papers<sup>PC</sup>
-: Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup>
+: IEEE VIS Short Papers<sup>PC</sup> &ndash; 2 papers
+: Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup> &ndash; 2 papers
 : Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup> &ndash; 2 papers
 : Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup>
 : IEEE VIS Full Papers<sup>E</sup> &ndash; 2 papers
