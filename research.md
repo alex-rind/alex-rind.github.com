@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2021-10-24
+mod-date: 2021-12-10
 ---
 
 <ul class="toc">
@@ -209,6 +209,10 @@ Krems Research Forschungsgesellschaft, Austria
 
 ## reviewing
 
+2022
+: Eurographics Conference on Visualization (EuroVis)<sup>E</sup>
+: Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup>
+
 2021
 : IEEE VIS Short Papers<sup>PC</sup> &ndash; 2 papers
 : Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup> &ndash; 2 papers
@@ -216,6 +220,8 @@ Krems Research Forschungsgesellschaft, Austria
 : Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup>
 : IEEE VIS Full Papers<sup>E</sup> &ndash; 2 papers
 : SAGE Information Visualization<sup>E</sup> &ndash; 2 papers
+: Elsevier Computers & Graphics<sup>E</sup>
+: IEEE Computer Graphics and Applications<sup>E</sup>
 
 2020
 : IEEE VIS Short Papers<sup>PC</sup> &ndash; 3 papers

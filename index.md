@@ -43,7 +43,7 @@ at the Vienna University of Technology.
 	<li><a href="http://mc.fhstp.ac.at/projects/kava-time" class="external">Explicit Knowledge</a></li>
 	<li><a href="https://audio-visual-analytics.github.io/" class="external">Audio-Visual Analytics</a></li>
     </ul></li>
-    <li><a href="http://www.timeviz.net/"
+    <li><a href="https://github.com/ieg-vienna/TimeBench"
     class="external">Time-oriented Data</a></li>
     <li>Bridging the Gap Between Theory and Practice
     <ul>
