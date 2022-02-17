@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2021-12-10
+mod-date: 2022-02-17
 ---
 
 <ul class="toc">
@@ -210,6 +210,7 @@ Krems Research Forschungsgesellschaft, Austria
 ## reviewing
 
 2022
+: Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup>
 : Eurographics Conference on Visualization (EuroVis)<sup>E</sup>
 : Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup>
 

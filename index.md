@@ -75,7 +75,7 @@ at the Vienna University of Technology.
     <li><a rel="me" href="https://www.xing.com/profile/Alexander_Rind" class="external">Xing</a></li>
     <li><a rel="me" href="https://github.com/alex-rind" class="external">GitHub</a></li>
     <li><a rel="me" href="http://scholar.google.com/citations?user=R48XMTYAAAAJ" class="external">Google Scholar</a></li>
-    <li><a rel="me" href="http://dblp.uni-trier.de/pers/hd/r/Rind:Alexander.html" class="external">dblp</a></li>
+    <li><a rel="me" href="https://dblp.org/pid/63/4423.html" class="external">dblp</a></li>
     <li><a rel="me" href="http://orcid.org/0000-0001-8788-4600" class="external">ORCID</a></li>
     <li><a rel="me" href="http://dl.acm.org/author_page.cfm?id=81488671213&role=Author" class="external">ACM&nbsp;DL</a></li>
     <li><a rel="me" href="https://www.researchgate.net/profile/Alexander_Rind" class="external">ResearchGate</a></li>
