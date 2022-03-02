@@ -2,7 +2,7 @@
 layout: default
 title: "about"
 longtitle: "About Me / Curriculum Vitae"
-mod-date: 2021-07-27
+mod-date: 2022-03-01
 ---
 
 <ul class="toc">
@@ -18,6 +18,10 @@ mod-date: 2021-07-27
 since 01/2014
 : [St.&nbsp;P&ouml;lten University of Applied Sciences,](https://www.fhstp.ac.at/){: .external} Austria
 : Researcher at the Institute of Creative\Media/Technologies
+
+since 02/2022
+: [IMC Fachhochschule Krems,](https://www.fh-krems.ac.at/en/study/bachelor/full-time/informatics/){: .external} Austria
+: Lecturer for the Informatics bachelor degree programme
 
 since 10/2016
 : [University of Applied Sciences Upper Austria, Hagenberg,](https://www.fh-ooe.at/en/hagenberg-campus/){: .external} Austria
