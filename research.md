@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2022-02-17
+mod-date: 2022-05-19
 ---
 
 <ul class="toc">
@@ -14,6 +14,12 @@ mod-date: 2022-02-17
 </ul>
 
 ## funded research projects {#funded}
+
+since 04/2022
+: **TransSoDia&mdash;Transnational and Digital Learning and Teaching in Cooperative Social Diagnostics**{: .project} \\
+EU Erasmus+ \\
+[St.&nbsp;P&ouml;lten University of Applied Sciences](https://www.fhstp.ac.at/){: .external}, Austria \\
+[project webpage](https://research.fhstp.ac.at/en/projects/transsodia-transnational-and-digital-learning-and-teaching-in-cooperative-social-diagnostics){: .external}
 
 since 09/2020
 : [![SoniVis](img/sonivis-circle_80.png){: align='right'}](https://research.fhstp.ac.at/en/projects/sonivis-data-analytics-using-sonification-and-visualization)
@@ -203,16 +209,20 @@ Krems Research Forschungsgesellschaft, Austria
 * [Tim Lammarsch](http://www.lammarsch.de/publications.html){: .external}, (now) independent scholar and consultant, Austria
 * Catherine Plaisant & Ben Shneiderman, University of Maryland, USA
 * Natalia & Gennady Andrienko, Fraunhofer Institute IAIS, Germany
-* Daniel Keim, University of Konstanz, Germany
+* Niklas Rönnberg, Linköping University, Sweden
 
 [top](#top){: .top_link}
 
 ## reviewing
 
 2022
+: IEEE VIS Short Papers<sup>PC</sup>
 : Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup>
-: Eurographics Conference on Visualization (EuroVis)<sup>E</sup>
 : Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup>
+: ACM Audio Mostly<sup>PC</sup>
+: IEEE VIS Full Papers<sup>E</sup>
+: Eurographics Conference on Visualization (EuroVis)<sup>E</sup>
+: Elsevier Computers & Graphics<sup>E</sup>
 
 2021
 : IEEE VIS Short Papers<sup>PC</sup> &ndash; 2 papers
@@ -335,6 +345,12 @@ E...external reviewer/invitation from editor or programme committee member<br />
 [top](#top){: .top_link}
 
 ## conference and workshop organization {#events_organized}
+
+06/2022
+: **Workshop on Audio-Visual Analytics**{: .project} \\
+at [ACM  AVI 2022](https://sites.google.com/di.uniroma1.it/avi2022/workshops){: .external} \\
+[workshop webpage](https://audio-visual-analytics.github.io/avi2022.html){: .external} \\
+*Member of the organizing committee, webmaster*
 
 10/2021
 : **Workshop on Audio-Visual Analytics – Towards a Research Agenda for Integrating Sonification and Visualization**{: .project} \\

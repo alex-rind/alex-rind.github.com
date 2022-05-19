@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2021-10-24
+mod-date: 2022-05-19
 ---
 
 <ul class="toc">
@@ -134,11 +134,17 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 ## Refereed Conference &amp; Workshop Articles {#inproc}
 
 Enge, K., Rind, A., Iber, M., Höldrich, R. &amp; Aigner, W.:
-__[It's about Time: Adopting Theoretical Constructs from Visualization for Sonification](https://www.ifs.tuwien.ac.at/~rind/preprint/enge_2021_am_marks_postprint.pdf){: .pdf}__,
+__[Towards Multimodal Exploratory Data Analysis: SoniScope as a Prototypical Implementation](https://arind.students.fhstp.ac.at/Enge_et_al_2022_SoniScope.pdf){: .pdf}__,
+Höllt, T., Aigner, W. &amp; Agus, M. (eds.), _Proc. Eurographics Conf. Visualization (EuroVis) &ndash; Short Papers,_
+<!-- p.&nbsp;64-71, Eurographics, 2022.
+doi:[10.1145/3478384.3478415](https://doi.org/10.1145/3478384.3478415){: .external} -->
+forthcoming.
+
+Enge, K., Rind, A., Iber, M., Höldrich, R. &amp; Aigner, W.:
+__[It's about Time: Adopting Theoretical Constructs from Visualization for Sonification](https://dl.acm.org/doi/pdf/10.1145/3478384.3478415){: .pdf}__,
 _Proc. Audio Mostly 2021 (AM),_
 p.&nbsp;64-71, ACM, 2021.
 doi:[10.1145/3478384.3478415](https://doi.org/10.1145/3478384.3478415){: .external}
-<!-- forthcoming. -->
 
 Rind, A., Wagner, M. &amp; Aigner, W.:
 __[Towards a Structural Framework for Explicit Domain Knowledge in Visual Analytics](https://arxiv.org/pdf/1908.07752){: .pdf}__,
@@ -158,6 +164,7 @@ Rind, A., Iber, M. &amp; Aigner, W.:
 __[Bridging the Gap Between Sonification and Visualization](https://github.com/MultiModalVis/multimodalvis.github.io/raw/master/papers/AVI_2018_paper_155.pdf){: .pdf}__,
 Lee, B. et al. (eds.), _Proc. AVI Workshop on Multimodal Interaction for Data Visualization (MultimodalVis),_
 <!-- p.&nbsp;169-173,  Eurographics, --> 2018.
+doi:[10.5281/zenodo.6510342](https://doi.org/10.5281/zenodo.6510342){: .external}
 [workshop website](https://sites.google.com/view/multimodalvis/program){: .external}
 
 Aigner, W., Rind, A. &amp; Wagner, M.:
@@ -421,6 +428,13 @@ VRVis, Vienna, Austria, June 6, 2012.
 
 ## Miscellaneous &amp; German Articles {#misc}
 
+Aigner, W., Enge, K., Iber, M., Rind, A., Elmqvist, N., Höldrich, R., Rönnberg, N. &amp; Walker, B.N.:
+__[Workshop on Audio-Visual Analytics](){: .pdf}__,
+_Proc. 2022 International Conference on Advanced Visual Interfaces (AVI 2022),_
+4 pages, ACM, 2022.
+doi:[10.1145/3531073.3535252](https://dx.doi.org/10.1145/3531073.3535252){: .external}
+forthcoming.
+
 Dahnert, M., Rind, A., Aigner, W., & Kehrer, J.:
 __[Looking beyond the horizon: Evaluation of four compact visualization techniques for time series in a spatial context](https://arxiv.org/pdf/1906.07377){: .pdf}__
 _arXiv:1906.07377 [cs.HC]_,
@@ -500,6 +514,12 @@ No. HCIL-2010-19, <em>University of Maryland</em>, College Park, 2010.</p>
 [top](#top){: .top_link}
 
 ## Dissemination to a General Audience {#general}
+
+Rind, A.; Böck, J; Boucher, M.; Grassinger, F.; Kirchknopf, A.; Stoiber, C. &amp; Stumpe, E.:
+__[Wie können wir Daten erlebbar machen?](https://langenachtderforschung.at/station/1213){: .external}__,
+_Lange Nacht der Forschung,_
+St. Pölten, Austria, May 20, 2022.
+[official website](https://langenachtderforschung.at/station/1213){: .external}
 
 Rind, A.; Aigner, W.; Grassinger, F.; Kirchknopf, A. &amp; Niederer, C.:
 __[Visualization Corner: Zum Kleingedruckten in Verträgen und anderen Visualisierungsprojekten](https://www.netidee.at/contractvis/contractvis-bei-der-langen-nacht-der-forschung-2018){: .external}__,

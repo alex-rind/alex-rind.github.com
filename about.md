@@ -2,7 +2,7 @@
 layout: default
 title: "about"
 longtitle: "About Me / Curriculum Vitae"
-mod-date: 2022-03-01
+mod-date: 2022-05-17
 ---
 
 <ul class="toc">
@@ -23,7 +23,7 @@ since 02/2022
 : [IMC Fachhochschule Krems,](https://www.fh-krems.ac.at/en/study/bachelor/full-time/informatics/){: .external} Austria
 : Lecturer for the Informatics bachelor degree programme
 
-since 10/2016
+10/2016 &ndash; 02/2022
 : [University of Applied Sciences Upper Austria, Hagenberg,](https://www.fh-ooe.at/en/hagenberg-campus/){: .external} Austria
 : Lecturer at the School of Informatics, Communications and Media
 
