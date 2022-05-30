@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2022-05-19
+mod-date: 2022-05-30
 ---
 
 <ul class="toc">
@@ -25,7 +25,7 @@ mod-date: 2022-05-19
 ## Refereed Journal Articles {#article}
 
 Stoiber, C.; Rind, A.; Grassinger, F.; Gutounig, R.; Goldgruber, E.; Sedlmair, M.; Emrich; S. &amp; Aigner; W.:
-__[netflower: Dynamic Network Visualization for Data Journalists](http://ifs.tuwien.ac.at/~rind/preprint/stoiber_2019_netflower_postprint.pdf){: .pdf}__,
+__[netflower: Dynamic Network Visualization for Data Journalists](https://phaidra.fhstp.ac.at/download/o:4838){: .pdf}__,
 _Computer Graphics Forum, Special Issue &quot;EuroVis 2019&quot;,_
 Vol. 38, No. 3, p. 699–711, 2019.
 doi:[10.1111/cgf.13721 ](https://doi.org/10.1111/cgf.13721){: .external}
@@ -40,7 +40,7 @@ doi:[10.1109/TVCG.2017.2785271](http://dx.doi.org/10.1109/TVCG.2017.2785271){: .
 Preprint available as [arXiv:1707.06105 [cs.HC]](https://arxiv.org/abs/1707.06105){: .external}
 
 Andrienko, N.; Lammarsch,  T.; Andrienko, G.; Fuchs, G.; Keim, D.; Miksch, S. &amp; Rind, A.:
-__[Viewing Visual Analytics as Model Building](http://ifs.tuwien.ac.at/~rind/preprint/andrienko_2018_cgf_model-building_postprint.pdf){: .pdf}__,
+__[Viewing Visual Analytics as Model Building](https://publik.tuwien.ac.at/files/publik_270968.pdf){: .pdf}__,
 _Computer Graphics Forum,_
 Vol. 37, No. 6, p. 275-299, 2018.
 doi:[10.1111/cgf.13324](http://dx.doi.org/10.1111/cgf.13324){: .external} \\
@@ -180,7 +180,7 @@ p.&nbsp;92-103, IEEE, 2017.
 doi:[10.1109/VAST.2017.8585498](http://dx.doi.org/10.1109/VAST.2017.8585498){: .external}
 
 Rind, A., Haberson, A., Blumenstein, K., Niederer, C. &amp; Aigner, W.:
-__[PubViz: Lightweight Visual Presentation of Publication Data](http://ifs.tuwien.ac.at/~rind/preprint/rind_2017_pubviz_postprint.pdf){: .pdf}__,
+__[PubViz: Lightweight Visual Presentation of Publication Data](https://phaidra.fhstp.ac.at/download/o:4834){: .pdf}__,
 Kozl&iacute;kov&aacute;, B., Schreck, T. &amp; Wischgoll, T. (eds.), _Proc. Eurographics Conf. Visualization (EuroVis) &ndash; Short Papers,_
 p.&nbsp;169-173,  Eurographics, 2017.
 doi:[10.2312/eurovisshort.20171152](http://dx.doi.org/10.2312/eurovisshort.20171152){: .external}
