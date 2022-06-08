@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2022-05-30
+mod-date: 2022-06-08
 ---
 
 <ul class="toc">
@@ -348,6 +348,7 @@ doi:<a href="http://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="exte
  Robertson, M.M. (ed.), <em>Ergonomics and Health Aspects of Work with Computers, Proceedings of the International Conference held as part of HCI International 2011</em>,
  LNCS 6779, p. 139-148, Heidelberg, Springer, 2011.
  doi:<a href="http://dx.doi.org/10.1007/978-3-642-21716-6_15" class="external">10.1007/978-3-642-21716-6_15</a>
+ <br/><a href="https://zenodo.org/record/6549363" class="external">open-access screenshots</a>
 </p>
 
 <p id="Rind_2010__VisuExplore:GainingNewMedicalInsightsfromVisualExploration">
@@ -429,11 +430,10 @@ VRVis, Vienna, Austria, June 6, 2012.
 ## Miscellaneous &amp; German Articles {#misc}
 
 Aigner, W., Enge, K., Iber, M., Rind, A., Elmqvist, N., Höldrich, R., Rönnberg, N. &amp; Walker, B.N.:
-__[Workshop on Audio-Visual Analytics](){: .pdf}__,
+__[Workshop on Audio-Visual Analytics](https://zenodo.org/record/6624212/files/Aigner_et_al_2022_Workshop_on_Audio-Visual_Analytics.pdf?download=1){: .pdf}__,
 _Proc. 2022 International Conference on Advanced Visual Interfaces (AVI 2022),_
-4 pages, ACM, 2022.
+Article 92, 4 pages, ACM, 2022.
 doi:[10.1145/3531073.3535252](https://dx.doi.org/10.1145/3531073.3535252){: .external}
-forthcoming.
 
 Dahnert, M., Rind, A., Aigner, W., & Kehrer, J.:
 __[Looking beyond the horizon: Evaluation of four compact visualization techniques for time series in a spatial context](https://arxiv.org/pdf/1906.07377){: .pdf}__
