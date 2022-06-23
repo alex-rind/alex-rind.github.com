@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2022-06-08
+mod-date: 2022-06-23
 ---
 
 <ul class="toc">
@@ -136,9 +136,9 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 Enge, K., Rind, A., Iber, M., Höldrich, R. &amp; Aigner, W.:
 __[Towards Multimodal Exploratory Data Analysis: SoniScope as a Prototypical Implementation](https://arind.students.fhstp.ac.at/Enge_et_al_2022_SoniScope.pdf){: .pdf}__,
 Höllt, T., Aigner, W. &amp; Agus, M. (eds.), _Proc. Eurographics Conf. Visualization (EuroVis) &ndash; Short Papers,_
-<!-- p.&nbsp;64-71, Eurographics, 2022.
-doi:[10.1145/3478384.3478415](https://doi.org/10.1145/3478384.3478415){: .external} -->
-forthcoming.
+p.&nbsp;67-71, Eurographics, 2022.
+doi:[10.2312/evs.20221095](https://doi.org/10.2312/evs.20221095){: .external}
+<!-- forthcoming. -->
 
 Enge, K., Rind, A., Iber, M., Höldrich, R. &amp; Aigner, W.:
 __[It's about Time: Adopting Theoretical Constructs from Visualization for Sonification](https://dl.acm.org/doi/pdf/10.1145/3478384.3478415){: .pdf}__,
