@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2022-05-19
+mod-date: 2022-10-11
 ---
 
 <ul class="toc">
@@ -216,10 +216,11 @@ Krems Research Forschungsgesellschaft, Austria
 ## reviewing
 
 2022
-: IEEE VIS Short Papers<sup>PC</sup>
-: Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup>
-: Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup>
-: ACM Audio Mostly<sup>PC</sup>
+: IEEE VIS Short Papers<sup>PC</sup> &ndash; 1 paper
+: Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup> &ndash; 2 papers
+: Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup> &ndash; 1 paper
+: ACM Audio Mostly<sup>PC</sup> &ndash; 2 papers
+: Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup>
 : IEEE VIS Full Papers<sup>E</sup>
 : Eurographics Conference on Visualization (EuroVis)<sup>E</sup>
 : Elsevier Computers & Graphics<sup>E</sup>
@@ -345,6 +346,12 @@ E...external reviewer/invitation from editor or programme committee member<br />
 [top](#top){: .top_link}
 
 ## conference and workshop organization {#events_organized}
+
+10/2022
+: **Application Spotlight on Audio-Visual Analytics: Potential Applications of Combined Sonifications and Visualizations**{: .project} \\
+at [IEEE VIS 2022](http://ieeevis.org/year/2022/info/spotlights#spot2){: .external} \\
+[workshop webpage](https://audio-visual-analytics.github.io/vis2022.html){: .external} \\
+*Member of the organizing committee, webmaster*
 
 06/2022
 : **Workshop on Audio-Visual Analytics**{: .project} \\

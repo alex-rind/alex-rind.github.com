@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2022-06-23
+mod-date: 2022-10-11
 ---
 
 <ul class="toc">
@@ -133,8 +133,16 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 
 ## Refereed Conference &amp; Workshop Articles {#inproc}
 
+Rind, A., Slijepčević, S., Zeppelzauer, M., Unglaube, F., Kranzl A. &amp; Horsak B.:
+__[Trustworthy Visual Analytics in Clinical Gait Analysis: A Case Study for Patients with Cerebral Palsy](https://arxiv.org/pdf/2208.05232){: .pdf}__,
+_Proc. 2022 IEEE Workshop on TRust and EXpertise in Visual Analytics (TREX),_
+IEEE, 2022.
+<!-- doi:[10.2312/evs.20221095](https://doi.org/10.2312/evs.20221095){: .external} -->
+Preprint available as [arXiv:2208.05232 [cs.HC]](https://arxiv.org/abs/2208.05232){: .external}
+forthcoming.
+
 Enge, K., Rind, A., Iber, M., Höldrich, R. &amp; Aigner, W.:
-__[Towards Multimodal Exploratory Data Analysis: SoniScope as a Prototypical Implementation](https://arind.students.fhstp.ac.at/Enge_et_al_2022_SoniScope.pdf){: .pdf}__,
+__[Towards Multimodal Exploratory Data Analysis: SoniScope as a Prototypical Implementation](https://phaidra.fhstp.ac.at/download/o:4883){: .pdf}__,
 Höllt, T., Aigner, W. &amp; Agus, M. (eds.), _Proc. Eurographics Conf. Visualization (EuroVis) &ndash; Short Papers,_
 p.&nbsp;67-71, Eurographics, 2022.
 doi:[10.2312/evs.20221095](https://doi.org/10.2312/evs.20221095){: .external}
@@ -202,7 +210,7 @@ p.&nbsp;47-52, CEUR-WS.org, 2016.
 uri:<http://ceur-ws.org/Vol-1734/fmt-proceedings-2016-paper6.pdf>{: .external}
 
 Blumenstein, K., Niederer, C., Wagner, M., Schmiedl, G., Rind, A. &amp; Aigner, W.:
-__[Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space](http://ifs.tuwien.ac.at/~rind/preprint/mobile-evaluation-beliv-postprint.pdf){: .pdf}__,
+__[Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space](https://phaidra.fhstp.ac.at/download/o:4873){: .pdf}__,
 _Proceedings of 2016 Workshop on Beyond Time And Errors: Novel Evaluation Methods For Visualization (BELiV),_
 p.&nbsp;125-132, Baltimore, MD, ACM, 2016.
 doi:[10.1145/2993901.2993906](http://dx.doi.org/10.1145/2993901.2993906){: .external}
@@ -514,6 +522,12 @@ No. HCIL-2010-19, <em>University of Maryland</em>, College Park, 2010.</p>
 [top](#top){: .top_link}
 
 ## Dissemination to a General Audience {#general}
+
+Rind, A.; Aigner, W.; Böck, J; Grassinger, F.; Oliveira, V. A. de. J.; Wu, H.-Y. &amp; Zauchinger, M.:
+__[Daten erlebbar machen: Wie Daten sichtbar, hörbar und greifbar werden](https://www.lifeisscience.at/daten-erlebbar-machen-wie-daten-sichtbar-hoerbar-und-greifbar-werden/){: .external}__,
+_European Researchers' Night,_
+St. Pölten, Austria, September 30, 2022.
+[official website](https://www.lifeisscience.at/daten-erlebbar-machen-wie-daten-sichtbar-hoerbar-und-greifbar-werden/){: .external}
 
 Rind, A.; Böck, J; Boucher, M.; Grassinger, F.; Kirchknopf, A.; Stoiber, C. &amp; Stumpe, E.:
 __[Wie können wir Daten erlebbar machen?](https://langenachtderforschung.at/station/1213){: .external}__,
