@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2022-10-11
+mod-date: 2022-10-31
 ---
 
 <ul class="toc">
@@ -136,8 +136,8 @@ doi:[10.1177/1473871615621602](http://dx.doi.org/10.1177/1473871615621602){: .ex
 Rind, A., Slijepčević, S., Zeppelzauer, M., Unglaube, F., Kranzl A. &amp; Horsak B.:
 __[Trustworthy Visual Analytics in Clinical Gait Analysis: A Case Study for Patients with Cerebral Palsy](https://arxiv.org/pdf/2208.05232){: .pdf}__,
 _Proc. 2022 IEEE Workshop on TRust and EXpertise in Visual Analytics (TREX),_
-IEEE, 2022.
-<!-- doi:[10.2312/evs.20221095](https://doi.org/10.2312/evs.20221095){: .external} -->
+p.&nbsp;7-15, IEEE, 2022.
+doi:[10.1109/TREX57753.2022.00006](https://doi.org/10.1109/TREX57753.2022.00006){: .external}
 Preprint available as [arXiv:2208.05232 [cs.HC]](https://arxiv.org/abs/2208.05232){: .external}
 forthcoming.
 
