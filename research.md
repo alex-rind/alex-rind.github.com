@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2022-10-31
+mod-date: 2022-12-09
 ---
 
 <ul class="toc">
@@ -35,14 +35,14 @@ NÖ Forschungs- und Bildungsges.m.b.H. (NFB), FTI \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences, Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
 [project webpage](https://research.fhstp.ac.at/en/projects/regiobiograph){: .external}
 
-since 11/2018
+11/2018 &ndash; 07/2022
 : [![ReMoCap-Lab](img/remocap_logo-112.png){: align='right'}](https://research.fhstp.ac.at/en/projects/remocap-lab)
 **ReMoCap-Lab&mdash;Laboratory for Capturing Motion and Augmenting Environment in Motor Rehabilitation**{: .project} \\
 Austrian Federal Ministry for Digital And Economic Affairs (BMDW), COIN \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences, Center for Digital Health Innovation](https://cdhi.fhstp.ac.at/en){: .external}, Austria \\
 [project webpage](https://research.fhstp.ac.at/en/projects/remocap-lab){: .external}
 
-since 05/2020
+05/2020 &ndash; 06/2022
 : **Egozentrierte Netzwerkkarte digital!**{: .project} \\
 Federal Ministry for Digital and Economic Affairs (BMDW), Digital Innovation Hub DIH-OST \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences, Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
@@ -204,12 +204,12 @@ Krems Research Forschungsgesellschaft, Austria
 
 ## scientific collaborators
 
-* [Silvia Miksch](http://www.ifs.tuwien.ac.at/~silvia/){: .external}, TU Wien, Austria
-* [Wolfgang Aigner](http://mc.fhstp.ac.at/people/wolfgang-aigner){: .external}, St. Pölten University of Applied Sciences, Austria
-* [Tim Lammarsch](http://www.lammarsch.de/publications.html){: .external}, (now) independent scholar and consultant, Austria
+* [Silvia Miksch](https://www.cvast.tuwien.ac.at/team/silvia-miksch){: .external}, TU Wien, Austria
+* [Wolfgang Aigner](https://icmt.fhstp.ac.at/en/team/wolfgang-aigner){: .external}, St. Pölten University of Applied Sciences, Austria
+* Tim Lammarsch, (now) independent scholar and consultant, Austria
 * Catherine Plaisant & Ben Shneiderman, University of Maryland, USA
-* Natalia & Gennady Andrienko, Fraunhofer Institute IAIS, Germany
-* Niklas Rönnberg, Linköping University, Sweden
+* [Natalia & Gennady Andrienko](http://geoanalytics.net/and/){: .external}, Fraunhofer Institute IAIS, Germany
+* [Niklas Rönnberg](https://weber.itn.liu.se/~nikro27/){: .external}, Linköping University, Sweden
 
 [top](#top){: .top_link}
 
@@ -228,7 +228,7 @@ Krems Research Forschungsgesellschaft, Austria
 : IEEE VIS Full Papers<sup>E</sup>
 : Eurographics Conference on Visualization (EuroVis)<sup>E</sup>
 : Eurographics/Wiley Computer Graphics Forum<sup>E</sup>
-: Elsevier Computers & Graphics<sup>E</sup>
+: Elsevier Computers & Graphics, Special Section EuroVA<sup>E</sup> &ndash; 2 papers
 
 2021
 : IEEE VIS Short Papers<sup>PC</sup> &ndash; 2 papers
