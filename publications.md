@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2022-10-31
+mod-date: 2022-12-19
 ---
 
 <ul class="toc">
@@ -137,9 +137,9 @@ Rind, A., Slijepčević, S., Zeppelzauer, M., Unglaube, F., Kranzl A. &amp; Hors
 __[Trustworthy Visual Analytics in Clinical Gait Analysis: A Case Study for Patients with Cerebral Palsy](https://arxiv.org/pdf/2208.05232){: .pdf}__,
 _Proc. 2022 IEEE Workshop on TRust and EXpertise in Visual Analytics (TREX),_
 p.&nbsp;7-15, IEEE, 2022.
-doi:[10.1109/TREX57753.2022.00006](https://doi.org/10.1109/TREX57753.2022.00006){: .external}
-Preprint available as [arXiv:2208.05232 [cs.HC]](https://arxiv.org/abs/2208.05232){: .external}
-forthcoming.
+doi:[10.1109/TREX57753.2022.00006](https://doi.org/10.1109/TREX57753.2022.00006){: .external} \\
+Preprint available as [arXiv:2208.05232 [cs.HC]](https://arxiv.org/abs/2208.05232){: .external} \\
+[open-access screenshot](https://zenodo.org/record/7442945){: .external}
 
 Enge, K., Rind, A., Iber, M., Höldrich, R. &amp; Aigner, W.:
 __[Towards Multimodal Exploratory Data Analysis: SoniScope as a Prototypical Implementation](https://phaidra.fhstp.ac.at/download/o:4883){: .pdf}__,
