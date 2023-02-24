@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2022-12-09
+mod-date: 2023-02-24
 ---
 
 <ul class="toc">
@@ -16,7 +16,8 @@ mod-date: 2022-12-09
 ## funded research projects {#funded}
 
 since 04/2022
-: **TransSoDia&mdash;Transnational and Digital Learning and Teaching in Cooperative Social Diagnostics**{: .project} \\
+: [![TransSoDia](img/TransSoDia_Logo_Farbe_S_112.png){: align='right'}](https://research.fhstp.ac.at/en/projects/transsodia-transnational-and-digital-learning-and-teaching-in-cooperative-social-diagnostics)
+**TransSoDia&mdash;Transnational and Digital Learning and Teaching in Cooperative Social Diagnostics**{: .project} \\
 EU Erasmus+ \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences](https://www.fhstp.ac.at/){: .external}, Austria \\
 [project webpage](https://research.fhstp.ac.at/en/projects/transsodia-transnational-and-digital-learning-and-teaching-in-cooperative-social-diagnostics){: .external}
@@ -206,7 +207,7 @@ Krems Research Forschungsgesellschaft, Austria
 
 * [Silvia Miksch](https://www.cvast.tuwien.ac.at/team/silvia-miksch){: .external}, TU Wien, Austria
 * [Wolfgang Aigner](https://icmt.fhstp.ac.at/en/team/wolfgang-aigner){: .external}, St. Pölten University of Applied Sciences, Austria
-* Tim Lammarsch, (now) independent scholar and consultant, Austria
+* [Tim Lammarsch](https://www.mosbach.dhbw.de/dhbw-mosbach/who-is-who/prof-dr-tim-lammarsch){: .external}, DHBW Mosbach, Germany
 * Catherine Plaisant & Ben Shneiderman, University of Maryland, USA
 * [Natalia & Gennady Andrienko](http://geoanalytics.net/and/){: .external}, Fraunhofer Institute IAIS, Germany
 * [Niklas Rönnberg](https://weber.itn.liu.se/~nikro27/){: .external}, Linköping University, Sweden
@@ -216,8 +217,11 @@ Krems Research Forschungsgesellschaft, Austria
 ## reviewing
 
 2023
-: Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup>
+: Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup>
+: Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup> &ndash; 1 paper
 : ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup>
+: SAGE Information Visualization<sup>E</sup>
+: Forschungsforum der &ouml;sterreichischen Fachhochschulen (FFH)<sup>PC</sup>
 
 2022
 : IEEE VIS Short Papers<sup>PC</sup> &ndash; 1 paper
