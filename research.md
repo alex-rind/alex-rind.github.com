@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2023-02-24
+mod-date: 2023-04-25
 ---
 
 <ul class="toc">
@@ -217,11 +217,15 @@ Krems Research Forschungsgesellschaft, Austria
 ## reviewing
 
 2023
-: Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup>
+: Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup> &ndash; 3 papers
+: Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup>
 : Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup> &ndash; 1 paper
+: IEEE VIS Full Papers<sup>E</sup>
 : ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup>
 : SAGE Information Visualization<sup>E</sup>
-: Forschungsforum der &ouml;sterreichischen Fachhochschulen (FFH)<sup>PC</sup>
+: Eurographics/Wiley Computer Graphics Forum<sup>E</sup>
+: Elsevier Computers & Graphics, Special Section EuroVA<sup>E</sup>
+: Forschungsforum der &ouml;sterreichischen Fachhochschulen (FFH)<sup>PC</sup> &ndash; 2 papers
 
 2022
 : IEEE VIS Short Papers<sup>PC</sup> &ndash; 1 paper
