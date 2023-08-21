@@ -218,7 +218,7 @@ Krems Research Forschungsgesellschaft, Austria
 
 2023
 : Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup> &ndash; 3 papers
-: Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup>
+: Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup> &ndash; 1 paper
 : Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup> &ndash; 1 paper
 : IEEE VIS Full Papers<sup>E</sup> &ndash; 2 papers
 : IEEE VIS Short Papers<sup>E</sup> &ndash; 1 paper
