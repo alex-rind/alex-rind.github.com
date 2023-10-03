@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2023-08-21
+mod-date: 2023-10-03
 ---
 
 <ul class="toc">
@@ -529,14 +529,20 @@ No. HCIL-2010-19, <em>University of Maryland</em>, College Park, 2010.</p>
 
 ## Dissemination to a General Audience {#general}
 
+Rind, A.; Enge, K. &amp;  Iber, M.:
+__SoniVis: Datenanalyse mit Augen und Ohren__,
+_European Researchers' Night,_
+Graz, Austria, September 29, 2023.
+[official website](https://www.lifeisscience.at/sonivis-datenanalyse-mit-augen-und-ohren/){: .external}
+
 Rind, A.; Aigner, W.; Böck, J; Grassinger, F.; Oliveira, V. A. de. J.; Wu, H.-Y. &amp; Zauchinger, M.:
-__[Daten erlebbar machen: Wie Daten sichtbar, hörbar und greifbar werden](https://www.lifeisscience.at/daten-erlebbar-machen-wie-daten-sichtbar-hoerbar-und-greifbar-werden/){: .external}__,
+__Daten erlebbar machen: Wie Daten sichtbar, hörbar und greifbar werden__,
 _European Researchers' Night,_
 St. Pölten, Austria, September 30, 2022.
 [official website](https://www.lifeisscience.at/daten-erlebbar-machen-wie-daten-sichtbar-hoerbar-und-greifbar-werden/){: .external}
 
 Rind, A.; Böck, J; Boucher, M.; Grassinger, F.; Kirchknopf, A.; Stoiber, C. &amp; Stumpe, E.:
-__[Wie können wir Daten erlebbar machen?](https://langenachtderforschung.at/station/1213){: .external}__,
+__Wie können wir Daten erlebbar machen?__,
 _Lange Nacht der Forschung,_
 St. Pölten, Austria, May 20, 2022.
 [official website](https://langenachtderforschung.at/station/1213){: .external}
