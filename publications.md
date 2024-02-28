@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2023-10-03
+mod-date: 2023-10-22
 ---
 
 <ul class="toc">
@@ -27,7 +27,7 @@ mod-date: 2023-10-03
 Enge, K., Rind, A., Iber, M., Höldrich, R. &amp; Aigner, W.:
 __[Towards a unified terminology for sonification and visualization](https://link.springer.com/content/pdf/10.1007/s00779-023-01720-5.pdf){: .pdf}__,
 _Personal and Ubiquitous Computing, Special Issue &quot;Audio Mostly 2021&quot;,_
-Online first, 15 pp., 2023.
+Vol. 27, No. 5, p. 1949–1963, 2023.
 doi:[10.1007/s00779-023-01720-5](https://doi.org/10.1007/s00779-023-01720-5){: .external}
 
 Stoiber, C.; Rind, A.; Grassinger, F.; Gutounig, R.; Goldgruber, E.; Sedlmair, M.; Emrich; S. &amp; Aigner; W.:

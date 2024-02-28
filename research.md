@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2023-06-06
+mod-date: 2024-02-28
 ---
 
 <ul class="toc">
@@ -14,6 +14,13 @@ mod-date: 2023-06-06
 </ul>
 
 ## funded research projects {#funded}
+
+since 01/2024
+: [![Industrial Data Lab](img/JRC_IDL_Visual_112.png){: align='right'}](https://industrial-data-lab.fhstp.ac.at/)
+**Industrial Data Lab&mdash;Josef Ressel Center for Knowledge-Assisted Visual Analytics for Industrial Manufacturing Data**{: .project} \\
+Josef Ressel Zentrum der CDG \\
+[St.&nbsp;P&ouml;lten University of Applied Sciences](https://www.fhstp.ac.at/){: .external}, Austria \\
+[project webpage](https://industrial-data-lab.fhstp.ac.at/){: .external}
 
 since 04/2022
 : [![TransSoDia](img/TransSoDia_Logo_Farbe_S_112.png){: align='right'}](https://research.fhstp.ac.at/en/projects/transsodia-transnational-and-digital-learning-and-teaching-in-cooperative-social-diagnostics)
@@ -29,7 +36,7 @@ Austrian Science Fund (FWF) \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences, Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
 [project webpage](https://research.fhstp.ac.at/en/projects/sonivis-data-analytics-using-sonification-and-visualization){: .external}
 
-since 01/2020
+01/2020 &ndash; 03/2024
 : [![RegioBioGraph](img/regiobiograph-logo_112.png){: align='right'}](https://research.fhstp.ac.at/en/projects/regiobiograph)
 **RegioBioGraph**{: .project} \\
 NÖ Forschungs- und Bildungsges.m.b.H. (NFB), FTI \\
@@ -216,6 +223,14 @@ Krems Research Forschungsgesellschaft, Austria
 
 ## reviewing
 
+2024
+: Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup>
+: IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup>
+: Eurographics/Wiley Computer Graphics Forum<sup>E</sup>
+: Journal of the American Medical Informatics Association, Special Issue VAHC
+
+<!-- : AVI Workshop on Visualization for Interactive Spatio-Temporal Resource Allocation Data (VISTA)<sup>PC</sup> -->
+
 2023
 : Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup> &ndash; 3 papers
 : Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup> &ndash; 1 paper
@@ -223,10 +238,10 @@ Krems Research Forschungsgesellschaft, Austria
 : IEEE VIS Full Papers<sup>E</sup> &ndash; 2 papers
 : IEEE VIS Short Papers<sup>E</sup> &ndash; 1 paper
 : ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup>
-: IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup>
+: IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup> &ndash; 2 papers
 : SAGE Information Visualization<sup>E</sup>
 : Eurographics/Wiley Computer Graphics Forum<sup>E</sup>
-: Elsevier Computers & Graphics, Special Section EuroVA<sup>E</sup>
+: Elsevier Computers & Graphics, Special Section EuroVA<sup>E</sup> &ndash; 2 papers
 : Forschungsforum der &ouml;sterreichischen Fachhochschulen (FFH)<sup>PC</sup> &ndash; 2 papers
 
 2022
