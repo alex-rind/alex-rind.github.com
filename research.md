@@ -16,7 +16,7 @@ mod-date: 2024-02-28
 ## funded research projects {#funded}
 
 since 01/2024
-: [![Industrial Data Lab](img/JRC_IDL_Visual_112.png){: align='right'}](https://industrial-data-lab.fhstp.ac.at/)
+: [![Industrial Data Lab](img/JRC_IDL_Visual_80.png){: align='right'}](https://industrial-data-lab.fhstp.ac.at/)
 **Industrial Data Lab&mdash;Josef Ressel Center for Knowledge-Assisted Visual Analytics for Industrial Manufacturing Data**{: .project} \\
 Josef Ressel Zentrum der CDG \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences](https://www.fhstp.ac.at/){: .external}, Austria \\
