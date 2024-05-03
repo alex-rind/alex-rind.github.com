@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2023-10-22
+mod-date: 2024-05-03
 ---
 
 <ul class="toc">
@@ -23,6 +23,21 @@ mod-date: 2023-10-22
 </ul>
 
 ## Refereed Journal Articles {#article}
+
+Enge, K., Elmquist, E., Caiola, V., Rönnberg, N., Rind, A., Iber, M., Lenzi, S., Lan, F., Höldrich, R. &amp; Aigner, W.:
+__[Open Your Ears and Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization](https://arxiv.org/pdf/2402.16558){: .pdf}__,
+_Computer Graphics Forum, Special Issue &quot;EuroVis 2024&quot;,_
+forthcoming, 2024. \\
+<!-- Vol. 43, No. 3, p. , 2024. -->
+<!-- doi:[10.1007/s00779-023-01720-5](https://doi.org/10.1007/s00779-023-01720-5){: .external} -->
+Preprint available as [arXiv:2402.16558 [cs.HC]](https://arxiv.org/abs/2402.16558){: .external}
+
+Elmquist, E., Enge, K., Rind, A., Navarra, C., Höldrich, R., Iber, M., Bock, A., Ynnerman, A., Aigner, W. &amp; Rönnberg, N.:
+__[Parallel Chords: an audio-visual analytics design for parallel coordinates](https://link.springer.com/content/pdf/10.1007/s00779-024-01795-8.pdf){: .pdf}__,
+_Personal and Ubiquitous Computing_
+early access/published online before print May 3, 2024.
+<!-- Vol. 27, No. 5, p. 1949–1963, 2023. -->
+doi:[10.1007/s00779-024-01795-8](https://doi.org/10.1007/s00779-024-01795-8){: .external}
 
 Enge, K., Rind, A., Iber, M., Höldrich, R. &amp; Aigner, W.:
 __[Towards a unified terminology for sonification and visualization](https://link.springer.com/content/pdf/10.1007/s00779-023-01720-5.pdf){: .pdf}__,
@@ -442,6 +457,12 @@ VRVis, Vienna, Austria, June 6, 2012.
 [top](#top){: .top_link}
 
 ## Miscellaneous &amp; German Articles {#misc}
+
+Rind, A., Enge, K., Iber, M., Rönnberg, N., Lenzi, S., Elmquist, E., Caiola, V., Lan, F., Höldrich, R. &amp; Aigner, W.:
+__Integrating Sonification and Visualization—But Why?__,
+_Proc. EuroVis Panels,_
+forthcoming, 5 pages,  EuroGraphics, 2024.
+<!-- doi:[10.1145/3531073.3535252](https://dx.doi.org/10.1145/3531073.3535252){: .external} -->
 
 Aigner, W., Enge, K., Iber, M., Rind, A., Elmqvist, N., Höldrich, R., Rönnberg, N. &amp; Walker, B.N.:
 __[Workshop on Audio-Visual Analytics](https://zenodo.org/record/6624212/files/Aigner_et_al_2022_Workshop_on_Audio-Visual_Analytics.pdf?download=1){: .pdf}__,

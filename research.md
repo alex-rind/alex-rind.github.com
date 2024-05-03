@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2024-02-28
+mod-date: 2024-05-03
 ---
 
 <ul class="toc">
@@ -18,7 +18,7 @@ mod-date: 2024-02-28
 since 01/2024
 : [![Industrial Data Lab](img/JRC_IDL_Visual_80.png){: align='right'}](https://industrial-data-lab.fhstp.ac.at/)
 **Industrial Data Lab&mdash;Josef Ressel Center for Knowledge-Assisted Visual Analytics for Industrial Manufacturing Data**{: .project} \\
-Josef Ressel Zentrum der CDG \\
+Christian Doppler Research Association \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences](https://www.fhstp.ac.at/){: .external}, Austria \\
 [project webpage](https://industrial-data-lab.fhstp.ac.at/){: .external}
 
@@ -224,10 +224,12 @@ Krems Research Forschungsgesellschaft, Austria
 ## reviewing
 
 2024
-: Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup>
+: IEEE VIS Short Papers<sup>PC</sup>
+: Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup> &ndash; 3 papers
+: Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup>
 : IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup>
 : Eurographics/Wiley Computer Graphics Forum<sup>E</sup>
-: Journal of the American Medical Informatics Association, Special Issue VAHC
+: Journal of the American Medical Informatics Association, Special Issue VAHC<sup>E</sup>
 
 <!-- : AVI Workshop on Visualization for Interactive Spatio-Temporal Resource Allocation Data (VISTA)<sup>PC</sup> -->
 
