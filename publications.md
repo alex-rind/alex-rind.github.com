@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2024-05-03
+mod-date: 2024-06-05
 ---
 
 <ul class="toc">
@@ -25,7 +25,7 @@ mod-date: 2024-05-03
 ## Refereed Journal Articles {#article}
 
 Enge, K., Elmquist, E., Caiola, V., Rönnberg, N., Rind, A., Iber, M., Lenzi, S., Lan, F., Höldrich, R. &amp; Aigner, W.:
-__[Open Your Ears and Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization](https://arxiv.org/pdf/2402.16558){: .pdf}__,
+__[Open Your Ears and Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization](https://phaidra.fhstp.ac.at/download/o:5541){: .pdf}__,
 _Computer Graphics Forum, Special Issue &quot;EuroVis 2024&quot;,_
 forthcoming, 2024. \\
 <!-- Vol. 43, No. 3, p. , 2024. -->
@@ -459,10 +459,10 @@ VRVis, Vienna, Austria, June 6, 2012.
 ## Miscellaneous &amp; German Articles {#misc}
 
 Rind, A., Enge, K., Iber, M., Rönnberg, N., Lenzi, S., Elmquist, E., Caiola, V., Lan, F., Höldrich, R. &amp; Aigner, W.:
-__Integrating Sonification and Visualization—But Why?__,
-_Proc. EuroVis Panels,_
-forthcoming, 5 pages,  EuroGraphics, 2024.
-<!-- doi:[10.1145/3531073.3535252](https://dx.doi.org/10.1145/3531073.3535252){: .external} -->
+__[Integrating Sonification and Visualization—But Why?](https://phaidra.fhstp.ac.at/download/o:5552){: .pdf}__,
+Schulz H.-J. &amp; Isenberg, T. (eds.), _Proc. EuroVis Panels,_
+5 pages,  EuroGraphics, 2024.
+doi:[10.2312/evt.20241100](https://dx.doi.org/10.2312/evt.20241100){: .external}
 
 Aigner, W., Enge, K., Iber, M., Rind, A., Elmqvist, N., Höldrich, R., Rönnberg, N. &amp; Walker, B.N.:
 __[Workshop on Audio-Visual Analytics](https://zenodo.org/record/6624212/files/Aigner_et_al_2022_Workshop_on_Audio-Visual_Analytics.pdf?download=1){: .pdf}__,
@@ -549,6 +549,29 @@ No. HCIL-2010-19, <em>University of Maryland</em>, College Park, 2010.</p>
 [top](#top){: .top_link}
 
 ## Dissemination to a General Audience {#general}
+
+Rind, A.; Blasinger, A.; Enge, K.; Grassinger, F.; Oliveira, V. A. de. J. &amp; Zauchinger, M.:
+__Wie können wir Daten erlebbar machen?__,
+_Lange Nacht der Forschung,_
+St. Pölten, Austria, May 24, 2024.
+[official website](https://langenachtderforschung.at/station/1213){: .external}
+
+Brandstetter, M.; Loidl, H.; Schwital, C.; Goger, K.; Engel-Unterberger, C. & Rind, A.:
+__Biografische Diagnostik und Biografiearbeit mit digitalen Tools__,
+_Social Work Science Day,_
+St. Pölten/virtual, May 16, 2024.
+[official website](https://swsd.fhstp.ac.at/tagungsdokumentation/social-work-science-day-2024/workshops-2024){: .external}
+
+Marquardsen, K.; Modrow, K.; Schwital, C.; Goger, K.; Engel-Unterberger, C. & Rind, A.:
+__Dynamik sozialer Netzwerke und deren Bedeutung in der Sozialen Arbeit__,
+_Social Work Science Day,_
+St. Pölten/virtual, May 16, 2024.
+[official website](https://swsd.fhstp.ac.at/tagungsdokumentation/social-work-science-day-2024/workshops-2024){: .external}
+
+Wagner, M.; Böck, A.; Größbacher, S. &amp; Rind, A.:
+__Industrial Data Lab__,
+_Digitech Corner/AIMS 5.0 General Asssembly,_
+St. Pölten, Austria, May 16, 2024.
 
 Rind, A.; Enge, K. &amp;  Iber, M.:
 __SoniVis: Datenanalyse mit Augen und Ohren__,
