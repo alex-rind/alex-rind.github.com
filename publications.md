@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2024-06-05
+mod-date: 2024-06-17
 ---
 
 <ul class="toc">
@@ -27,9 +27,9 @@ mod-date: 2024-06-05
 Enge, K., Elmquist, E., Caiola, V., Rönnberg, N., Rind, A., Iber, M., Lenzi, S., Lan, F., Höldrich, R. &amp; Aigner, W.:
 __[Open Your Ears and Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization](https://phaidra.fhstp.ac.at/download/o:5541){: .pdf}__,
 _Computer Graphics Forum, Special Issue &quot;EuroVis 2024&quot;,_
-forthcoming, 2024. \\
-<!-- Vol. 43, No. 3, p. , 2024. -->
-<!-- doi:[10.1007/s00779-023-01720-5](https://doi.org/10.1007/s00779-023-01720-5){: .external} -->
+<!-- forthcoming, 2024. -->
+Vol. 43, No. 3, e15114, 30 pages, 2024.
+doi:[10.1111/cgf.15114](https://doi.org/10.1111/cgf.15114){: .external} \\
 Preprint available as [arXiv:2402.16558 [cs.HC]](https://arxiv.org/abs/2402.16558){: .external}
 
 Elmquist, E., Enge, K., Rind, A., Navarra, C., Höldrich, R., Iber, M., Bock, A., Ynnerman, A., Aigner, W. &amp; Rönnberg, N.:
