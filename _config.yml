@@ -23,9 +23,6 @@ navigation:
    url: /publications.html
  - text: Research
    url: /research.html
- - text: Resources
-   url: http://www.ifs.tuwien.ac.at/~rind/w/
-   class: external
 
 # GitHub set these settings anyway
 safe: true

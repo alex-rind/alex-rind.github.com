@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2024-05-03
+mod-date: 2024-11-15
 ---
 
 <ul class="toc">
@@ -14,6 +14,13 @@ mod-date: 2024-05-03
 </ul>
 
 ## funded research projects {#funded}
+
+since 09/2024
+: [![GreenTouch](img/greentouch_112.png){: align='right'}](https://research.fhstp.ac.at/en/projects/greentouch-xr-in-ergotherapy-for-the-ecological-handprint)
+**GreenTouch&mdash;XR in Ergotherapy for the Ecological Handprint**{: .project} \\
+Austrian Research Promotion Agency (FFG) \\
+[St.&nbsp;P&ouml;lten University of Applied Sciences](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
+[project webpage](https://research.fhstp.ac.at/en/projects/greentouch-xr-in-ergotherapy-for-the-ecological-handprint){: .external}
 
 since 01/2024
 : [![Industrial Data Lab](img/JRC_IDL_Visual_80.png){: align='right'}](https://industrial-data-lab.fhstp.ac.at/)
@@ -224,14 +231,12 @@ Krems Research Forschungsgesellschaft, Austria
 ## reviewing
 
 2024
-: IEEE VIS Short Papers<sup>PC</sup>
+: IEEE VIS Short Papers<sup>PC</sup> &ndash; 4 papers
 : Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup> &ndash; 3 papers
 : Workshop on Big Data Visual Exploration and Analytics (BigVis)<sup>PC</sup>
-: IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup>
-: Eurographics/Wiley Computer Graphics Forum<sup>E</sup>
+: IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup> &ndash; 2 papers
+: Eurographics/Wiley Computer Graphics Forum<sup>E</sup> &ndash; 2 papers
 : Journal of the American Medical Informatics Association, Special Issue VAHC<sup>E</sup>
-
-<!-- : AVI Workshop on Visualization for Interactive Spatio-Temporal Resource Allocation Data (VISTA)<sup>PC</sup> -->
 
 2023
 : Eurographics Workshop on Visual Analytics (EuroVA)<sup>PC</sup> &ndash; 3 papers
@@ -240,7 +245,7 @@ Krems Research Forschungsgesellschaft, Austria
 : IEEE VIS Full Papers<sup>E</sup> &ndash; 2 papers
 : IEEE VIS Short Papers<sup>E</sup> &ndash; 1 paper
 : ACM Conference on Human Factors in Computing Systems (CHI)<sup>E</sup>
-: IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup> &ndash; 2 papers
+: IEEE Transactions on Visualization and Computer Graphics (TVCG)<sup>E</sup>
 : SAGE Information Visualization<sup>E</sup>
 : Eurographics/Wiley Computer Graphics Forum<sup>E</sup>
 : Elsevier Computers & Graphics, Special Section EuroVA<sup>E</sup> &ndash; 2 papers
@@ -378,6 +383,11 @@ E...external reviewer/invitation from editor or programme committee member<br />
 [top](#top){: .top_link}
 
 ## conference and workshop organization {#events_organized}
+
+10/2025
+: **IEEE VIS**{: .project}
+[conference webpage](https://ieeevis.org/){: .external} \\
+*Technology Co-Chair*
 
 10/2022
 : **Application Spotlight on Audio-Visual Analytics: Potential Applications of Combined Sonifications and Visualizations**{: .project} \\

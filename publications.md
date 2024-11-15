@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2024-06-17
+mod-date: 2024-11-15
 ---
 
 <ul class="toc">
@@ -33,10 +33,10 @@ doi:[10.1111/cgf.15114](https://doi.org/10.1111/cgf.15114){: .external} \\
 Preprint available as [arXiv:2402.16558 [cs.HC]](https://arxiv.org/abs/2402.16558){: .external}
 
 Elmquist, E., Enge, K., Rind, A., Navarra, C., Höldrich, R., Iber, M., Bock, A., Ynnerman, A., Aigner, W. &amp; Rönnberg, N.:
-__[Parallel Chords: an audio-visual analytics design for parallel coordinates](https://link.springer.com/content/pdf/10.1007/s00779-024-01795-8.pdf){: .pdf}__,
+__[Parallel Chords: an audio-visual analytics design for parallel coordinates](https://phaidra-services.fhstp.ac.at/api/object/o:5630/download){: .pdf}__,
 _Personal and Ubiquitous Computing_
-early access/published online before print May 3, 2024.
-<!-- Vol. 27, No. 5, p. 1949–1963, 2023. -->
+<!-- early access/published online before print May 3, 2024.-->
+Vol. 28, p. 657–676, 2024.
 doi:[10.1007/s00779-024-01795-8](https://doi.org/10.1007/s00779-024-01795-8){: .external}
 
 Enge, K., Rind, A., Iber, M., Höldrich, R. &amp; Aigner, W.:
