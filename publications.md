@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2024-11-15
+mod-date: 2024-11-29
 ---
 
 <ul class="toc">
@@ -458,11 +458,31 @@ VRVis, Vienna, Austria, June 6, 2012.
 
 ## Miscellaneous &amp; German Articles {#misc}
 
+Rind, A., & Böck, J.,
+__easyNWK: a digital tool for ego-centered network diagnostics in social work__.
+Abstract/presentation at _6th International Conference on Creative\Media/Technologies (IConCMT),_
+St. Poelten, Nov., 2024.
+
+Böck, J. & Rind, A.:
+__easyBiograph: A digital tool for biographical diagnostics in social work__,
+Abstract/presentation at _6th International Conference on Creative\Media/Technologies (IConCMT),_
+St. Poelten, Nov., 2024.
+
 Rind, A., Enge, K., Iber, M., Rönnberg, N., Lenzi, S., Elmquist, E., Caiola, V., Lan, F., Höldrich, R. &amp; Aigner, W.:
 __[Integrating Sonification and Visualization—But Why?](https://phaidra.fhstp.ac.at/download/o:5552){: .pdf}__,
 Schulz H.-J. &amp; Isenberg, T. (eds.), _Proc. EuroVis Panels,_
 5 pages,  EuroGraphics, 2024.
 doi:[10.2312/evt.20241100](https://dx.doi.org/10.2312/evt.20241100){: .external}
+
+Böck, J., Rind, A., & Zahorka, F.,
+__Personnel Fluctuation in Austrian Emergency Medical Services: A Data Visualisation Approach__,
+Abstract/presentation at _5th International Conference on Creative\Media/Technologies (IConCMT),_
+St. Poelten, Nov., 2023.
+
+Rind, A., Aigner, W., Boucher, M., Grassinger, F., Größbacher, S., Popp, L., & Pflegerl, J.,
+__Data-Driven Infographics for Counselling Interviews with Family Caregivers in Dementia Care__
+Abstract/presentation at _5th International Conference on Creative\Media/Technologies (IConCMT),_
+St. Poelten, Nov., 2023.
 
 Aigner, W., Enge, K., Iber, M., Rind, A., Elmqvist, N., Höldrich, R., Rönnberg, N. &amp; Walker, B.N.:
 __[Workshop on Audio-Visual Analytics](https://zenodo.org/record/6624212/files/Aigner_et_al_2022_Workshop_on_Audio-Visual_Analytics.pdf?download=1){: .pdf}__,

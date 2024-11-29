@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2024-11-15
+mod-date: 2024-11-29
 ---
 
 <ul class="toc">
@@ -229,6 +229,9 @@ Krems Research Forschungsgesellschaft, Austria
 [top](#top){: .top_link}
 
 ## reviewing
+
+2025
+: EuroVis Short Papers<sup>PC</sup>
 
 2024
 : IEEE VIS Short Papers<sup>PC</sup> &ndash; 4 papers
