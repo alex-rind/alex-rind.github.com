@@ -1,6 +1,6 @@
 ---
 layout: default
-mod-date: 2024-05-03
+mod-date: 2024-12-12
 ---
 
 I am a scientific researcher in Visual Analytics and Information Visualization at the
@@ -52,10 +52,11 @@ at the Vienna University of Technology.
 	class="external">Human-Centered Design</a>
 	</li>
 	<li><a href="http://dx.doi.org/10.1561/1100000039" class="external">Visualization of Electronic Health Records</a></li>
-	<li><a href="http://dx.doi.org/10.2312/eurovisstar.20151114" class="external">Malicious Software Analysis</a></li>
+	<!-- <li><a href="http://dx.doi.org/10.2312/eurovisstar.20151114" class="external">Malicious Software Analysis</a></li> -->
 	<li><a href="https://arxiv.org/abs/1707.06105" class="external">Clinical Gait Analysis for Rehabilitation</a></li>
 	<li><a href="https://research.fhstp.ac.at/en/projects/regiobiograph" class="external">Digital Humanities</a> &amp; <a href="http://ceur-ws.org/Vol-2009/fmt-proceedings-2017-paper12.pdf" class="external">OpenGLAM</a></li>
 	<li><a href="https://github.com/fhstp/easynwk-web" class="external">Diagnosis and Reflection in Social Work</a></li>
+    <li><a href="https://research.fhstp.ac.at/en/projects/josef-ressel-center-industrial-data-lab" class="external">Industrial Manufacturing Data</a></li>
 	<!-- <li>Business Intelligence</li> -->
     </ul>
     </li>
@@ -80,4 +81,5 @@ at the Vienna University of Technology.
     <li><a rel="me" href="http://orcid.org/0000-0001-8788-4600" class="external">ORCID</a></li>
     <li><a rel="me" href="http://dl.acm.org/author_page.cfm?id=81488671213&role=Author" class="external">ACM&nbsp;DL</a></li>
     <li><a rel="me" href="https://www.researchgate.net/profile/Alexander_Rind" class="external">ResearchGate</a></li>
+    <li><a rel="me" href="https://www.wikidata.org/wiki/Q43824546" class="external">WikiData</a></li>
 </ul>
