@@ -234,7 +234,7 @@ Blumenstein, K., Niederer, C., Wagner, M., Schmiedl, G., Rind, A. &amp; Aigner, 
 __[Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space](https://phaidra.fhstp.ac.at/download/o:4873){: .pdf}__,
 _Proceedings of 2016 Workshop on Beyond Time And Errors: Novel Evaluation Methods For Visualization (BELiV),_
 p.&nbsp;125-132, Baltimore, MD, ACM, 2016.
-doi:[10.1145/2993901.2993906](https://dx.doi.org/10.1145/2993901.2993906){: .external}
+doi:[10.1145/2993901.2993906](https://dl.acm.org/doi/10.1145/2993901.2993906?cid=81488671213){: .external}
 
 Wagner, M., Blumenstein, K., Rind, A., Seidl, M., Schmiedl, G., Lammarsch, T. &amp; Aigner, W.:
 __[Native Cross-platform Visualization: A Proof of Concept Based on the Unity3D Game Engine](https://research.fhstp.ac.at/content/download/89507/file/IV2016_UnityVis_Wagner.pdf){: .pdf}__,
@@ -294,13 +294,13 @@ Rind, A.; Aigner, W.; Wagner, M.; Miksch, S. &amp; Lammarsch, T.:
 __[User Tasks for Evaluation: Untangling the Terminology Throughout Visualization Design and Development](https://publik.tuwien.ac.at/files/PubDat_232654.pdf){: .pdf}__,
 Lam, H.; Isenberg,  P.; Isenberg T. &amp; Sedlmair M. (eds.), _Proceedings of the Fifth Workshop on Beyond Time and Errors: Novel Evaluation Methods for Visualization, BELIV,_
 p.&nbsp;9-15, New York, ACM, 2014.
-doi:[10.1145/2669557.2669568](https://dx.doi.org/10.1145/2669557.2669568){: .external}
+doi:[10.1145/2669557.2669568]( https://dl.acm.org/doi/10.1145/2669557.2669568?cid=81488671213){: .external}
 
 Wagner, M.; Aigner, W.; Rind, A.; Dornhackl, H.; Kadletz, K.; Luh, R. &amp; Tavolato, P.:
 __[Problem Characterization and Abstraction for Visual Analytics in Behavior-Based Malware Pattern Analysis](http://ifs.tuwien.ac.at/~rind/preprint/wagner_2014_VizSec_problem.pdf){: .pdf}__,
 Whitley, K.; Engle, S.; Harrison, L.; Fischer, F. &amp; Prigent N. (eds.), _Proceedings of the Eleventh Workshop on Visualization for Cyber Security, VizSec,_
 p.&nbsp;9-16, New York, ACM, 2014.
-doi:[10.1145/2671491.2671498](https://dx.doi.org/10.1145/2671491.2671498){: .external}
+doi:[10.1145/2671491.2671498](https://dl.acm.org/doi/10.1145/2671491.2671498?cid=81488671213){: .external}
 <!-- (acceptance rate 28%) -->
 
 B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
@@ -313,7 +313,7 @@ Federico, P.; Hoffmann, S.; Rind, A.; Aigner, W. &amp; Miksch, S.:
 __[Qualizon Graphs: Space-Efficient Time-Series Visualization with Qualitative Abstractions](https://publik.tuwien.ac.at/files/PubDat_228036.pdf){: .pdf}__,
 <!-- (eds.), --> _Proceedings of the 2014 International Working Conference on Advanced Visual Interfaces, AVI,_
 p.&nbsp;273-280, ACM, 2014.
-doi:[10.1145/2598153.2598172](https://dx.doi.org/10.1145/2598153.2598172){: .external}
+doi:[10.1145/2598153.2598172](https://dl.acm.org/doi/10.1145/2598153.2598172?cid=81488671213){: .external}
 
 Lammarsch, T.; Aigner, W.; Bertone, A.; Miksch, S. &amp; Rind, A.:
 __[Mind the Time: Unleashing the Temporal Aspects in Pattern Discovery](https://publik.tuwien.ac.at/files/PubDat_218046.pdf){: .pdf}__,
