@@ -173,7 +173,7 @@ Enge, K., Rind, A., Iber, M., Höldrich, R. &amp; Aigner, W.:
 __[It's about Time: Adopting Theoretical Constructs from Visualization for Sonification](https://dl.acm.org/doi/pdf/10.1145/3478384.3478415){: .pdf}__,
 _Proc. Audio Mostly 2021 (AM),_
 p.&nbsp;64-71, ACM, 2021.
-doi:[10.1145/3478384.3478415](https://doi.org/10.1145/3478384.3478415){: .external}
+doi:[10.1145/3478384.3478415](https://doi.org/10.1145/3478384.3478415){: .external} (open access)
 
 Rind, A., Wagner, M. &amp; Aigner, W.:
 __[Towards a Structural Framework for Explicit Domain Knowledge in Visual Analytics](https://arxiv.org/pdf/1908.07752){: .pdf}__,
@@ -234,7 +234,7 @@ Blumenstein, K., Niederer, C., Wagner, M., Schmiedl, G., Rind, A. &amp; Aigner, 
 __[Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space](https://phaidra.fhstp.ac.at/download/o:4873){: .pdf}__,
 _Proceedings of 2016 Workshop on Beyond Time And Errors: Novel Evaluation Methods For Visualization (BELiV),_
 p.&nbsp;125-132, Baltimore, MD, ACM, 2016.
-doi:[10.1145/2993901.2993906](https://dl.acm.org/doi/10.1145/2993901.2993906?cid=81488671213){: .external}
+doi:[10.1145/2993901.2993906](https://dl.acm.org/doi/10.1145/2993901.2993906?cid=81488671213){: .external} (free access)
 
 Wagner, M., Blumenstein, K., Rind, A., Seidl, M., Schmiedl, G., Lammarsch, T. &amp; Aigner, W.:
 __[Native Cross-platform Visualization: A Proof of Concept Based on the Unity3D Game Engine](https://research.fhstp.ac.at/content/download/89507/file/IV2016_UnityVis_Wagner.pdf){: .pdf}__,
@@ -294,13 +294,13 @@ Rind, A.; Aigner, W.; Wagner, M.; Miksch, S. &amp; Lammarsch, T.:
 __[User Tasks for Evaluation: Untangling the Terminology Throughout Visualization Design and Development](https://publik.tuwien.ac.at/files/PubDat_232654.pdf){: .pdf}__,
 Lam, H.; Isenberg,  P.; Isenberg T. &amp; Sedlmair M. (eds.), _Proceedings of the Fifth Workshop on Beyond Time and Errors: Novel Evaluation Methods for Visualization, BELIV,_
 p.&nbsp;9-15, New York, ACM, 2014.
-doi:[10.1145/2669557.2669568]( https://dl.acm.org/doi/10.1145/2669557.2669568?cid=81488671213){: .external}
+doi:[10.1145/2669557.2669568]( https://dl.acm.org/doi/10.1145/2669557.2669568?cid=81488671213){: .external} (free access)
 
 Wagner, M.; Aigner, W.; Rind, A.; Dornhackl, H.; Kadletz, K.; Luh, R. &amp; Tavolato, P.:
-__[Problem Characterization and Abstraction for Visual Analytics in Behavior-Based Malware Pattern Analysis](http://ifs.tuwien.ac.at/~rind/preprint/wagner_2014_VizSec_problem.pdf){: .pdf}__,
+__[Problem Characterization and Abstraction for Visual Analytics in Behavior-Based Malware Pattern Analysis](https://arind.media.fhstp.ac.at/preprint/Wagner_2014_VizSec_Problem.pdf){: .pdf}__,
 Whitley, K.; Engle, S.; Harrison, L.; Fischer, F. &amp; Prigent N. (eds.), _Proceedings of the Eleventh Workshop on Visualization for Cyber Security, VizSec,_
 p.&nbsp;9-16, New York, ACM, 2014.
-doi:[10.1145/2671491.2671498](https://dl.acm.org/doi/10.1145/2671491.2671498?cid=81488671213){: .external}
+doi:[10.1145/2671491.2671498](https://dl.acm.org/doi/10.1145/2671491.2671498?cid=81488671213){: .external} (free access)
 <!-- (acceptance rate 28%) -->
 
 B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
@@ -313,7 +313,7 @@ Federico, P.; Hoffmann, S.; Rind, A.; Aigner, W. &amp; Miksch, S.:
 __[Qualizon Graphs: Space-Efficient Time-Series Visualization with Qualitative Abstractions](https://publik.tuwien.ac.at/files/PubDat_228036.pdf){: .pdf}__,
 <!-- (eds.), --> _Proceedings of the 2014 International Working Conference on Advanced Visual Interfaces, AVI,_
 p.&nbsp;273-280, ACM, 2014.
-doi:[10.1145/2598153.2598172](https://dl.acm.org/doi/10.1145/2598153.2598172?cid=81488671213){: .external}
+doi:[10.1145/2598153.2598172](https://dl.acm.org/doi/10.1145/2598153.2598172?cid=81488671213){: .external} (free access)
 
 Lammarsch, T.; Aigner, W.; Bertone, A.; Miksch, S. &amp; Rind, A.:
 __[Mind the Time: Unleashing the Temporal Aspects in Pattern Discovery](https://publik.tuwien.ac.at/files/PubDat_218046.pdf){: .pdf}__,
@@ -395,7 +395,7 @@ doi:<a href="https://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="ext
 
 <p id="Aigner_2009__InfoVis:Wiki">
  Aigner, W.; Rind, A. &amp; Miksch, S.:
- <a class="pdf" href="http://www.ifs.tuwien.ac.at/~rind/preprint/aigner_2009_infovis-wiki.pdf"><b>InfoVis:Wiki (http://www.infovis-wiki.net): A Community Platform for Information Visualization</b></a>,
+ <a class="pdf" href="https://arind.media.fhstp.ac.at/preprint/aigner_2009_infovis-wiki.pdf"><b>InfoVis:Wiki (http://www.infovis-wiki.net): A Community Platform for Information Visualization</b></a>,
  <em>Proceedings of VisWeek 2009 workshop ``Putting Visualization on the Web''</em>, Atlantic City, NJ, 2009.
 </p>
 
@@ -455,7 +455,7 @@ A.O. Ospedali Riuniti Marche Nord, Pesaro, Italy, October 21, 2015.
 [video of talk](https://youtu.be/EjtegPn6bbc){: .external}
 
 Rind, A.:
-__Visual Analytics with a Focus on Time__,
+__[Visual Analytics with a Focus on Time](https://arind.media.fhstp.ac.at/preprint/20150121_TimeVis_Marseille_Invited-Talk.pdf)__,
 Invited talk at
 Blaise, J.-Y. (ed.), _MAP 2015 -- Modeles et simulations pour l'Architecture et le Patrimoine,_
 Campus CNRS Joseph Aiguier, Marseille, France, January 21, 2015.
@@ -471,7 +471,7 @@ VRVis, Vienna, Austria, June 6, 2012.
 
 ## Miscellaneous &amp; German Articles {#misc}
 
-Rind, A. & Böck, J.,
+Rind, A. & Böck, J.:
 __easyNWK: a digital tool for ego-centered network diagnostics in social work__.
 Abstract/presentation at _6th International Conference on Creative\Media/Technologies (IConCMT),_
 St. Poelten, Nov., 2024.
@@ -487,12 +487,12 @@ Schulz H.-J. &amp; Isenberg, T. (eds.), _Proc. EuroVis Panels,_
 5 pages,  EuroGraphics, 2024.
 doi:[10.2312/evt.20241100](https://doi.org/10.2312/evt.20241100){: .external}
 
-Böck, J., Rind, A., & Zahorka, F.,
+Böck, J., Rind, A., & Zahorka, F.:
 __Personnel Fluctuation in Austrian Emergency Medical Services: A Data Visualisation Approach__,
 Abstract/presentation at _5th International Conference on Creative\Media/Technologies (IConCMT),_
 St. Poelten, Nov., 2023.
 
-Rind, A., Aigner, W., Boucher, M., Grassinger, F., Größbacher, S., Popp, L., & Pflegerl, J.,
+Rind, A., Aigner, W., Boucher, M., Grassinger, F., Größbacher, S., Popp, L., & Pflegerl, J.:
 __Data-Driven Infographics for Counselling Interviews with Family Caregivers in Dementia Care__
 Abstract/presentation at _5th International Conference on Creative\Media/Technologies (IConCMT),_
 St. Poelten, Nov., 2023.
@@ -640,18 +640,16 @@ St. Pölten, Austria, April 22, 2016.
 <!-- [blog post](https://www.validproject.at/2016/05/long-night-of-research-2016/){: .external} -->
 
 Aigner, W.; Niederer, C; Rind, A. &amp; Wagner, M.:
-__Aus Daten schlau werden: Visual Analytics mit einem Fokus auf Zeit__,
+__[Aus Daten schlau werden: Visual Analytics mit einem Fokus auf Zeit](https://arind.media.fhstp.ac.at/preprint/aigner_2015_ern.pdf)__,
 _European Researchers' Night: F.I.T. for Future_,
 Vienna, Austria, September 25, 2015.
-<!-- https://www.fit-for-future.at/aus-daten-schlau-werden-visual-analytics-mit-einem-fokus-auf-zeit
-https://www.ifs.tuwien.ac.at/~rind/preprint/aigner_2015_ern.pdf -->
+<!-- https://www.fit-for-future.at/aus-daten-schlau-werden-visual-analytics-mit-einem-fokus-auf-zeit -->
 
 Aigner, W.; Haberson, A; Rind, A. &amp; Wagner, M.:
-__Durchblick: Aus Daten schlau werden__,
+__[Durchblick: Aus Daten schlau werden](https://arind.media.fhstp.ac.at/preprint/aigner_2014_ern.pdf)__,
 _European Researchers' Night: F.I.T. for Future_,
 Vienna, Austria, September 26, 2014.
-<!-- https://www.ifs.tuwien.ac.at/~rind/preprint/aigner_2014_ern.pdf
- https://www.fit-for-future.at/durchblick-aus-daten-schlau-werden-2 -->
+<!-- https://www.fit-for-future.at/durchblick-aus-daten-schlau-werden-2 -->
 
 M&uuml;hlmann, K.; Bertone, A.; Bauer, I.; Klinka, P.; Lammarsch, T.; Mayr, E.; Miksch, S.; Rind, A.; Siebenhandl, K.; Smuc, M.; Wiel&auml;nder, M.; Windhager, F. &amp; Zenk, L.:
 __Sehen &amp; Gesehen werden__,
