@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2024-12-12
+mod-date: 2025-01-31
 ---
 
 <ul class="toc">
@@ -203,7 +203,7 @@ Fachhochschule Salzburg, 2018.
 handle:[123456789/1070](http://ffhoarep.fh-ooe.at/handle/123456789/1070){: .external}
 
 Federico, P., Wagner, M., Rind, A., Amor-Amoros, A., Miksch, S. &amp; Aigner, W.:
-__[The Role of Explicit Knowledge: A Conceptual Model of Knowledge-Assisted Visual Analytics](https://publik.tuwien.ac.at/files/publik_261674.pdf){: .pdf}__,
+__[The Role of Explicit Knowledge: A Conceptual Model of Knowledge-Assisted Visual Analytics](https://research.fhstp.ac.at/content/download/89486/file/federico-wagner_2017_knava-model.pdf){: .pdf}__,
 Fisher, B., Liu, S. &amp; Schreck, T. (eds.), _Proc. IEEE Conference on Visual Analytics Science and Technology (VAST),_
 p.&nbsp;92-103, IEEE, 2017.
 doi:[10.1109/VAST.2017.8585498](https://doi.org/10.1109/VAST.2017.8585498){: .external}
@@ -268,7 +268,7 @@ doi:[10.1109/VAST.2015.7347672](https://dx.doi.org/10.1109/VAST.2015.7347672){: 
 <!-- best poster award -->
 
 Wagner, M.; Fischer, F.; Luh, R.; Haberson, A.; Rind, A.; Keim, D. A. &amp; Aigner, W.:
-__[A Survey of Visualization Systems for Malware Analysis](https://publik.tuwien.ac.at/files/PubDat_238853.pdf){: .pdf}__,
+__[A Survey of Visualization Systems for Malware Analysis](https://arind.media.fhstp.ac.at/preprint/wagner_2015_eurovis_star_malwarevis_postprint_reduced.pdf){: .pdf}__,
 Borgo, R.; Ganovelli, F. &amp; Viola, I. (eds.), _Proceedings of Eurographics Conference on Visualization (EuroVis) State of The Art Reports,_
 p.&nbsp;105-125, Cagliari, Italy, Eurographics, 2015.
 doi:[10.2312/eurovisstar.20151114](https://dx.doi.org/10.2312/eurovisstar.20151114){: .external}
@@ -389,7 +389,7 @@ doi:<a href="https://dx.doi.org/10.2312/PE/EuroVAST/EuroVA11/009-012" class="ext
 
 <p id="Aigner_2009_chi_InteractivelyExploringTime-OrientedData">
  Aigner, W.; Bertone, A.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
- <a class="pdf" href="https://publik.tuwien.ac.at/files/PubDat_217974.pdf"><b>Interactively Exploring Time-Oriented Data</b></a>,
+ <a class="pdf" href="https://arind.media.fhstp.ac.at/preprint/aigner_2009_chi_interactively-exploring.pdf"><b>Interactively Exploring Time-Oriented Data</b></a>,
  <em>Workshop Notes of CHI 2009 workshop ``Interacting with temporal data'' at Conference on Human Factors in Computing Systems (CHI 2009)</em>, Boston, MA, ACM Press, 2009.
 </p>
 
