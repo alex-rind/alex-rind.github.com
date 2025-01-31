@@ -25,7 +25,7 @@ mod-date: 2024-12-12
 ## Refereed Journal Articles {#article}
 
 Enge, K., Elmquist, E., Caiola, V., Rönnberg, N., Rind, A., Iber, M., Lenzi, S., Lan, F., Höldrich, R. &amp; Aigner, W.:
-__[Open Your Ears and Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization](https://phaidra.fhstp.ac.at/download/o:5541){: .pdf}__,
+__[Open Your Ears and Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization](https://phaidra.fhstp.ac.at/api/object/o:5541/download){: .pdf}__,
 _Computer Graphics Forum, Special Issue &quot;EuroVis 2024&quot;,_
 <!-- forthcoming, 2024. -->
 Vol. 43, No. 3, e15114, 30 pages, 2024.
@@ -46,7 +46,7 @@ Vol. 27, No. 5, p. 1949–1963, 2023.
 doi:[10.1007/s00779-023-01720-5](https://doi.org/10.1007/s00779-023-01720-5){: .external}
 
 Stoiber, C.; Rind, A.; Grassinger, F.; Gutounig, R.; Goldgruber, E.; Sedlmair, M.; Emrich; S. &amp; Aigner; W.:
-__[netflower: Dynamic Network Visualization for Data Journalists](https://phaidra.fhstp.ac.at/download/o:4838){: .pdf}__,
+__[netflower: Dynamic Network Visualization for Data Journalists](https://phaidra.fhstp.ac.at/api/object/o:4838/download){: .pdf}__,
 _Computer Graphics Forum, Special Issue &quot;EuroVis 2019&quot;,_
 Vol. 38, No. 3, p. 699–711, 2019.
 doi:[10.1111/cgf.13721 ](https://doi.org/10.1111/cgf.13721){: .external}
@@ -61,7 +61,7 @@ doi:[10.1109/TVCG.2017.2785271](https://doi.org/10.1109/TVCG.2017.2785271){: .ex
 Preprint available as [arXiv:1707.06105 [cs.HC]](https://arxiv.org/abs/1707.06105){: .external}
 
 Andrienko, N.; Lammarsch,  T.; Andrienko, G.; Fuchs, G.; Keim, D.; Miksch, S. &amp; Rind, A.:
-__[Viewing Visual Analytics as Model Building](https://publik.tuwien.ac.at/files/publik_270968.pdf){: .pdf}__,
+__[Viewing Visual Analytics as Model Building](https://arind.media.fhstp.ac.at/preprint/andrienko_2018_cgf_model-building_postprint.pdf){: .pdf}__,
 _Computer Graphics Forum,_
 Vol. 37, No. 6, p. 275-299, 2018.
 doi:[10.1111/cgf.13324](https://doi.org/10.1111/cgf.13324){: .external} \\
@@ -70,7 +70,7 @@ Please contact me for a preprint version
 or access a [free read-only version](https://rdcu.be/FVnu){: .external}.</span> -->
 
 B&ouml;gl, M.; Filzmoser, P.; Gschwandtner, T.; Lammarsch, T.; Leite, R. A.; Miksch, S. &amp; Rind, A.:
-__[Cycle Plot Revisited: Multivariate Outlier Detection Using a Distance-Based Abstraction](https://publik.tuwien.ac.at/files/publik_260233.pdf){: .pdf}__,
+__[Cycle Plot Revisited: Multivariate Outlier Detection Using a Distance-Based Abstraction](https://arind.media.fhstp.ac.at/preprint/boegl_2017_cycleplotrevisited_postprint.pdf){: .pdf}__,
 _Computer Graphics Forum, Special Issue &quot;EuroVis 2017&quot;,_
 Vol. 36, No. 3, p. 227-238, 2017.
 doi:[10.1111/cgf.13182](https://doi.org/10.1111/cgf.13182){: .external}
@@ -85,7 +85,7 @@ doi:[10.1016/j.cose.2017.02.003](https://doi.org/10.1016/j.cose.2017.02.003){: .
 Preprint available as [arXiv:1612.06232 [cs.CR]](https://arxiv.org/abs/1612.06232){: .external}
 
 Rind, A.; Aigner, W.; Wagner, M.; Miksch, S. &amp; Lammarsch, T.:
-__[Task Cube: A Three-Dimensional Conceptual Space of User Tasks in Visualization Design and Evaluation](https://publik.tuwien.ac.at/files/PubDat_247156.pdf){: .pdf}__,
+__[Task Cube: A Three-Dimensional Conceptual Space of User Tasks in Visualization Design and Evaluation](https://arind.media.fhstp.ac.at/preprint/rind_2016_ivi_task-cube_postprint.pdf){: .pdf}__,
 _Information Visualization, special section on Evaluation_,
  Vol. 15, No. 4, p. 288-300, 2016.
 <!--published online before print December 27, 2015.-->
@@ -93,7 +93,7 @@ doi:[10.1177/1473871615621602](https://doi.org/10.1177/1473871615621602){: .exte
 
 <p>
  Lammarsch, T.; Aigner, W.; Bertone, A.; Miksch, S. &amp; Rind, A.:
- <b><a href="https://publik.tuwien.ac.at/files/PubDat_220406.pdf" class="pdf">Mind the Time: Unleashing the Temporal Aspects in Pattern Discovery</a></b>,
+ <b><a href="https://arind.media.fhstp.ac.at/preprint/PubDat_220406.pdf" class="pdf">Mind the Time: Unleashing the Temporal Aspects in Pattern Discovery</a></b>,
  <em>Computers &amp; Graphics, Special Section on Visual Analytics</em>,
  Vol. 38, p. 38-50, 2014.
  doi:<a href="https://doi.org/10.1016/j.cag.2013.10.007" class="external">10.1016/j.cag.2013.10.007</a>
@@ -102,7 +102,7 @@ doi:[10.1177/1473871615621602](https://doi.org/10.1177/1473871615621602){: .exte
 
 <p>
  Rind, A.; Lammarsch, T.; Aigner, W.; Alsallakh, B. &amp; Miksch, S.:
- <b><a href="https://publik.tuwien.ac.at/files/PubDat_219700.pdf" class="pdf">TimeBench: A Data Model and Software Library for Visual Analytics of Time-Oriented Data</a></b>,
+ <b><a href="https://arind.media.fhstp.ac.at/preprint/PubDat_219700.pdf" class="pdf">TimeBench: A Data Model and Software Library for Visual Analytics of Time-Oriented Data</a></b>,
  <em>IEEE Transactions on Visualization and Computer Graphics, Special Issue &quot;VIS 2013&quot;</em>,
  Vol. 19, No. 12, p. 2247-2256, 2013.
  doi:<a href="https://doi.org/10.1109/TVCG.2013.206" class="external">10.1109/TVCG.2013.206</a>
@@ -110,7 +110,7 @@ doi:[10.1177/1473871615621602](https://doi.org/10.1177/1473871615621602){: .exte
 
 <p>
  Rind, A.; Wang, T. D.; Aigner, W.; Miksch, S.; Wongsuphasawat, K.; Plaisant, C. &amp; Shneiderman, B.:
- <b><a href="https://publik.tuwien.ac.at/files/PubDat_214284.pdf" class="pdf">Interactive
+ <b><a href="https://arind.media.fhstp.ac.at/preprint/PubDat_214284.pdf" class="pdf">Interactive
  Information Visualization to Explore and Query Electronic Health Records</a></b>,
  <em>Foundations and Trends in Human-Computer Interaction</em>, Vol. 5, No. 3, p. 207-298, 2013.
  doi:<a href="https://doi.org/10.1561/1100000039" class="external">10.1561/1100000039</a><br />
@@ -120,7 +120,7 @@ doi:[10.1177/1473871615621602](https://doi.org/10.1177/1473871615621602){: .exte
 
 <p>
  Aigner, W.; Hoffmann, S. &amp; Rind, A.:
- <b><a href="https://publik.tuwien.ac.at/files/PubDat_217457.pdf" class="pdf">EvalBench: A Software Library for Visualization Evaluation</a></b>,
+ <b><a href="https://arind.media.fhstp.ac.at/preprint/PubDat_217457.pdf" class="pdf">EvalBench: A Software Library for Visualization Evaluation</a></b>,
  <em>Computer Graphics Forum, Special Issue &quot;EuroVis 2013&quot;</em>, Vol. 32, No. 3, p. 41-50, 2013.
  doi:<a href="https://doi.org/10.1111/cgf.12091" class="external">10.1111/cgf.12091</a>
  <!-- (acceptance rate 28%) -->
@@ -128,7 +128,7 @@ doi:[10.1177/1473871615621602](https://doi.org/10.1177/1473871615621602){: .exte
 
 <p>
  B&ouml;gl, M.; Aigner, W.; Filzmoser, P.; Lammarsch, T.; Miksch, S. &amp; Rind, A.:
- <b><a href="https://publik.tuwien.ac.at/files/PubDat_220251.pdf" class="pdf">Visual Analytics for Model Selection in Time Series Analysis</a></b>,
+ <b><a href="https://arind.media.fhstp.ac.at/preprint/PubDat_220251.pdf" class="pdf">Visual Analytics for Model Selection in Time Series Analysis</a></b>,
  <em>IEEE Transactions on Visualization and Computer Graphics, Special Issue &quot;VIS 2013&quot;</em>,
  Vol. 19, No. 12, p. 2237-2246, 2013.
  doi:<a href="https://doi.org/10.1109/TVCG.2013.222" class="external">10.1109/TVCG.2013.222</a>
@@ -136,7 +136,7 @@ doi:[10.1177/1473871615621602](https://doi.org/10.1177/1473871615621602){: .exte
 
 <p>
  Aigner, W.; Rind, A. &amp; Hoffmann, S.:
- <b><a href="https://publik.tuwien.ac.at/files/PubDat_207563.pdf" class="pdf">Comparative Evaluation of an
+ <b><a href="https://arind.media.fhstp.ac.at/preprint/aigner_2012_semtimezoom_postprint.pdf" class="pdf">Comparative Evaluation of an
  Interactive Time-Series Visualization that Combines Quantitative Data with Qualitative Abstractions</a></b>,
  <em>Computer Graphics Forum, Special Issue &quot;EuroVis 2012&quot;</em>, Vol. 31, No. 3, p. 995-1004, 2012.
  doi:<a href="https://doi.org/10.1111/j.1467-8659.2012.03092.x" class="external">10.1111/j.1467-8659.2012.03092.x</a>
@@ -145,7 +145,7 @@ doi:[10.1177/1473871615621602](https://doi.org/10.1177/1473871615621602){: .exte
 
 <p>
  Pohl, M.; Wiltner, S.; Miksch, S.; Aigner, W. &amp; Rind, A.:
- <b><a href="https://publik.tuwien.ac.at/files/PubDat_215206.pdf" class="pdf">Analysing Interactivity in Information Visualisation</a></b>,
+ <b><a href="https://arind.media.fhstp.ac.at/preprint/PubDat_215206.pdf" class="pdf">Analysing Interactivity in Information Visualisation</a></b>,
  <em>KI &ndash; K&uuml;nstliche Intelligenz</em>, Vol. 26, No. 2, p. 151-159, 2012.
  doi:<a href="https://doi.org/10.1007/s13218-012-0167-6" class="external">10.1007/s13218-012-0167-6</a>
 </p>
@@ -163,7 +163,7 @@ Preprint available as [arXiv:2208.05232 [cs.HC]](https://arxiv.org/abs/2208.0523
 [open-access screenshot](https://zenodo.org/record/7442945){: .external}
 
 Enge, K., Rind, A., Iber, M., Höldrich, R. &amp; Aigner, W.:
-__[Towards Multimodal Exploratory Data Analysis: SoniScope as a Prototypical Implementation](https://phaidra.fhstp.ac.at/download/o:4883){: .pdf}__,
+__[Towards Multimodal Exploratory Data Analysis: SoniScope as a Prototypical Implementation](https://phaidra.fhstp.ac.at/api/object/o:4883/download){: .pdf}__,
 Höllt, T., Aigner, W. &amp; Agus, M. (eds.), _Proc. Eurographics Conf. Visualization (EuroVis) &ndash; Short Papers,_
 p.&nbsp;67-71, Eurographics, 2022.
 doi:[10.2312/evs.20221095](https://doi.org/10.2312/evs.20221095){: .external}
@@ -209,7 +209,7 @@ p.&nbsp;92-103, IEEE, 2017.
 doi:[10.1109/VAST.2017.8585498](https://doi.org/10.1109/VAST.2017.8585498){: .external}
 
 Rind, A., Haberson, A., Blumenstein, K., Niederer, C. &amp; Aigner, W.:
-__[PubViz: Lightweight Visual Presentation of Publication Data](https://phaidra.fhstp.ac.at/download/o:4834){: .pdf}__,
+__[PubViz: Lightweight Visual Presentation of Publication Data](https://phaidra.fhstp.ac.at/api/object/o:4834/download){: .pdf}__,
 Kozl&iacute;kov&aacute;, B., Schreck, T. &amp; Wischgoll, T. (eds.), _Proc. Eurographics Conf. Visualization (EuroVis) &ndash; Short Papers,_
 p.&nbsp;169-173,  Eurographics, 2017.
 doi:[10.2312/eurovisshort.20171152](https://doi.org/10.2312/eurovisshort.20171152){: .external}
@@ -231,7 +231,7 @@ p.&nbsp;47-52, CEUR-WS.org, 2016.
 uri:<https://ceur-ws.org/Vol-1734/fmt-proceedings-2016-paper6.pdf>{: .external}
 
 Blumenstein, K., Niederer, C., Wagner, M., Schmiedl, G., Rind, A. &amp; Aigner, W.:
-__[Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space](https://phaidra.fhstp.ac.at/download/o:4873){: .pdf}__,
+__[Evaluating Information Visualization on Mobile Devices: Gaps and Challenges in the Empirical Evaluation Design Space](https://phaidra.fhstp.ac.at/api/object/o:4873/download){: .pdf}__,
 _Proceedings of 2016 Workshop on Beyond Time And Errors: Novel Evaluation Methods For Visualization (BELiV),_
 p.&nbsp;125-132, Baltimore, MD, ACM, 2016.
 doi:[10.1145/2993901.2993906](https://dl.acm.org/doi/10.1145/2993901.2993906?cid=81488671213){: .external} (free access)
@@ -482,7 +482,7 @@ Abstract/presentation at _6th International Conference on Creative\Media/Technol
 St. Poelten, Nov., 2024.
 
 Rind, A., Enge, K., Iber, M., Rönnberg, N., Lenzi, S., Elmquist, E., Caiola, V., Lan, F., Höldrich, R. &amp; Aigner, W.:
-__[Integrating Sonification and Visualization—But Why?](https://phaidra.fhstp.ac.at/download/o:5552){: .pdf}__,
+__[Integrating Sonification and Visualization—But Why?](https://phaidra.fhstp.ac.at/api/object/o:5552/download){: .pdf}__,
 Schulz H.-J. &amp; Isenberg, T. (eds.), _Proc. EuroVis Panels,_
 5 pages,  EuroGraphics, 2024.
 doi:[10.2312/evt.20241100](https://doi.org/10.2312/evt.20241100){: .external}
