@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2024-11-29
+mod-date: 2025-06-30
 ---
 
 <ul class="toc">
@@ -14,6 +14,12 @@ mod-date: 2024-11-29
 </ul>
 
 ## funded research projects {#funded}
+
+since 05/2025
+: **DS4LoReMa&mdash;Data Space 4 Local Resources Management**{: .project} \\
+EU European data space for smart communities \\
+[St.&nbsp;P&ouml;lten University of Applied Sciences](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
+[project webpage](https://www.ecoplus.at/vernetzen/ds4lorema){: .external}
 
 since 09/2024
 : [![GreenTouch](img/greentouch_112.png){: align='right'}](https://research.fhstp.ac.at/en/projects/greentouch-xr-in-ergotherapy-for-the-ecological-handprint)
@@ -29,14 +35,14 @@ Christian Doppler Research Association \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences](https://www.fhstp.ac.at/){: .external}, Austria \\
 [project webpage](https://industrial-data-lab.fhstp.ac.at/){: .external}
 
-since 04/2022
+04/2022 &ndash; 03/2025
 : [![TransSoDia](img/TransSoDia_Logo_Farbe_S_112.png){: align='right'}](https://research.fhstp.ac.at/en/projects/transsodia-transnational-and-digital-learning-and-teaching-in-cooperative-social-diagnostics)
 **TransSoDia&mdash;Transnational and Digital Learning and Teaching in Cooperative Social Diagnostics**{: .project} \\
 EU Erasmus+ \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences](https://www.fhstp.ac.at/){: .external}, Austria \\
 [project webpage](https://research.fhstp.ac.at/en/projects/transsodia-transnational-and-digital-learning-and-teaching-in-cooperative-social-diagnostics){: .external}
 
-since 09/2020
+09/2020 &ndash; 02/2025
 : [![SoniVis](img/sonivis-circle_80.png){: align='right'}](https://research.fhstp.ac.at/en/projects/sonivis-data-analytics-using-sonification-and-visualization)
 **SoniVis&mdash;Data Analytics using Sonification and Visualization**{: .project} \\
 Austrian Science Fund (FWF) \\
@@ -231,7 +237,10 @@ Krems Research Forschungsgesellschaft, Austria
 ## reviewing
 
 2025
-: EuroVis Short Papers<sup>PC</sup>
+: IEEE VIS Short Papers<sup>PC</sup> &ndash; 5 papers
+: EuroVis Short Papers<sup>PC</sup> &ndash; 4 papers
+: Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup>
+: Elsevier Computers & Graphics, Special Section EuroVA<sup>E</sup>
 
 2024
 : IEEE VIS Short Papers<sup>PC</sup> &ndash; 4 papers

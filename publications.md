@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2025-01-31
+mod-date: 2025-06-30
 ---
 
 <ul class="toc">
@@ -584,6 +584,11 @@ No. HCIL-2010-19, <em>University of Maryland</em>, College Park, 2010.</p>
 -->
 
 ## Dissemination to a General Audience {#general}
+
+Rind, A.; Boucher, M.; De Jesus Oliveira, V. A.; Grassinger, F.; Stoiber, C.; Tekaya, N.; & Zauchinger, M.:
+__Daten erlebbar machen__,
+_E3UDRES2 Science Festival,_
+St. Pölten, Austria, May 22, 2025.
 
 Rind, A.; Blasinger, A.; Enge, K.; Grassinger, F.; Oliveira, V. A. de. J. &amp; Zauchinger, M.:
 __Wie können wir Daten erlebbar machen?__,
