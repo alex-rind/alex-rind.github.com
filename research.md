@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2025-06-30
+mod-date: 2025-07-18
 ---
 
 <ul class="toc">
@@ -26,28 +26,34 @@ since 09/2024
 **GreenTouch&mdash;XR in Ergotherapy for the Ecological Handprint**{: .project} \\
 Austrian Research Promotion Agency (FFG) \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
-[project webpage](https://research.fhstp.ac.at/en/projects/greentouch-xr-in-ergotherapy-for-the-ecological-handprint){: .external}
+[project webpage](https://research.fhstp.ac.at/en/projects/greentouch-xr-in-ergotherapy-for-the-ecological-handprint){: .external} \\
+[project summary hosted by funder](https://projekte.ffg.at/projekt/5125030){: .external}
 
 since 01/2024
 : [![Industrial Data Lab](img/JRC_IDL_Visual_80.png){: align='right'}](https://industrial-data-lab.fhstp.ac.at/)
 **Industrial Data Lab&mdash;Josef Ressel Center for Knowledge-Assisted Visual Analytics for Industrial Manufacturing Data**{: .project} \\
 Christian Doppler Research Association \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences](https://www.fhstp.ac.at/){: .external}, Austria \\
-[project webpage](https://industrial-data-lab.fhstp.ac.at/){: .external}
+[project webpage](https://industrial-data-lab.fhstp.ac.at/){: .external} \\
+[project summary hosted by funder](https://www.cdg.ac.at/en/research-units/labor/knowledge-assisted-visual-analytics-for-industrial-manufacturing-data){: .external}
 
 04/2022 &ndash; 03/2025
 : [![TransSoDia](img/TransSoDia_Logo_Farbe_S_112.png){: align='right'}](https://research.fhstp.ac.at/en/projects/transsodia-transnational-and-digital-learning-and-teaching-in-cooperative-social-diagnostics)
 **TransSoDia&mdash;Transnational and Digital Learning and Teaching in Cooperative Social Diagnostics**{: .project} \\
 EU Erasmus+ \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences](https://www.fhstp.ac.at/){: .external}, Austria \\
-[project webpage](https://research.fhstp.ac.at/en/projects/transsodia-transnational-and-digital-learning-and-teaching-in-cooperative-social-diagnostics){: .external}
+[project webpage](https://research.fhstp.ac.at/en/projects/transsodia-transnational-and-digital-learning-and-teaching-in-cooperative-social-diagnostics){: .external} \\
+[project summary on Austrian Atlas of Teaching Best Practices](https://gutelehre.at/projekt/transsodia-kooperative-soziale-diagnostik-transnational-und-digital-lehren-und-lernen){: .external}
+
 
 09/2020 &ndash; 02/2025
 : [![SoniVis](img/sonivis-circle_80.png){: align='right'}](https://research.fhstp.ac.at/en/projects/sonivis-data-analytics-using-sonification-and-visualization)
 **SoniVis&mdash;Data Analytics using Sonification and Visualization**{: .project} \\
 Austrian Science Fund (FWF) \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences, Institute of Creative\Media/Technologies](https://www.fhstp.ac.at/icmt){: .external}, Austria \\
-[project webpage](https://research.fhstp.ac.at/en/projects/sonivis-data-analytics-using-sonification-and-visualization){: .external}
+[project webpage](https://research.fhstp.ac.at/en/projects/sonivis-data-analytics-using-sonification-and-visualization){: .external} \\
+[project summary hosted by funder](https://doi.org/10.55776/P33531){: .external} \\
+[project outcomes on the university archive](https://phaidra.fhstp.ac.at/o:7146){: .external}
 
 01/2020 &ndash; 03/2024
 : [![RegioBioGraph](img/regiobiograph-logo_112.png){: align='right'}](https://research.fhstp.ac.at/en/projects/regiobiograph)
@@ -61,7 +67,8 @@ NÖ Forschungs- und Bildungsges.m.b.H. (NFB), FTI \\
 **ReMoCap-Lab&mdash;Laboratory for Capturing Motion and Augmenting Environment in Motor Rehabilitation**{: .project} \\
 Austrian Federal Ministry for Digital And Economic Affairs (BMDW), COIN \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences, Center for Digital Health Innovation](https://cdhi.fhstp.ac.at/en){: .external}, Austria \\
-[project webpage](https://research.fhstp.ac.at/en/projects/remocap-lab){: .external}
+[project webpage](https://research.fhstp.ac.at/en/projects/remocap-lab){: .external} \\
+[project summary hosted by funder](https://projekte.ffg.at/projekt/3014977){: .external}
 
 05/2020 &ndash; 06/2022
 : **Egozentrierte Netzwerkkarte digital!**{: .project} \\

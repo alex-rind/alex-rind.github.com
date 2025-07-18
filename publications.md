@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2025-06-30
+mod-date: 2025-07-18
 ---
 
 <ul class="toc">
@@ -153,6 +153,18 @@ doi:[10.1177/1473871615621602](https://doi.org/10.1177/1473871615621602){: .exte
 [top](#top){: .top_link}
 
 ## Refereed Conference &amp; Workshop Articles {#inproc}
+
+Rind, A., Aigner, W., Boucher, M., Grassinger, F., Größbacher, S., Popp, L., & Pflegerl, J.:
+__[Data-Driven Infographics for Counselling Interviews with Family Caregivers in Dementia Care](https://phaidra.fhstp.ac.at/api/object/o:7233/download){: .pdf}__
+_Proceedings of the International Conference on Creative\Media/Technologies (IConCMT) 2023 and 2024,_
+St. Poelten University of Applied Sciences, 2024.
+doi:[10.60522/o:7233](https://doi.org/10.60522/o:7233){: .external}
+
+Böck, J., Rind, A., & Zahorka, F.:
+__[Personnel Fluctuation in Austrian Emergency Medical Services: A Data Visualisation Approach](https://phaidra.fhstp.ac.at/api/object/o:7216/download){: .pdf}__,
+_Proceedings of the International Conference on Creative\Media/Technologies (IConCMT) 2023 and 2024,_
+St. Poelten University of Applied Sciences, 2024.
+doi:[10.60522/o:7216](https://doi.org/10.60522/o:7216){: .external}
 
 Rind, A., Slijepčević, S., Zeppelzauer, M., Unglaube, F., Kranzl A. &amp; Horsak B.:
 __[Trustworthy Visual Analytics in Clinical Gait Analysis: A Case Study for Patients with Cerebral Palsy](https://arxiv.org/pdf/2208.05232){: .pdf}__,
@@ -471,8 +483,13 @@ VRVis, Vienna, Austria, June 6, 2012.
 
 ## Miscellaneous &amp; German Articles {#misc}
 
+Wagner, M., Stoiber, C., Rind, A., Größbacher, S., Böck, A., Vrablicz, J., Felberbauer, T., Moser, T., & Aigner, W.:
+__JR-Centre for Knowledge-Assisted Visual Analytics for Industrial Manufacturing Data__,
+_Forschungsforum Der Österreichischen Fachhochschulen – Leading-Edge Research Programs,_
+2025.
+
 Rind, A. & Böck, J.:
-__easyNWK: a digital tool for ego-centered network diagnostics in social work__.
+__easyNWK: a digital tool for ego-centered network diagnostics in social work__,
 Abstract/presentation at _6th International Conference on Creative\Media/Technologies (IConCMT),_
 St. Poelten, Nov., 2024.
 
@@ -486,16 +503,6 @@ __[Integrating Sonification and Visualization—But Why?](https://phaidra.fhstp.
 Schulz H.-J. &amp; Isenberg, T. (eds.), _Proc. EuroVis Panels,_
 5 pages,  EuroGraphics, 2024.
 doi:[10.2312/evt.20241100](https://doi.org/10.2312/evt.20241100){: .external}
-
-Böck, J., Rind, A., & Zahorka, F.:
-__Personnel Fluctuation in Austrian Emergency Medical Services: A Data Visualisation Approach__,
-Abstract/presentation at _5th International Conference on Creative\Media/Technologies (IConCMT),_
-St. Poelten, Nov., 2023.
-
-Rind, A., Aigner, W., Boucher, M., Grassinger, F., Größbacher, S., Popp, L., & Pflegerl, J.:
-__Data-Driven Infographics for Counselling Interviews with Family Caregivers in Dementia Care__
-Abstract/presentation at _5th International Conference on Creative\Media/Technologies (IConCMT),_
-St. Poelten, Nov., 2023.
 
 Aigner, W., Enge, K., Iber, M., Rind, A., Elmqvist, N., Höldrich, R., Rönnberg, N. &amp; Walker, B.N.:
 __[Workshop on Audio-Visual Analytics](https://zenodo.org/record/6624212/files/Aigner_et_al_2022_Workshop_on_Audio-Visual_Analytics.pdf?download=1){: .pdf}__,
