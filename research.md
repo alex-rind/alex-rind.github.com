@@ -2,7 +2,7 @@
 layout: default
 title: "research"
 longtitle: "Scientifc Research"
-mod-date: 2025-07-18
+mod-date: 2025-07-30
 ---
 
 <ul class="toc">
@@ -243,10 +243,13 @@ Krems Research Forschungsgesellschaft, Austria
 
 ## reviewing
 
+2026
+: ACM Symposium on Applied Computing (SAC), Applications and Systems for Healthcare (ASH) track<sup>PC</sup>
+
 2025
 : IEEE VIS Short Papers<sup>PC</sup> &ndash; 5 papers
 : EuroVis Short Papers<sup>PC</sup> &ndash; 4 papers
-: Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup>
+: Workshop on Visual Analytics in Healthcare (VAHC)<sup>PC</sup> &ndash; 2 papers
 : Elsevier Computers & Graphics, Special Section EuroVA<sup>E</sup>
 
 2024
