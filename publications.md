@@ -2,7 +2,7 @@
 layout: default
 title: "publications"
 longtitle: "Publications"
-mod-date: 2025-07-18
+mod-date: 2025-09-26
 ---
 
 <ul class="toc">
@@ -23,6 +23,12 @@ mod-date: 2025-07-18
 </ul>
 
 ## Refereed Journal Articles {#article}
+
+Böck, A. J., Größbacher, S., Vrablicz, J., Stoiber, C., Rind, A., Suschnigg, J., Schreck, T., Aigner, W., & Wagner, M.:
+__[KAVAI: A Systematic Review of the Building Blocks for Knowledge-Assisted Visual Analytics in Industrial Manufacturing](https://www.mdpi.com/2076-3417/15/18/10172/pdf?version=1758191198){: .pdf}__,
+_Applied Sciences,_
+Vol. 15, No. 18, 10172, 2025.
+doi:[10.3390/app151810172](https://doi.org/10.3390/app151810172){: .external}
 
 Enge, K., Elmquist, E., Caiola, V., Rönnberg, N., Rind, A., Iber, M., Lenzi, S., Lan, F., Höldrich, R. &amp; Aigner, W.:
 __[Open Your Ears and Take a Look: A State-of-the-Art Report on the Integration of Sonification and Visualization](https://phaidra.fhstp.ac.at/api/object/o:5541/download){: .pdf}__,
@@ -154,8 +160,20 @@ doi:[10.1177/1473871615621602](https://doi.org/10.1177/1473871615621602){: .exte
 
 ## Refereed Conference &amp; Workshop Articles {#inproc}
 
+Rind, A., & Böck, J.:
+__[Visual Tools for Input and Reflection in Social Work](https://arxiv.org/pdf/2509.20307){: .pdf}__,
+_Proc. IEEE VIS Workshop on Input Visualization,_
+2025, forthcoming. \\
+Preprint available as [arXiv:2509.20307 [cs.HC]](https://arxiv.org/abs/2509.20307){: .external}
+
+Vrablicz, J., Rind, A., & Mittermayr, C.:
+__[Problem Characterization for Interactive Knowledge- Assisted Causal Analysis in Injection Moldinge](https://phaidra.fhstp.ac.at/api/object/o:7448/download){: .pdf}__,
+ _1st Workshop on Leveraging SEmaNtics for Transparency in Industrial Systems (SENTIS), Co-Located with SEMANTiCS"25: International Conference on Semantic Systems,_
+Vienna, 2025.
+<!-- doi:[10.60522/o:7233](https://doi.org/10.60522/o:7233){: .external} -->
+
 Rind, A., Aigner, W., Boucher, M., Grassinger, F., Größbacher, S., Popp, L., & Pflegerl, J.:
-__[Data-Driven Infographics for Counselling Interviews with Family Caregivers in Dementia Care](https://phaidra.fhstp.ac.at/api/object/o:7233/download){: .pdf}__
+__[Data-Driven Infographics for Counselling Interviews with Family Caregivers in Dementia Care](https://phaidra.fhstp.ac.at/api/object/o:7233/download){: .pdf}__,
 _Proceedings of the International Conference on Creative\Media/Technologies (IConCMT) 2023 and 2024,_
 St. Poelten University of Applied Sciences, 2024.
 doi:[10.60522/o:7233](https://doi.org/10.60522/o:7233){: .external}

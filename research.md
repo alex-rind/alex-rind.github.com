@@ -43,8 +43,8 @@ Christian Doppler Research Association \\
 EU Erasmus+ \\
 [St.&nbsp;P&ouml;lten University of Applied Sciences](https://www.fhstp.ac.at/){: .external}, Austria \\
 [project webpage](https://research.fhstp.ac.at/en/projects/transsodia-transnational-and-digital-learning-and-teaching-in-cooperative-social-diagnostics){: .external} \\
-[project summary on Austrian Atlas of Teaching Best Practices](https://gutelehre.at/projekt/transsodia-kooperative-soziale-diagnostik-transnational-und-digital-lehren-und-lernen){: .external}
-
+[project summary on Austrian Atlas of Teaching Best Practices](https://gutelehre.at/projekt/transsodia-kooperative-soziale-diagnostik-transnational-und-digital-lehren-und-lernen){: .external} \\
+[project outcomes on the university archive](https://phaidra.fhstp.ac.at/o:7150){: .external}
 
 09/2020 &ndash; 02/2025
 : [![SoniVis](img/sonivis-circle_80.png){: align='right'}](https://research.fhstp.ac.at/en/projects/sonivis-data-analytics-using-sonification-and-visualization)
